@@ -1,5 +1,145 @@
 {
-  "current": "Default",
+  "current": {
+    "colors_solid_button_labels": "#ffffff",
+    "colors_accent_1": "#5c53af",
+    "gradient_accent_1": "radial-gradient(rgba(127, 115, 245, 1) 51%, rgba(88, 79, 173, 1) 77%)",
+    "colors_accent_2": "#584eb6",
+    "gradient_accent_2": "radial-gradient(rgba(127, 115, 245, 1) 17%, rgba(57, 52, 106, 1) 90%)",
+    "colors_text": "#ffffff",
+    "colors_outline_button_labels": "#ffffff",
+    "colors_background_1": "#000000",
+    "gradient_background_1": "",
+    "colors_background_2": "#1e1e1e",
+    "gradient_background_2": "",
+    "type_header_font": "raleway_n4",
+    "type_body_font": "raleway_n4",
+    "buttons_border_opacity": 100,
+    "buttons_radius": 0,
+    "social_facebook_link": "https:\/\/www.facebook.com\/NEBULITEcollection",
+    "social_instagram_link": "https:\/\/www.instagram.com\/nebulite.berlin\/",
+    "social_youtube_link": "https:\/\/www.youtube.com\/c\/NEBULITE_Berlin",
+    "favicon": "shopify:\/\/shop_images\/on_blackxxhdpi.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/vlcsnap-2019-01-27-20h36m22s691_ac2362db-9f52-4bf1-9b7c-b888b04bd323.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/transparent_weiss_beschnitten_5863da66-9e33-440c-a137-b0652300825b.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "small",
+    "checkout_heading_font": "Raleway",
+    "checkout_body_font": "Raleway",
+    "checkout_accent_color": "#7f73f5",
+    "checkout_button_color": "#7f73f5",
+    "checkout_error_color": "#ff6d6d",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "text": "Made in Germany, delivery in 1-2 working days, free shipping & 30 day return policy",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          },
+          "126785e8-b91d-44aa-9b6c-27f9f7c012e5": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "We're out of office until after the Fusion Festival, around 2022-07-04 🥳",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          },
+          "668f43db-e5f5-4dac-9cb4-90102422ebc7": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Welcome to our store",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          },
+          "90821de9-ffd9-465e-85af-bedbdcbda47a": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Welcome to our store",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0",
+          "126785e8-b91d-44aa-9b6c-27f9f7c012e5",
+          "668f43db-e5f5-4dac-9cb4-90102422ebc7",
+          "90821de9-ffd9-465e-85af-bedbdcbda47a"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/transparent_weiss_beschnitten_6e48190f-e969-4487-9168-3d913287eead.png",
+          "logo_width": 190,
+          "logo_position": "top-center",
+          "menu": "main-menu",
+          "menu_type_desktop": "dropdown",
+          "show_line_separator": true,
+          "enable_sticky_header": true,
+          "margin_bottom": 0
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "footer-1": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "heading": "Heading",
+              "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1"
+        ],
+        "settings": {
+          "color_scheme": "background-2",
+          "newsletter_enable": true,
+          "newsletter_heading": "Subscribe to our emails",
+          "show_social": true,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true,
+          "margin_top": 0,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "1513253815146976218": {
+        "type": "shopify:\/\/apps\/omnisend-email-marketing-sms\/blocks\/app-embed\/44704aa2-794f-4c5d-8c8e-039c841158e9",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
   "presets": {
     "Default": {
       "colors_solid_button_labels": "#ffffff",
@@ -135,7 +275,9 @@
           },
           "block_order": [
             "announcement-bar-0"
-          ]
+          ],
+          "settings": {
+          }
         },
         "header": {
           "type": "header",

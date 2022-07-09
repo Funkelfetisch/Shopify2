@@ -217,6 +217,9 @@
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
+      
+    <!-- THIS IS MY CUSTOM CSS -->
+  	{{ 'theme-custom.css' | asset_url | stylesheet_tag }}
 
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
@@ -234,7 +237,23 @@
       document.documentElement.classList.add('shopify-design-mode');
     }
     </script>
-  </head>
+    
+    <!-- CUSTOM -->
+   {% if
+  request.page_type == 'product'
+%}  
+
+ {% render 'infiniteoptions-dynamicbundlepricing' %}
+ {% render 'nebulite_weglot_hreftags' %}
+ {% render 'nebulite_weglot_switcher' %}  
+
+{% endif %}
+    <!-- end CUSTOM -->
+    
+    
+    
+    {% render 'translation-lab-language-management' %}
+</head>
 
   <body class="gradient">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
@@ -290,5 +309,40 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
-  </body>
+    
+    
+    
+{% if request.page_type == 'product' %}
+    {% assign productTags = product.tags | join: ', ' %}
+    {% if productTags contains 'WeglotTranslate' %}
+
+    <script>
+        Weglot.on("switchersReady", function(initialLanguage) {
+  			Weglot.switchTo("{{ shop.locale }}");
+        });
+          
+          
+              
+  function defer(method) {
+    if (typeof window.jQuery != 'undefined') {
+        method();
+    } else {
+        setTimeout(function() { defer(method) }, 50);
+    }
+}
+          
+    defer(function () {
+      Weglot.switchTo("{{ shop.locale }}");
+    });
+          
+    </script>
+    
+	{% endif %}
+{% endif %}
+    
+    
+    
+    
+  <script type="text/javascript" async="" src="https://reviews.enormapps.com/product-reviews/frontend/embed.js"></script>
+</body>
 </html>

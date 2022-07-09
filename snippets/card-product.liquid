@@ -113,6 +113,7 @@
               >
                 {{ card_product.title | escape }}
               </a>
+              <div class="enorm-shopify-product-reviews" data-id="{{ card_product.id }}"></div>
             </h3>
           </div>
           <div class="card__badge {{ settings.badge_position }}">
@@ -150,6 +151,8 @@
             >
               {{ card_product.title | escape }}
             </a>
+                          <div class="enorm-shopify-product-reviews" data-id="{{ card_product.id }}"></div>
+
           </h3>
           <div class="card-information">
             {%- if show_vendor -%}
@@ -340,6 +343,8 @@
               <a role="link" aria-disabled="true" class="full-unstyled-link">
                 {{ 'onboarding.product_title' | t }}
               </a>
+                            <div class="enorm-shopify-product-reviews" data-id="{{ card_product.id }}"></div>
+
             </h3>
           </div>
         </div>
@@ -350,6 +355,8 @@
             <a role="link" aria-disabled="true" class="full-unstyled-link">
               {{ 'onboarding.product_title' | t }}
             </a>
+                          <div class="enorm-shopify-product-reviews" data-id="{{ card_product.id }}"></div>
+
           </h3>
           <div class="card-information">
             {%- if show_vendor -%}

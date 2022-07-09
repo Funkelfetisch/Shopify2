@@ -1,0 +1,6 @@
+{%- comment -%} Variables set by Weglot's preferences panel {%- endcomment -%}
+{%- assign main_domain = canonical_url | split: '://' | last | split: '/' | first | split: 'www.' | last -%}
+
+{%- unless request.path == "/" or request.path contains "/collections/" or request.path contains "/products/nebulite-powerbank" or request.path contains "/products/festtagsbox" or request.path contains "/products/light-up-grade-set" or request.path contains "/products/nebulite-drawstring-backpack-fiber-optic-illuminated-festival-bag" or request.path contains "/products/nebulite-powerbank" -%}
+
+{%- endunless -%}
