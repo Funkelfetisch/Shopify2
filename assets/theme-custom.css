@@ -386,8 +386,7 @@ a.lSPrev::before, a.lSNext::before {
 
 /*
 .video-section {
-    height: 125vw; /* 125% of viewport WIDTH (4x5 video!) TODO: dynamic solution for landscape/portrait orientation */
-}
+    height: 125vw; } /* 125% of viewport WIDTH (4x5 video!) TODO: dynamic solution for landscape/portrait orientation */
 */
 
 .video-section__player-close {
