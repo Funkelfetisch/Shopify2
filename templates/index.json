@@ -110,7 +110,7 @@
         "1655838275e35dde54-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "<p>Image with text</p>",
             "heading_size": "h1"
           }
         },
@@ -154,7 +154,7 @@
         "1652574569d1665d7c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Our topseller",
+            "heading": "<p>Our topseller</p>",
             "heading_size": "h1"
           }
         }
