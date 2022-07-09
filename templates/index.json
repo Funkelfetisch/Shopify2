@@ -1,211 +1,764 @@
 {
-  "sections": {
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+    "sections": {
+      "image_banner": {
+        "type": "image-banner",
+        "disabled": true,
+        "blocks": {
+          "heading": {
+            "type": "heading",
+            "settings": {
+              "heading": "10% OFF for subscribers",
+              "heading_size": "medium"
+            }
+          },
+          "c8447dad-4631-4f6f-ac75-5fa24d14c948": {
+            "type": "text",
+            "settings": {
+              "text": "Click the yellow button below and be part of the family. Very un-spammily once a month!",
+              "text_style": "body"
+            }
+          },
+          "5883aef6-b1a4-4ae1-86f1-3a3e8df081f8": {
+            "type": "buttons",
+            "settings": {
+              "button_label_1": "",
+              "button_link_1": "#shopify-section-template--16000261423362__1652574569f3e7dab4",
+              "button_style_secondary_1": false,
+              "button_label_2": "",
+              "button_link_2": "",
+              "button_style_secondary_2": false
+            }
           }
         },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
+        "block_order": [
+          "heading",
+          "c8447dad-4631-4f6f-ac75-5fa24d14c948",
+          "5883aef6-b1a4-4ae1-86f1-3a3e8df081f8"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/L1006405-20.jpg",
+          "image_overlay_opacity": 0,
+          "image_height": "medium",
+          "adapt_height_first_image": true,
+          "desktop_content_position": "bottom-center",
+          "show_text_box": false,
+          "desktop_content_alignment": "center",
+          "color_scheme": "background-1",
+          "mobile_content_alignment": "center",
+          "stack_images_on_mobile": true,
+          "show_text_below": true
         }
       },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+      "16526308803d67e56f": {
+        "type": "slideshow",
+        "blocks": {
+          "1652630879bc77801a-0": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/L1006405-20.jpg",
+              "heading": "Is your crew ready for the festival summer?",
+              "heading_size": "h1",
+              "subheading": "Get our crew packages with up to 20% OFF!",
+              "button_label": "Check the product details for our discount codes!",
+              "link": "#shopify-section-template--16000261423362__1652574569f3e7dab4",
+              "button_style_secondary": true,
+              "box_align": "bottom-center",
+              "show_text_box": false,
+              "text_alignment": "center",
+              "image_overlay_opacity": 0,
+              "color_scheme": "background-1",
+              "text_alignment_mobile": "center"
+            }
+          },
+          "1652630879bc77801a-1": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/L1005454.jpg",
+              "heading": "10 OFF% for subscribers",
+              "heading_size": "h1",
+              "subheading": "Click the yellow button below and be part of the family. Very non-spammy once a month!",
+              "button_label": "",
+              "link": "",
+              "button_style_secondary": false,
+              "box_align": "bottom-center",
+              "show_text_box": false,
+              "text_alignment": "center",
+              "image_overlay_opacity": 0,
+              "color_scheme": "background-1",
+              "text_alignment_mobile": "center"
+            }
           }
         },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
+        "block_order": [
+          "1652630879bc77801a-0",
+          "1652630879bc77801a-1"
+        ],
+        "settings": {
+          "layout": "full_bleed",
+          "slide_height": "adapt_image",
+          "slider_visual": "dots",
+          "auto_rotate": true,
+          "change_slides_speed": 5,
+          "show_text_below": true,
+          "accessibility_info": "Slideshow about our brand"
         }
       },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
+      "1655838275a3ec8c41": {
+        "type": "image-with-text",
+        "disabled": true,
+        "blocks": {
+          "1655838275e35dde54-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Image with text",
+              "heading_size": "h1"
+            }
+          },
+          "1655838275e35dde54-1": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+              "text_style": "body"
+            }
+          },
+          "1655838275e35dde54-2": {
+            "type": "button",
+            "settings": {
+              "button_label": "Button label",
+              "button_link": ""
+            }
           }
         },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
+        "block_order": [
+          "1655838275e35dde54-0",
+          "1655838275e35dde54-1",
+          "1655838275e35dde54-2"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/nebulite__web_16.jpg",
+          "height": "adapt",
+          "desktop_image_width": "medium",
+          "layout": "image_first",
+          "desktop_content_position": "top",
+          "desktop_content_alignment": "left",
+          "content_layout": "no-overlap",
+          "color_scheme": "background-1",
+          "mobile_content_alignment": "left",
+          "padding_top": 36,
+          "padding_bottom": 36
         }
       },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "heading_size": "h1",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+      "1652574569f3e7dab4": {
+        "type": "rich-text",
+        "blocks": {
+          "1652574569d1665d7c-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Our topseller",
+              "heading_size": "h1"
+            }
           }
         },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
+        "block_order": [
+          "1652574569d1665d7c-0"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "full_width": true,
+          "padding_top": 40,
+          "padding_bottom": 0
         }
       },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false,
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "padding_top": 36,
-        "padding_bottom": 36
+      "rich_text": {
+        "type": "rich-text",
+        "disabled": true,
+        "blocks": {
+          "heading": {
+            "type": "heading",
+            "settings": {
+              "heading": "Talk about your brand",
+              "heading_size": "h1"
+            }
+          },
+          "text": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            }
+          },
+          "button": {
+            "type": "button",
+            "settings": {
+              "button_label": "Button label",
+              "button_link": "",
+              "button_style_secondary": false
+            }
+          }
+        },
+        "block_order": [
+          "heading",
+          "text",
+          "button"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "full_width": true,
+          "padding_top": 40,
+          "padding_bottom": 52
+        }
+      },
+      "16318401324d0c7745": {
+        "type": "featured-product",
+        "blocks": {
+          "16318401324d0c7745-0": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "text": "{{ section.settings.product.vendor }}",
+              "text_style": "uppercase"
+            }
+          },
+          "16318401324d0c7745-1": {
+            "type": "title",
+            "settings": {
+              "heading_size": "h1"
+            }
+          },
+          "16318401324d0c7745-2": {
+            "type": "text",
+            "settings": {
+              "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+              "text_style": "subtitle"
+            }
+          },
+          "16318401324d0c7745-3": {
+            "type": "price",
+            "settings": {
+            }
+          },
+          "16318401324d0c7745-4": {
+            "type": "variant_picker",
+            "disabled": true,
+            "settings": {
+              "picker_type": "button"
+            }
+          },
+          "16318401324d0c7745-5": {
+            "type": "quantity_selector",
+            "disabled": true,
+            "settings": {
+            }
+          },
+          "16318401324d0c7745-6": {
+            "type": "buy_buttons",
+            "settings": {
+              "show_dynamic_checkout": true
+            }
+          },
+          "16318401324d0c7745-7": {
+            "type": "share",
+            "disabled": true,
+            "settings": {
+              "share_label": "Share"
+            }
+          }
+        },
+        "block_order": [
+          "16318401324d0c7745-0",
+          "16318401324d0c7745-1",
+          "16318401324d0c7745-2",
+          "16318401324d0c7745-3",
+          "16318401324d0c7745-4",
+          "16318401324d0c7745-5",
+          "16318401324d0c7745-6",
+          "16318401324d0c7745-7"
+        ],
+        "settings": {
+          "product": "nebulite-fanny-pack-2",
+          "color_scheme": "background-1",
+          "secondary_background": false,
+          "hide_variants": false,
+          "enable_video_looping": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "featured_products": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "The NEBULITE Collection",
+          "heading_size": "h1",
+          "description": "",
+          "show_description": false,
+          "description_style": "body",
+          "collection": "nebulite-collection",
+          "products_to_show": 4,
+          "columns_desktop": 4,
+          "full_width": false,
+          "show_view_all": true,
+          "view_all_style": "solid",
+          "enable_desktop_slider": false,
+          "color_scheme": "background-1",
+          "image_ratio": "square",
+          "show_secondary_image": true,
+          "show_vendor": false,
+          "show_rating": true,
+          "enable_quick_add": false,
+          "columns_mobile": "2",
+          "swipe_on_mobile": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "collage": {
+        "type": "collage",
+        "blocks": {
+          "video": {
+            "type": "video",
+            "settings": {
+              "cover_image": "shopify:\/\/shop_images\/DSC9031.jpg",
+              "video_url": "https:\/\/youtu.be\/Fbq0MB2sbhk?vq=hd1080",
+              "description": "Our model wearing the new crop top, daning in front of lasers and water.",
+              "image_padding": false
+            }
+          },
+          "3d2e3f29-0e2f-437f-8f3c-8cfdeeb9d6ab": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Katzengold_X_Nebulite_instashots-5.webp",
+              "image_padding": false
+            }
+          },
+          "product": {
+            "type": "product",
+            "settings": {
+              "product": "nebulite-top",
+              "second_image": false
+            }
+          }
+        },
+        "block_order": [
+          "video",
+          "3d2e3f29-0e2f-437f-8f3c-8cfdeeb9d6ab",
+          "product"
+        ],
+        "settings": {
+          "heading": "Our latest eye-catcher: the Crop-Top",
+          "heading_size": "h1",
+          "desktop_layout": "left",
+          "mobile_layout": "collage",
+          "color_scheme": "background-1",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "multi_column": {
+        "type": "multicolumn",
+        "disabled": true,
+        "blocks": {
+          "column1": {
+            "type": "column",
+            "settings": {
+              "title": "Column",
+              "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+              "link_label": "",
+              "link": ""
+            }
+          },
+          "column2": {
+            "type": "column",
+            "settings": {
+              "title": "Column",
+              "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+              "link_label": "",
+              "link": ""
+            }
+          },
+          "column3": {
+            "type": "column",
+            "settings": {
+              "title": "Column",
+              "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+              "link_label": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "column1",
+          "column2",
+          "column3"
+        ],
+        "settings": {
+          "title": "Multicolumn",
+          "heading_size": "h1",
+          "image_width": "full",
+          "image_ratio": "adapt",
+          "columns_desktop": 3,
+          "column_alignment": "left",
+          "background_style": "primary",
+          "button_label": "Button label",
+          "button_link": "",
+          "color_scheme": "background-1",
+          "columns_mobile": "1",
+          "swipe_on_mobile": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "163183973246985780": {
+        "type": "page",
+        "disabled": true,
+        "settings": {
+          "page": "about-me",
+          "heading_size": "h1",
+          "color_scheme": "background-1",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "163184018322d7be73": {
+        "type": "featured-product",
+        "blocks": {
+          "163184018322d7be73-0": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "text": "{{ section.settings.product.vendor }}",
+              "text_style": "uppercase"
+            }
+          },
+          "163184018322d7be73-1": {
+            "type": "title",
+            "settings": {
+              "heading_size": "h1"
+            }
+          },
+          "163184018322d7be73-2": {
+            "type": "text",
+            "settings": {
+              "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+              "text_style": "subtitle"
+            }
+          },
+          "163184018322d7be73-3": {
+            "type": "price",
+            "settings": {
+            }
+          },
+          "163184018322d7be73-4": {
+            "type": "variant_picker",
+            "settings": {
+              "picker_type": "button"
+            }
+          },
+          "163184018322d7be73-5": {
+            "type": "quantity_selector",
+            "settings": {
+            }
+          },
+          "163184018322d7be73-6": {
+            "type": "buy_buttons",
+            "settings": {
+              "show_dynamic_checkout": true
+            }
+          },
+          "163184018322d7be73-7": {
+            "type": "share",
+            "disabled": true,
+            "settings": {
+              "share_label": "Share"
+            }
+          }
+        },
+        "block_order": [
+          "163184018322d7be73-0",
+          "163184018322d7be73-1",
+          "163184018322d7be73-2",
+          "163184018322d7be73-3",
+          "163184018322d7be73-4",
+          "163184018322d7be73-5",
+          "163184018322d7be73-6",
+          "163184018322d7be73-7"
+        ],
+        "settings": {
+          "product": "nebulite-drawstring-backpack-fiber-optic-illuminated-festival-bag",
+          "color_scheme": "background-1",
+          "secondary_background": false,
+          "hide_variants": false,
+          "enable_video_looping": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "1631840486083e2b26": {
+        "type": "featured-product",
+        "blocks": {
+          "1631840486083e2b26-0": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "text": "{{ section.settings.product.vendor }}",
+              "text_style": "uppercase"
+            }
+          },
+          "1631840486083e2b26-1": {
+            "type": "title",
+            "settings": {
+              "heading_size": "h1"
+            }
+          },
+          "1631840486083e2b26-2": {
+            "type": "text",
+            "settings": {
+              "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+              "text_style": "subtitle"
+            }
+          },
+          "1631840486083e2b26-3": {
+            "type": "price",
+            "settings": {
+            }
+          },
+          "1631840486083e2b26-4": {
+            "type": "variant_picker",
+            "settings": {
+              "picker_type": "button"
+            }
+          },
+          "1631840486083e2b26-5": {
+            "type": "quantity_selector",
+            "settings": {
+            }
+          },
+          "1631840486083e2b26-6": {
+            "type": "buy_buttons",
+            "settings": {
+              "show_dynamic_checkout": true
+            }
+          },
+          "1631840486083e2b26-7": {
+            "type": "share",
+            "disabled": true,
+            "settings": {
+              "share_label": "Share"
+            }
+          }
+        },
+        "block_order": [
+          "1631840486083e2b26-0",
+          "1631840486083e2b26-1",
+          "1631840486083e2b26-2",
+          "1631840486083e2b26-3",
+          "1631840486083e2b26-4",
+          "1631840486083e2b26-5",
+          "1631840486083e2b26-6",
+          "1631840486083e2b26-7"
+        ],
+        "settings": {
+          "product": "nebulite-jacket",
+          "color_scheme": "background-1",
+          "secondary_background": false,
+          "hide_variants": false,
+          "enable_video_looping": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "1631840440b634b74f": {
+        "type": "featured-product",
+        "blocks": {
+          "1631840440b634b74f-0": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "text": "{{ section.settings.product.vendor }}",
+              "text_style": "uppercase"
+            }
+          },
+          "1631840440b634b74f-1": {
+            "type": "title",
+            "settings": {
+              "heading_size": "h1"
+            }
+          },
+          "1631840440b634b74f-2": {
+            "type": "text",
+            "settings": {
+              "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+              "text_style": "subtitle"
+            }
+          },
+          "1631840440b634b74f-3": {
+            "type": "price",
+            "settings": {
+            }
+          },
+          "1631840440b634b74f-4": {
+            "type": "variant_picker",
+            "settings": {
+              "picker_type": "button"
+            }
+          },
+          "1631840440b634b74f-5": {
+            "type": "quantity_selector",
+            "settings": {
+            }
+          },
+          "1631840440b634b74f-6": {
+            "type": "buy_buttons",
+            "settings": {
+              "show_dynamic_checkout": true
+            }
+          },
+          "1631840440b634b74f-7": {
+            "type": "share",
+            "disabled": true,
+            "settings": {
+              "share_label": "Share"
+            }
+          }
+        },
+        "block_order": [
+          "1631840440b634b74f-0",
+          "1631840440b634b74f-1",
+          "1631840440b634b74f-2",
+          "1631840440b634b74f-3",
+          "1631840440b634b74f-4",
+          "1631840440b634b74f-5",
+          "1631840440b634b74f-6",
+          "1631840440b634b74f-7"
+        ],
+        "settings": {
+          "product": "nebulite-top",
+          "color_scheme": "background-1",
+          "secondary_background": false,
+          "hide_variants": false,
+          "enable_video_looping": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "video": {
+        "type": "video",
+        "settings": {
+          "heading": "NEBULITE Festival Trailer 2021",
+          "heading_size": "h1",
+          "cover_image": "shopify:\/\/shop_images\/L1006121d_Large_06e2450e-0658-4bb5-bb1e-f79f7b61a337.jpg",
+          "video_url": "https:\/\/www.youtube.com\/watch?v=a44_OWQS-zg",
+          "description": "NEBULITE Festival Trailer 2021",
+          "full_width": false,
+          "color_scheme": "background-1",
+          "padding_top": 36,
+          "padding_bottom": 52
+        }
+      },
+      "163184046961e1a69a": {
+        "type": "featured-product",
+        "disabled": true,
+        "blocks": {
+          "163184046961e1a69a-0": {
+            "type": "text",
+            "settings": {
+              "text": "{{ section.settings.product.vendor }}",
+              "text_style": "uppercase"
+            }
+          },
+          "163184046961e1a69a-1": {
+            "type": "title",
+            "settings": {
+              "heading_size": "h1"
+            }
+          },
+          "163184046961e1a69a-2": {
+            "type": "text",
+            "settings": {
+              "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+              "text_style": "subtitle"
+            }
+          },
+          "163184046961e1a69a-3": {
+            "type": "price",
+            "settings": {
+            }
+          },
+          "163184046961e1a69a-4": {
+            "type": "variant_picker",
+            "settings": {
+              "picker_type": "button"
+            }
+          },
+          "163184046961e1a69a-5": {
+            "type": "quantity_selector",
+            "settings": {
+            }
+          },
+          "163184046961e1a69a-6": {
+            "type": "buy_buttons",
+            "settings": {
+              "show_dynamic_checkout": true
+            }
+          },
+          "163184046961e1a69a-7": {
+            "type": "share",
+            "disabled": true,
+            "settings": {
+              "share_label": "Share"
+            }
+          }
+        },
+        "block_order": [
+          "163184046961e1a69a-0",
+          "163184046961e1a69a-1",
+          "163184046961e1a69a-2",
+          "163184046961e1a69a-3",
+          "163184046961e1a69a-4",
+          "163184046961e1a69a-5",
+          "163184046961e1a69a-6",
+          "163184046961e1a69a-7"
+        ],
+        "settings": {
+          "product": "machine-washable-fiber-optic-face-mask",
+          "color_scheme": "background-1",
+          "secondary_background": false,
+          "hide_variants": false,
+          "enable_video_looping": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "16360479551d5ea3c7": {
+        "type": "video",
+        "disabled": true,
+        "settings": {
+          "heading": "Video",
+          "heading_size": "h1",
+          "cover_image": "shopify:\/\/shop_images\/DSC9031.jpg",
+          "video_url": "https:\/\/youtu.be\/OpyU5begX34",
+          "description": "",
+          "full_width": false,
+          "color_scheme": "background-1",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
       }
-    }
-  },
-  "order": [
-    "image_banner",
-    "rich_text",
-    "featured_collection",
-    "collage",
-    "video",
-    "multicolumn"
-  ]
-}
+    },
+    "order": [
+      "image_banner",
+      "16526308803d67e56f",
+      "1655838275a3ec8c41",
+      "1652574569f3e7dab4",
+      "rich_text",
+      "16318401324d0c7745",
+      "featured_products",
+      "collage",
+      "multi_column",
+      "163183973246985780",
+      "163184018322d7be73",
+      "1631840486083e2b26",
+      "1631840440b634b74f",
+      "video",
+      "163184046961e1a69a",
+      "16360479551d5ea3c7"
+    ]
+  }
