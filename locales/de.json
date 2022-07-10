@@ -511,7 +511,14 @@
         "load_model": "3D-Modell {{ index }} in Galerieansicht laden",
         "load_video": "Video {{ index }} in Galerieansicht abspielen",
         "image_available": "Bild {{ index }} ist nun in der Galerieansicht verfügbar",
-        "open_media": "Medien {{ index }} in Modal öffnen"
+        "open_media": "Medien {{ index }} in Modal öffnen",
+        "play_model": "3D-Viewer abspielen",
+        "play_video": "Spiele das Video"
+      },
+      "quantity": {
+        "label": "Anzahl",
+        "input_label": "Anzahl von {{ product }}",
+        "increase": "Erhöhe die Menge für {{ product }}"
       }
     }
   }
