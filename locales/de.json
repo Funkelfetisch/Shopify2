@@ -506,7 +506,12 @@
       "on_sale": "Im Angebot",
       "product_variants": "Produktvarianten",
       "media": {
-        "gallery_viewer": "Galerie-Viewer"
+        "gallery_viewer": "Galerie-Viewer",
+        "load_image": "Bild {{ index }} in Galerieansicht laden",
+        "load_model": "3D-Modell {{ index }} in Galerieansicht laden",
+        "load_video": "Video {{ index }} in Galerieansicht abspielen",
+        "image_available": "Bild {{ index }} ist nun in der Galerieansicht verfügbar",
+        "open_media": "Medien {{ index }} in Modal öffnen"
       }
     }
   }
