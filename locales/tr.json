@@ -277,16 +277,16 @@
       "title": "Hesap",
       "details": "Hesap Bilgileri",
       "view_addresses": "Adresleri Görüntüle",
-      "return": "Hesap bilgilerine geri dön"
+      "return": "Hesap Bilgilerine Geri Dön"
     },
     "account_fallback": "Hesap",
     "activate_account": {
-      "title": "Hesabı etkinleştirin",
+      "title": "Hesabı Etkinleştir",
       "subtext": "Hesabınızı etkinleştirmek için parolanızı oluşturun.",
       "password": "Parola",
-      "password_confirm": "Parolayı doğrula",
-      "submit": "Hesabı etkinleştir",
-      "cancel": "Daveti reddet"
+      "password_confirm": "Parolayı Onayla",
+      "submit": "Hesabı Etkinleştir",
+      "cancel": "Daveti Reddet"
     },
     "addresses": {
       "title": "Adresler",
