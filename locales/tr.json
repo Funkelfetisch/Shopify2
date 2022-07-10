@@ -306,8 +306,8 @@
       "set_default": "Varsayılan adres olarak ayarla",
       "add": "Adres Ekle",
       "update": "Adresi Güncelle",
-      "cancel": "İptal Et",
-      "edit": "Düzenleyin",
+      "cancel": "İptal",
+      "edit": "Düzenle",
       "delete": "Sil",
       "delete_confirm": "Bu adresi silmek istediğinizden emin misiniz?"
     },
@@ -319,29 +319,29 @@
       "email": "E-posta",
       "forgot_password": "Parolanızı mı unuttunuz?",
       "guest_continue": "Devam",
-      "guest_title": "Misafir olarak devam edin",
+      "guest_title": "Misafir olarak devam et",
       "password": "Parola",
       "title": "Oturum aç",
       "sign_in": "Giriş yapın",
       "submit": "Gönder"
     },
     "orders": {
-      "title": "Sipariş geçmişi",
+      "title": "Sipariş Geçmişi",
       "order_number": "Sipariş",
       "order_number_link": "Sipariş numarası {{ number }}",
       "date": "Tarih",
-      "payment_status": "Ödeme durumu",
-      "fulfillment_status": "Gönderim durumu",
+      "payment_status": "Ödeme Durumu",
+      "fulfillment_status": "Gönderim Durumu",
       "total": "Toplam",
       "none": "Henüz sipariş vermediniz."
     },
     "recover_password": {
       "title": "Parolanızı sıfırlayın",
       "subtext": "Parolanızı sıfırlamanız için size bir e-posta göndereceğiz",
-      "success": "Size parolanızı güncelleme bağlantısının bulunduğu bir e-posta gönderdik."
+      "success": "Size parolanızı güncelleme bağlantısının bulunduğu bir e-posta göndereceğiz."
     },
     "register": {
-      "title": "Hesap oluşturun",
+      "title": "Hesap Oluşturun",
       "first_name": "Ad",
       "last_name": "Soyadı",
       "email": "E-posta",
@@ -352,7 +352,7 @@
       "title": "Hesap parolasını sıfırlayın",
       "subtext": "Yeni bir parola girin",
       "password": "Parola",
-      "password_confirm": "Parolayı doğrula",
+      "password_confirm": "Parolayı Onayla",
       "submit": "Parolayı sıfırla"
     },
     "order": {
@@ -372,7 +372,7 @@
       "price": "Fiyat",
       "quantity": "Adet",
       "total": "Toplam",
-      "fulfilled_at_html": "Gönderildi: {{ date }}",
+      "fulfilled_at_html": "Gönderilme Tarihi: {{ date }}",
       "track_shipment": "Kargoyu takip et",
       "tracking_url": "Takip bağlantısı",
       "tracking_company": "Kargo Şirketi",
