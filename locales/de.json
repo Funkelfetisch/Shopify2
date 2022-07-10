@@ -7,8 +7,8 @@
       "login_form_password_placeholder": "Dein Passwort",
       "login_form_error": "Falsches Passwort!",
       "login_form_submit": "Betreten",
-      "admin_link_html": "Bist du der Shop-Inhaber? <a href=\"/admin\" class=\"link underlined-link\">Hier einloggen</a>",
-      "powered_by_shopify_html": "Dieser Shop wird unterstützt von {{ shopify }}"
+      "admin_link_html": "Bist du der Shop-Inhaber? <a href=\"\/admin\" class=\"link underlined-link\">Hier einloggen<\/a>",
+      "powered_by_shopify_html": "Dieser Shop wird mit Hilfe von {{ shopify }} betrieben werden"
     },
     "social": {
       "alt_text": {
@@ -28,7 +28,7 @@
         "tiktok": "TikTok"
       }
     },
-    "continue_shopping": "Weiter shoppen",
+    "continue_shopping": "Zurückkehren zum Shop",
     "pagination": {
       "label": "Seitennummerierung",
       "page": "Seite {{ number }}",
@@ -65,9 +65,9 @@
     "unit_price_separator": "pro",
     "vendor": "Anbieter:",
     "error": "Fehler",
-    "refresh_page": "Wenn du dich für eine Auswahl entscheidest, wird die Seite komplett aktualisiert.",
+    "refresh_page": "Wenn du eine Auswahl auswählst, wird eine vollständige Seite aktualisiert.",
     "link_messages": {
-      "new_window": "Wird in einem neuen Fenster geöffnet.",
+      "new_window": "Öffnet ein neues Fenster.",
       "external": "Öffnet externe Webseite."
     },
     "loading": "Wird geladen ...",
@@ -92,7 +92,7 @@
       "post": "Kommentar posten",
       "back_to_blog": "Zurück zum Blog",
       "share": "Diesen Artikel teilen",
-      "success": "Dein Kommentar wurde erfolgreich gepostet! Vielen Dank!",
+      "success": "Dein Kommentar wurde erfolgreich gepostet. Danke!",
       "success_moderated": "Dein Kommentar wurde erfolgreich gepostet. Da unser Blog moderiert wird, werden wir ihn erst kurze Zeit später veröffentlichen."
     }
   },
@@ -111,9 +111,9 @@
     "empty": "Dein Warenkorb ist leer",
     "cart_error": "Beim Aktualisieren deines Warenkorbs ist ein Fehler aufgetreten. Bitte versuche es erneut.",
     "cart_quantity_error_html": "Du kannst deinem Warenkorb nur {{ quantity }} Stück dieses Artikels hinzufügen.",
-    "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand</a> werden beim Checkout berechnet",
+    "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand<\/a> werden beim Checkout berechnet",
     "taxes_included_but_shipping_at_checkout": "Inklusive Steuern, Versand wird beim Checkout berechnet",
-    "taxes_included_and_shipping_policy_html": "Inklusive Steuern. <a href=\"{{ link }}\">Versand </a> wird beim Checkout berechnet",
+    "taxes_included_and_shipping_policy_html": "Inklusive Steuern. <a href=\"{{ link }}\">Versand <\/a> wird beim Checkout berechnet",
     "taxes_and_shipping_at_checkout": "Steuern und Versand werden beim Checkout berechnet",
     "headings": {
       "product": "Produkt",
@@ -212,15 +212,16 @@
       "empty": "Dein Warenkorb ist leer",
       "cart_error": "Beim Aktualisieren deines Warenkorbs ist ein Fehler aufgetreten. Bitte versuche es erneut.",
       "cart_quantity_error_html": "Du kannst deinem Warenkorb nur {{ quantity }} Stück dieses Artikels hinzufügen.",
-      "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand</a> werden beim Checkout berechnet",
+      "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand<\/a> werden beim Checkout berechnet",
       "taxes_included_but_shipping_at_checkout": "Inklusive Steuern, Versand wird beim Checkout berechnet",
-      "taxes_included_and_shipping_policy_html": "Inklusive Steuern. <a href=\"{{ link }}\">Versand </a> wird beim Checkout berechnet",
+      "taxes_included_and_shipping_policy_html": "Inklusive Steuern. <a href=\"{{ link }}\">Versand <\/a> wird beim Checkout berechnet",
       "taxes_and_shipping_at_checkout": "Steuern und Versand werden beim Checkout berechnet",
       "headings": {
         "product": "Artikel",
         "price": "Preis",
         "total": "Gesamt",
-        "quantity": "Anzahl"
+        "quantity": "Anzahl",
+        "image": "Produktbild"
       },
       "update": "Aktualisieren",
       "login": {
@@ -254,8 +255,8 @@
     },
     "slideshow": {
       "load_slide": "Folie laden",
-      "previous_slideshow": "Vorherige Folie",
-      "next_slideshow": "Nächste Folie",
+      "previous_slideshow": "Vorheriger Schieber",
+      "next_slideshow": "Nächster Schieber",
       "pause_slideshow": "Slideshow pausieren",
       "play_slideshow": "Slideshow abspielen",
       "carousel": "Karussell",
@@ -400,8 +401,8 @@
     "address1": "Adresse 1",
     "address2": "Adresse 2",
     "city": "Ort",
-    "country": "Land/Region",
-    "province": "Bundesland/Provinz",
+    "country": "Land\/Region",
+    "province": "Bundesland\/Provinz",
     "zip": "PLZ",
     "phone": "Telefonnummer",
     "set_default": "Als Standard-Adresse festlegen",
@@ -494,6 +495,19 @@
       "expired": "Abgelaufen",
       "copy_code_success": "Code erfolgreich kopiert",
       "print_gift_card": "Drucken"
+    }
+  },
+  "products": {
+    "product": {
+      "add_to_cart": "In den Warenkorb legen",
+      "choose_options": "Optionen auswählen",
+      "choose_product_options": "Optionen für {{ product_name }} auswählen",
+      "description": "Beschreibung",
+      "on_sale": "Im Angebot",
+      "product_variants": "Produktvarianten",
+      "media": {
+        "gallery_viewer": "Galerie-Viewer"
+      }
     }
   }
 }
