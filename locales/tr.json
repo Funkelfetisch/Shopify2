@@ -445,6 +445,15 @@
       "xr_button_label": "Alanınızda görüntüleyin; ürün artırılmış gerçeklik penceresinde yüklenir",
       "include_taxes": "Vergi dahildir.",
       "shipping_policy_html": "<a href=\"{{ link }}\">Kargo<\/a>, ödeme sayfasında hesaplanır."
+    },
+    "modal": {
+      "label": "Medya galerisi"
+    },
+    "facets": {
+      "apply": "Uygula",
+      "clear": "Temizle",
+      "clear_all": "Tümünü kaldır",
+      "from": "En düşük"
     }
   }
 }
