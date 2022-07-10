@@ -426,7 +426,14 @@
         "pick_up_available": "Teslim alım kullanılabilir",
         "pick_up_available_at_html": "Teslim alım <span class=\"color-foreground\">{{ location_name }}<\/span> konumunda kullanılabilir",
         "pick_up_unavailable_at_html": "Teslim alım <span class=\"color-foreground\">{{ location_name }}<\/span> konumunda şu anda kullanılamıyor",
-        "unavailable": "Teslim alım stok durumu yüklenemedi"
+        "unavailable": "Teslim alım stok durumu yüklenemedi",
+        "refresh": "Yenile"
+      },
+      "price": {
+        "from_price_html": "Başlangıç fiyatı: {{ price }}",
+        "regular_price": "Normal fiyat",
+        "sale_price": "İndirimli fiyat",
+        "unit_price": "Birim fiyatı"
       }
     }
   }
