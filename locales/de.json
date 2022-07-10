@@ -276,7 +276,7 @@
     "account": {
       "title": "Konto",
       "details": "Kontodetails",
-      "view_addresses": "Adressen anzeigen",
+      "view_addresses": "Adressen ansehen",
       "return": "Zurück zu Kontodetails"
     },
     "account_fallback": "Konto",
@@ -311,7 +311,7 @@
       "delete": "Löschen",
       "delete_confirm": "Bist du sicher, dass du diese Adresse löschen möchtest?"
     },
-    "log_in": "Einloggen",
+    "log_in": "Anmelden",
     "log_out": "Ausloggen",
     "login_page": {
       "cancel": "Schließen",
@@ -484,12 +484,12 @@
   },
   "gift_cards": {
     "issued": {
-      "title": "Hier ist dein Geschenkgutschein im Wert von {{ value }} für {{ shop }}!",
+      "title": "Hier ist deine {{ value }} Geschenkgutschein für {{ shop }}!",
       "subtext": "Dein Geschenkgutschein",
       "gift_card_code": "Gutscheincode",
       "shop_link": "Weiter shoppen",
       "remaining_html": "{{ balance }} verbleibend",
-      "add_to_apple_wallet": "Zu Apple Wallet hinzufügen",
+      "add_to_apple_wallet": "Hinzufügen zu Apple Wallet",
       "qr_image_alt": "QR-Code – Scannen, um Geschenkgutschein einzulösen",
       "copy_code": "Code kopieren",
       "expired": "Abgelaufen",
@@ -573,7 +573,12 @@
       "product_count_simple": {
         "one": "{{ count }} Produkt",
         "other": "{{ count }} Produkte"
-      }
+      },
+      "reset": "Zurücksetzen",
+      "sort_button": "Sortieren",
+      "sort_by_label": "Sortieren nach:",
+      "to": "Bis",
+      "clear_filter": "Filter entfernen"
     }
   }
 }
