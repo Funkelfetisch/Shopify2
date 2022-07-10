@@ -439,7 +439,12 @@
       "sold_out": "Tükendi",
       "unavailable": "Kullanım dışı",
       "vendor": "Satıcı",
-      "video_exit_message": "{{ title }} aynı pencerede tam ekran video açar."
+      "video_exit_message": "{{ title }} aynı pencerede tam ekran video açar.",
+      "view_full_details": "Tüm ayrıntıları görüntüle",
+      "xr_button": "Kendi alanınızda görüntüleyin",
+      "xr_button_label": "Alanınızda görüntüleyin; ürün artırılmış gerçeklik penceresinde yüklenir",
+      "include_taxes": "Vergi dahildir.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Kargo<\/a>, ödeme sayfasında hesaplanır."
     }
   }
 }
