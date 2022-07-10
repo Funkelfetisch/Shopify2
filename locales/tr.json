@@ -275,8 +275,8 @@
   "customer": {
     "account": {
       "title": "Hesap",
-      "details": "Hesap bilgileri",
-      "view_addresses": "Adresi görüntüle",
+      "details": "Hesap Bilgileri",
+      "view_addresses": "Adresleri Görüntüle",
       "return": "Hesap bilgilerine geri dön"
     },
     "account_fallback": "Hesap",
@@ -474,7 +474,10 @@
         "other": "{{ count }} ürün"
       },
       "reset": "Sıfırla",
-      "sort_button": "Sırala"
+      "sort_button": "Sırala",
+      "sort_by_label": "Sıralama ölçütü:",
+      "to": "En yüksek",
+      "clear_filter": "Filtreyi kaldır"
     }
   }
 }
