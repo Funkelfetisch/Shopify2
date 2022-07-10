@@ -111,9 +111,9 @@
     "empty": "Sepetiniz boş",
     "cart_error": "Sepetiniz güncellenirken bir hata oluştu. Lütfen tekrar deneyin.",
     "cart_quantity_error_html": "Sepetinize bu üründen yalnızca {{ quantity }} adet ekleyebilirsiniz.",
-    "taxes_and_shipping_policy_at_checkout_html": "Vergiler ve <a href=\"{{ link }}\">kargo</a>, ödeme sayfasında hesaplanır",
+    "taxes_and_shipping_policy_at_checkout_html": "Vergiler ve <a href=\"{{ link }}\">kargo<\/a>, ödeme sayfasında hesaplanır",
     "taxes_included_but_shipping_at_checkout": "Vergi dahildir ve kargo, ödeme sayfasında hesaplanır",
-    "taxes_included_and_shipping_policy_html": "Vergi dahildir. <a href=\"{{ link }}\">Kargo</a>, ödeme sayfasında hesaplanır.",
+    "taxes_included_and_shipping_policy_html": "Vergi dahildir. <a href=\"{{ link }}\">Kargo<\/a>, ödeme sayfasında hesaplanır.",
     "taxes_and_shipping_at_checkout": "Vergiler ve kargo, ödeme sayfasında hesaplanır",
     "headings": {
       "product": "Ürün",
@@ -220,7 +220,8 @@
         "product": "Ürün",
         "price": "Fiyat",
         "total": "Toplam",
-        "quantity": "Adet"
+        "quantity": "Adet",
+        "image": "Ürün görseli"
       },
       "update": "Güncelle",
       "login": {
@@ -274,136 +275,6 @@
   "customer": {
     "account": {
       "title": "Hesap",
-      "details": "Hesap Bilgileri",
-      "view_addresses": "Adresleri Görüntüle",
-      "return": "Hesap Bilgilerine Geri Dön"
-    },
-    "account_fallback": "Hesap",
-    "activate_account": {
-      "title": "Hesabı Etkinleştir",
-      "subtext": "Hesabınızı etkinleştirmek için parolanızı oluşturun.",
-      "password": "Parola",
-      "password_confirm": "Parolayı Onayla",
-      "submit": "Hesabı Etkinleştir",
-      "cancel": "Daveti Reddet"
-    },
-    "addresses": {
-      "title": "Adresler",
-      "default": "Varsayılan",
-      "add_new": "Yeni Adres Ekle",
-      "edit_address": "Adresi düzenle",
-      "first_name": "Ad",
-      "last_name": "Soyadı",
-      "company": "Şirket",
-      "address1": "Adres 1",
-      "address2": "Adres 2",
-      "city": "Şehir",
-      "country": "Ülke\/Bölge",
-      "province": "İl",
-      "zip": "Posta Kodu",
-      "phone": "Telefon",
-      "set_default": "Varsayılan adres olarak ayarla",
-      "add": "Adres Ekle",
-      "update": "Adresi Güncelle",
-      "cancel": "İptal",
-      "edit": "Düzenle",
-      "delete": "Sil",
-      "delete_confirm": "Bu adresi silmek istediğinizden emin misiniz?"
-    },
-    "log_in": "Oturum aç",
-    "log_out": "Oturumu kapat",
-    "login_page": {
-      "cancel": "İptal Et",
-      "create_account": "Hesap oluştur",
-      "email": "E-posta",
-      "forgot_password": "Parolanızı mı unuttunuz?",
-      "guest_continue": "Devam",
-      "guest_title": "Misafir olarak devam et",
-      "password": "Parola",
-      "title": "Oturum aç",
-      "sign_in": "Giriş yapın",
-      "submit": "Gönder"
-    },
-    "orders": {
-      "title": "Sipariş Geçmişi",
-      "order_number": "Sipariş",
-      "order_number_link": "Sipariş numarası {{ number }}",
-      "date": "Tarih",
-      "payment_status": "Ödeme Durumu",
-      "fulfillment_status": "Gönderim Durumu",
-      "total": "Toplam",
-      "none": "Henüz sipariş vermediniz."
-    },
-    "recover_password": {
-      "title": "Parolanızı sıfırlayın",
-      "subtext": "Parolanızı sıfırlamanız için size bir e-posta göndereceğiz",
-      "success": "Size parolanızı güncelleme bağlantısının bulunduğu bir e-posta göndereceğiz."
-    },
-    "register": {
-      "title": "Hesap Oluşturun",
-      "first_name": "Ad",
-      "last_name": "Soyadı",
-      "email": "E-posta",
-      "password": "Parola",
-      "submit": "Oluştur"
-    },
-    "reset_password": {
-      "title": "Hesap parolasını sıfırlayın",
-      "subtext": "{{ email }} için yeni bir parola girin",
-      "password": "Parola",
-      "password_confirm": "Parolayı Onayla",
-      "submit": "Parolayı Sıfırla"
-    },
-    "order": {
-      "title": "{{ name }} siparişi",
-      "date_html": "Verilme Tarihi: {{ date }}",
-      "cancelled_html": "Siparişin İptal Edilme Tarihi: {{ date }}",
-      "cancelled_reason": "Neden: {{ reason }}",
-      "billing_address": "Fatura Adresi",
-      "payment_status": "Ödeme Durumu",
-      "shipping_address": "Kargo Adresi",
-      "fulfillment_status": "Gönderim Durumu",
-      "discount": "İndirim",
-      "shipping": "Kargo",
-      "tax": "Vergi",
-      "product": "Ürün",
-      "sku": "SKU",
-      "price": "Fiyat",
-      "quantity": "Adet",
-      "total": "Toplam",
-      "fulfilled_at_html": "Gönderilme Tarihi: {{ date }}",
-      "track_shipment": "Kargoyu takip et",
-      "tracking_url": "Takip bağlantısı",
-      "tracking_company": "Kargo Şirketi",
-      "tracking_number": "Takip numarası",
-      "subtotal": "Alt toplam",
-      "total_duties": "Gümrük vergileri"
-    }
-  },
-  "gift_cards": {
-    "issued": {
-      "title": "İşte {{ shop }} için {{ value }} hediye kartınız!",
-      "subtext": "Hediye kartınız",
-      "gift_card_code": "Hediye kartı kodu",
-      "shop_link": "Alışverişe devam et",
-      "remaining_html": "{{ balance }} kaldı",
-      "add_to_apple_wallet": "Apple Wallet'a ekle",
-      "qr_image_alt": "QR kodu: Hediye kartını kullanmak için tarayın",
-      "copy_code": "Kodu kopyala",
-      "expired": "Süresi sona erdi",
-      "copy_code_success": "Kod başarıyla kopyalandı",
-      "print_gift_card": "Yazdır"
-    }
-  },
-  "localization": {
-    "country_label": "Ülke/bölge",
-    "language_label": "Dil",
-    "update_language": "Dili güncelle",
-    "update_country": "Ülke/bölge bilgisini güncelle"
-  },
-  "customer": {
-    "account": {
-      "title": "Hesap",
       "details": "Hesap bilgileri",
       "view_addresses": "Adresi görüntüle",
       "return": "Hesap bilgilerine geri dön"
@@ -428,7 +299,7 @@
       "address1": "Adres 1",
       "address2": "Adres 2",
       "city": "Şehir",
-      "country": "Ülke/bölge",
+      "country": "Ülke\/bölge",
       "province": "İl",
       "zip": "Posta kodu",
       "phone": "Telefon",
@@ -523,6 +394,26 @@
       "expired": "Süresi sona erdi",
       "copy_code_success": "Kod başarıyla kopyalandı",
       "print_gift_card": "Yazdır"
+    }
+  },
+  "products": {
+    "product": {
+      "add_to_cart": "Sepete ekle",
+      "choose_options": "Seçenekleri belirle",
+      "choose_product_options": "{{ product_name }} için seçenekleri belirle",
+      "description": "Açıklama",
+      "on_sale": "İndirim",
+      "product_variants": "Ürün varyasyonları",
+      "media": {
+        "gallery_viewer": "Galeri Görüntüleyici",
+        "load_image": "Görsel {{ index }} galeri görüntüleyicide yükleyin",
+        "load_model": "3B Model {{ index }} galeri görüntüleyicide yükleyin",
+        "load_video": "Video {{ index }} galeri görüntüleyicide oynatın",
+        "image_available": "Görsel {{ index }} artık galeri görüntüleyicide kullanılabilir",
+        "open_media": "Medya {{ index }} modda oynatın",
+        "play_model": "3B Görüntüleyici'yi Oynat",
+        "play_video": "Videoyu oynat"
+      }
     }
   }
 }
