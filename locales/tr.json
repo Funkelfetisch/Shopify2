@@ -460,6 +460,13 @@
       "filters_selected": {
         "one": "{{ count }} seçildi",
         "other": "{{ count }} seçildi"
+      },
+      "filter_selected_accessibility": "{{ type }} ({{ count }} filtre seçildi)",
+      "show_more": "Daha fazla göster",
+      "show_less": "Daha az göster",
+      "max_price": "En yüksek fiyat: {{ price }}",
+      "product_count": {
+        "one": "{{ count }}\/{{ product_count }} ürün"
       }
     }
   }
