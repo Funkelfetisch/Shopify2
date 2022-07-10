@@ -466,8 +466,15 @@
       "show_less": "Daha az göster",
       "max_price": "En yüksek fiyat: {{ price }}",
       "product_count": {
-        "one": "{{ count }}\/{{ product_count }} ürün"
-      }
+        "one": "{{ count }}\/{{ product_count }} ürün",
+        "other": "{{ count }}\/{{ product_count }} ürün"
+      },
+      "product_count_simple": {
+        "one": "{{ count }} ürün",
+        "other": "{{ count }} ürün"
+      },
+      "reset": "Sıfırla",
+      "sort_button": "Sırala"
     }
   }
 }
