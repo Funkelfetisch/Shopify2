@@ -421,7 +421,12 @@
         "decrease": "{{ product }} için adedi azaltın"
       },
       "pickup_availability": {
-        "view_store_info": "Mağaza bilgilerini görüntüleyin"
+        "view_store_info": "Mağaza bilgilerini görüntüleyin",
+        "check_other_stores": "Diğer mağazalardaki stok durumunu kontrol edin",
+        "pick_up_available": "Teslim alım kullanılabilir",
+        "pick_up_available_at_html": "Teslim alım <span class=\"color-foreground\">{{ location_name }}<\/span> konumunda kullanılabilir",
+        "pick_up_unavailable_at_html": "Teslim alım <span class=\"color-foreground\">{{ location_name }}<\/span> konumunda şu anda kullanılamıyor",
+        "unavailable": "Teslim alım stok durumu yüklenemedi"
       }
     }
   }
