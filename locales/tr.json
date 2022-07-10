@@ -413,6 +413,15 @@
         "open_media": "Medya {{ index }} modda oynatın",
         "play_model": "3B Görüntüleyici'yi Oynat",
         "play_video": "Videoyu oynat"
+      },
+      "quantity": {
+        "label": "Adet",
+        "input_label": "{{ product }} için adet",
+        "increase": "{{ product }} için adedi artırın",
+        "decrease": "{{ product }} için adedi azaltın"
+      },
+      "pickup_availability": {
+        "view_store_info": "Mağaza bilgilerini görüntüleyin"
       }
     }
   }
