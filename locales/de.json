@@ -518,7 +518,61 @@
       "quantity": {
         "label": "Anzahl",
         "input_label": "Anzahl von {{ product }}",
-        "increase": "Erhöhe die Menge für {{ product }}"
+        "increase": "Erhöhe die Menge für {{ product }}",
+        "decrease": "Verringere die Menge für {{ product }}"
+      },
+      "pickup_availability": {
+        "view_store_info": "Shop-Informationen anzeigen",
+        "check_other_stores": "Verfügbarkeit in anderen Shops überprüfen",
+        "pick_up_available": "Abholung verfügbar",
+        "pick_up_available_at_html": "Abholung bei <span class=\"color-foreground\">{{ location_name }}<\/span> verfügbar",
+        "pick_up_unavailable_at_html": "Abholung bei <span class=\"color-foreground\">{{ location_name }}<\/span> derzeit nicht verfügbar",
+        "unavailable": "Verfügbarkeit für Abholungen konnte nicht geladen werden",
+        "refresh": "Aktualisieren"
+      },
+      "price": {
+        "from_price_html": "Ab {{ price }}",
+        "regular_price": "Normaler Preis",
+        "sale_price": "Verkaufspreis",
+        "unit_price": "Einzelpreis"
+      },
+      "share": "Dieses Produkt teilen",
+      "sold_out": "Ausverkauft",
+      "unavailable": "Nicht verfügbar",
+      "vendor": "Anbieter",
+      "video_exit_message": "{{ title }} öffnet das Video auf derselben Seite im Vollbildmodus.",
+      "view_full_details": "Vollständige Details anzeigen",
+      "xr_button": "In deinem Bereich ansehen",
+      "xr_button_label": "„Ansicht in deinem Raum“ lädt den Artikel im Augmented-Reality-Fenster",
+      "include_taxes": "inkl. MwSt.",
+      "shipping_policy_html": "zzgl. <a href=\"{{ link }}\">Versand<\/a>"
+    },
+    "modal": {
+      "label": "Medien-Galerie"
+    },
+    "facets": {
+      "apply": "Anwenden",
+      "clear": "Löschen",
+      "clear_all": "Alle entfernen",
+      "from": "Von",
+      "filter_and_sort": "Filtern und sortieren",
+      "filter_by_label": "Filter:",
+      "filter_button": "Filter",
+      "filters_selected": {
+        "one": "{{ count }} ausgewählt",
+        "other": "{{ count }} ausgewählt"
+      },
+      "filter_selected_accessibility": "{{ type }} ({{ count }} Filter ausgewählt)",
+      "show_more": "Mehr anzeigen",
+      "show_less": "Weniger anzeigen",
+      "max_price": "Der höchste Preis ist {{ price }}",
+      "product_count": {
+        "one": "{{ product_count }} von {{ count }} Produkt",
+        "other": "{{ product_count }} von {{ count }} Produkten"
+      },
+      "product_count_simple": {
+        "one": "{{ count }} Produkt",
+        "other": "{{ count }} Produkte"
       }
     }
   }
