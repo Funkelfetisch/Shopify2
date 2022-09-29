@@ -239,7 +239,7 @@
             "cover_image": "shopify:\/\/shop_images\/screenshot.png",
             "video_url": "https:\/\/www.youtube.com\/watch?v=Nz2Ui1xyT7o",
             "description": "NEBULITE Berlin - Fanny Pack 2+ Trailer 2022",
-            "image_padding": true
+            "image_padding": false
           }
         }
       },
