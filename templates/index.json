@@ -7,7 +7,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>10% OFF for subscribers</p>",
+            "heading": "<p>10% OFF for subscribers<\/p>",
             "heading_size": "medium"
           }
         },
@@ -110,7 +110,7 @@
         "1655838275e35dde54-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Image with text</p>",
+            "heading": "<p>Image with text<\/p>",
             "heading_size": "h1"
           }
         },
@@ -150,11 +150,12 @@
     },
     "1652574569f3e7dab4": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1652574569d1665d7c-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Our topseller</p>",
+            "heading": "<p>Our topseller<\/p>",
             "heading_size": "h1"
           }
         }
@@ -163,6 +164,8 @@
         "1652574569d1665d7c-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -176,7 +179,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand</p>",
+            "heading": "<p>Talk about your brand<\/p>",
             "heading_size": "h1"
           }
         },
@@ -191,7 +194,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -201,14 +207,60 @@
         "button"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
     },
+    "166440883166a7b061": {
+      "type": "collage",
+      "blocks": {
+        "166440883198c2feb8-1": {
+          "type": "product",
+          "settings": {
+            "product": "nebulite-fanny-pack-2",
+            "second_image": true
+          }
+        },
+        "6c7a25c5-c3a9-4520-8fb1-51c4d4dafe7a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC1757.jpg",
+            "image_padding": false
+          }
+        },
+        "166440883198c2feb8-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/screenshot.png",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=Nz2Ui1xyT7o",
+            "description": "NEBULITE Berlin - Fanny Pack 2+ Trailer 2022",
+            "image_padding": true
+          }
+        }
+      },
+      "block_order": [
+        "166440883198c2feb8-1",
+        "6c7a25c5-c3a9-4520-8fb1-51c4d4dafe7a",
+        "166440883198c2feb8-0"
+      ],
+      "settings": {
+        "heading": "Our topseller",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16318401324d0c7745": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "16318401324d0c7745-0": {
           "type": "text",
@@ -233,7 +285,8 @@
         },
         "16318401324d0c7745-3": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "16318401324d0c7745-4": {
           "type": "variant_picker",
@@ -245,7 +298,8 @@
         "16318401324d0c7745-5": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {}
+          "settings": {
+          }
         },
         "16318401324d0c7745-6": {
           "type": "buy_buttons",
@@ -275,6 +329,7 @@
         "product": "nebulite-fanny-pack-2",
         "color_scheme": "background-1",
         "secondary_background": false,
+        "media_position": "left",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
@@ -345,6 +400,7 @@
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
@@ -441,7 +497,8 @@
         },
         "163184018322d7be73-3": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "163184018322d7be73-4": {
           "type": "variant_picker",
@@ -451,7 +508,8 @@
         },
         "163184018322d7be73-5": {
           "type": "quantity_selector",
-          "settings": {}
+          "settings": {
+          }
         },
         "163184018322d7be73-6": {
           "type": "buy_buttons",
@@ -481,6 +539,7 @@
         "product": "nebulite-drawstring-backpack-fiber-optic-illuminated-festival-bag",
         "color_scheme": "background-1",
         "secondary_background": false,
+        "media_position": "left",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
@@ -513,7 +572,8 @@
         },
         "1631840486083e2b26-3": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "1631840486083e2b26-4": {
           "type": "variant_picker",
@@ -523,7 +583,8 @@
         },
         "1631840486083e2b26-5": {
           "type": "quantity_selector",
-          "settings": {}
+          "settings": {
+          }
         },
         "1631840486083e2b26-6": {
           "type": "buy_buttons",
@@ -553,6 +614,7 @@
         "product": "nebulite-jacket",
         "color_scheme": "background-1",
         "secondary_background": false,
+        "media_position": "left",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
@@ -585,7 +647,8 @@
         },
         "1631840440b634b74f-3": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "1631840440b634b74f-4": {
           "type": "variant_picker",
@@ -595,7 +658,8 @@
         },
         "1631840440b634b74f-5": {
           "type": "quantity_selector",
-          "settings": {}
+          "settings": {
+          }
         },
         "1631840440b634b74f-6": {
           "type": "buy_buttons",
@@ -625,6 +689,7 @@
         "product": "nebulite-top",
         "color_scheme": "background-1",
         "secondary_background": false,
+        "media_position": "left",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
@@ -671,7 +736,8 @@
         },
         "163184046961e1a69a-3": {
           "type": "price",
-          "settings": {}
+          "settings": {
+          }
         },
         "163184046961e1a69a-4": {
           "type": "variant_picker",
@@ -681,7 +747,8 @@
         },
         "163184046961e1a69a-5": {
           "type": "quantity_selector",
-          "settings": {}
+          "settings": {
+          }
         },
         "163184046961e1a69a-6": {
           "type": "buy_buttons",
@@ -711,6 +778,7 @@
         "product": "machine-washable-fiber-optic-face-mask",
         "color_scheme": "background-1",
         "secondary_background": false,
+        "media_position": "left",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
@@ -739,6 +807,7 @@
     "1655838275a3ec8c41",
     "1652574569f3e7dab4",
     "rich_text",
+    "166440883166a7b061",
     "16318401324d0c7745",
     "featured_products",
     "collage",
