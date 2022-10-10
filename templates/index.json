@@ -51,6 +51,7 @@
     },
     "16526308803d67e56f": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "1652630879bc77801a-0": {
           "type": "slide",
