@@ -51,15 +51,14 @@
     },
     "16526308803d67e56f": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "1652630879bc77801a-0": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/L1006405-20.jpg",
-            "heading": "Is your crew ready for the festival summer?",
+            "heading": "Have a <3 for the imperfect",
             "heading_size": "h1",
-            "subheading": "Get our crew packages with up to 20% OFF!",
+            "subheading": "Get our B-Stock for",
             "button_label": "Check the product details for our discount codes!",
             "link": "#shopify-section-template--16000261423362__1652574569f3e7dab4",
             "button_style_secondary": true,

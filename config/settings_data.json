@@ -36,6 +36,7 @@
             "type": "announcement",
             "settings": {
               "text": "Made in Germany, delivery in 1-2 working days, free shipping & 30 day return policy",
+              "text_alignment": "center",
               "color_scheme": "accent-1",
               "link": ""
             }
@@ -45,15 +46,16 @@
             "disabled": true,
             "settings": {
               "text": "We're out of office until after the Fusion Festival, around 2022-07-04 🥳",
+              "text_alignment": "center",
               "color_scheme": "accent-1",
               "link": ""
             }
           },
           "668f43db-e5f5-4dac-9cb4-90102422ebc7": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Welcome to our store",
+              "text": "✆ NEW: Support via telephone & WhatApp: +49 30 68917105 ✆",
+              "text_alignment": "center",
               "color_scheme": "accent-1",
               "link": ""
             }
@@ -63,6 +65,7 @@
             "disabled": true,
             "settings": {
               "text": "Welcome to our store",
+              "text_alignment": "center",
               "color_scheme": "accent-1",
               "link": ""
             }
@@ -88,7 +91,10 @@
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
-          "margin_bottom": 0
+          "mobile_logo_position": "center",
+          "margin_bottom": 0,
+          "padding_top": 20,
+          "padding_bottom": 20
         }
       },
       "footer": {
