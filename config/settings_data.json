@@ -117,6 +117,7 @@
           },
           "2a71a86f-6b35-4f7c-a6e2-fd2a0746504b": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image_width": 100,
               "alignment": "center"
