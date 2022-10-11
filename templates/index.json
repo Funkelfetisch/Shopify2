@@ -759,7 +759,7 @@
         "ddead0b3-d9d5-4882-8acb-dcce262e1d9d"
       ],
       "settings": {
-        "include_margins": true
+        "include_margins": false
       }
     },
     "video": {
