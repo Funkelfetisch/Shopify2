@@ -770,7 +770,7 @@
         "cover_image": "shopify:\/\/shop_images\/L1006121d_Large_06e2450e-0658-4bb5-bb1e-f79f7b61a337.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=a44_OWQS-zg",
         "description": "NEBULITE Festival Trailer 2021",
-        "full_width": false,
+        "full_width": true,
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 52
