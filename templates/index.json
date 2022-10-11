@@ -223,7 +223,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/nebulite-kimono3390_72dpi.jpg",
-            "image_padding": false
+            "image_padding": false,
+            "product": "nebulite-kimono-kimoyes"
           }
         },
         "template--16115040452875__3be65424-845b-48db-bf11-b4f9d35448bf-16653569708b4a0525-1": {
@@ -237,7 +238,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/nebulite-kimono4180_72dpi.jpg",
-            "image_padding": false
+            "image_padding": false,
+            "product": "nebulite-kimono-kimoyes"
           }
         }
       },
@@ -271,7 +273,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/nebulite__web19.jpg",
-            "image_padding": false
+            "image_padding": false,
+            "product": ""
           }
         },
         "166440883198c2feb8-0": {
@@ -421,7 +424,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Katzengold_X_Nebulite_instashots-5.webp",
-            "image_padding": false
+            "image_padding": false,
+            "product": ""
           }
         },
         "product": {
