@@ -496,7 +496,7 @@
                             {% endif %}
                           >
                           <label for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
-                            {{ option.price }} - {{ value }}
+                            {{ product.variants[forloop.index0].price }} - {{ value }}
                           </label>
                         {%- endfor -%}
                       </fieldset>
