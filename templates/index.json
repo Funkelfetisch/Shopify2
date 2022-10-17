@@ -243,49 +243,6 @@
         "padding_bottom": 36
       }
     },
-    "3be65424-845b-48db-bf11-b4f9d35448bf": {
-      "type": "collage",
-      "blocks": {
-        "fb2832d9-50d8-4698-bc82-e4e3497647e2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite-kimono3390_72dpi.jpg",
-            "image_padding": false,
-            "product": "nebulite-kimono-kimoyes"
-          }
-        },
-        "template--16115040452875__3be65424-845b-48db-bf11-b4f9d35448bf-16653569708b4a0525-1": {
-          "type": "product",
-          "settings": {
-            "product": "nebulite-kimono-kimoyes",
-            "second_image": false
-          }
-        },
-        "6552699c-cc37-40f4-81c8-130cd95c59d4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite-kimono4180_72dpi.jpg",
-            "image_padding": false,
-            "product": "nebulite-kimono-kimoyes"
-          }
-        }
-      },
-      "block_order": [
-        "fb2832d9-50d8-4698-bc82-e4e3497647e2",
-        "template--16115040452875__3be65424-845b-48db-bf11-b4f9d35448bf-16653569708b4a0525-1",
-        "6552699c-cc37-40f4-81c8-130cd95c59d4"
-      ],
-      "settings": {
-        "heading": "New and exclusive: the Kimono",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "accent-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "166440883166a7b061": {
       "type": "collage",
       "blocks": {
@@ -326,6 +283,49 @@
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3be65424-845b-48db-bf11-b4f9d35448bf": {
+      "type": "collage",
+      "blocks": {
+        "fb2832d9-50d8-4698-bc82-e4e3497647e2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nebulite-kimono3390_72dpi.jpg",
+            "image_padding": false,
+            "product": "nebulite-kimono-kimoyes"
+          }
+        },
+        "template--16115040452875__3be65424-845b-48db-bf11-b4f9d35448bf-16653569708b4a0525-1": {
+          "type": "product",
+          "settings": {
+            "product": "nebulite-kimono-kimoyes",
+            "second_image": false
+          }
+        },
+        "6552699c-cc37-40f4-81c8-130cd95c59d4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nebulite-kimono4180_72dpi.jpg",
+            "image_padding": false,
+            "product": "nebulite-kimono-kimoyes"
+          }
+        }
+      },
+      "block_order": [
+        "fb2832d9-50d8-4698-bc82-e4e3497647e2",
+        "template--16115040452875__3be65424-845b-48db-bf11-b4f9d35448bf-16653569708b4a0525-1",
+        "6552699c-cc37-40f4-81c8-130cd95c59d4"
+      ],
+      "settings": {
+        "heading": "New and exclusive: the Kimono",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "accent-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -890,8 +890,8 @@
     "1652574569f3e7dab4",
     "rich_text",
     "c042842f-66e6-461f-9c48-45b335002c96",
-    "3be65424-845b-48db-bf11-b4f9d35448bf",
     "166440883166a7b061",
+    "3be65424-845b-48db-bf11-b4f9d35448bf",
     "16318401324d0c7745",
     "featured_products",
     "collage",
