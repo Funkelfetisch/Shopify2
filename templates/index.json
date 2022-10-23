@@ -51,7 +51,6 @@
     },
     "16526308803d67e56f": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "1652630879bc77801a-0": {
           "type": "slide",
@@ -59,9 +58,9 @@
             "image": "shopify:\/\/shop_images\/L1006405-20.jpg",
             "heading": "Have a <3 for the imperfect",
             "heading_size": "h1",
-            "subheading": "Get our B-Stock for",
-            "button_label": "Check the product details for our discount codes!",
-            "link": "#shopify-section-template--16000261423362__1652574569f3e7dab4",
+            "subheading": "Get our B-Stock for a reduced price",
+            "button_label": "See below",
+            "link": "#shopify-section-template--16115040452875__c042842f-66e6-461f-9c48-45b335002c96",
             "button_style_secondary": true,
             "box_align": "bottom-center",
             "show_text_box": false,
