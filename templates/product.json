@@ -31,7 +31,16 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
+          }
+        },
+        "9f4185fa-9cbf-4fb0-b6ff-4d915a47fe97": {
+          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block-price\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
+          "settings": {
+            "color": "#000000",
+            "font": "Raleway, sans-serif",
+            "font_size": "18px"
           }
         },
         "variant_picker": {
@@ -90,6 +99,7 @@
         "0cc587d7-9fbc-4ff9-9a11-1abc8fe9c981",
         "subtitle",
         "price",
+        "9f4185fa-9cbf-4fb0-b6ff-4d915a47fe97",
         "variant_picker",
         "quantity_selector",
         "7913d93c-2ae4-4915-908c-1bb988c505a1",
