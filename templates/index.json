@@ -881,6 +881,33 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "dfb4abfe-b6f2-4840-88f2-c875bd4db66f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Deeply in love with NEBULITE? Show it!",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "merch",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -903,6 +930,7 @@
     "1665422110505130a1",
     "video",
     "163184046961e1a69a",
-    "16360479551d5ea3c7"
+    "16360479551d5ea3c7",
+    "dfb4abfe-b6f2-4840-88f2-c875bd4db66f"
   ]
 }
