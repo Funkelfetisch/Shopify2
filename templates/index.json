@@ -70,6 +70,42 @@
             "text_alignment_mobile": "center"
           }
         },
+        "54e36e7e-ec7f-44e1-8585-00f51e495b1a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
+            "heading": "DEAL#2 - Buy 2, get 1 free!",
+            "heading_size": "h0",
+            "subheading": "For all B-Stock",
+            "button_label": "Use \"black33\" or click here!",
+            "link": "https:\/\/nebulite.berlin\/discount\/black33?redirect=%2Fcollections%2Fb-stock",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "ded7c83c-190b-4ddb-97a0-a76f91ffa9eb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
+            "heading": "DEAL#3 - 22% OFF all B-Stock",
+            "heading_size": "h0",
+            "subheading": "Just want 1? We got you covered.",
+            "button_label": "Use \"black22\" or click here!",
+            "link": "https:\/\/nebulite.berlin\/discount\/black22?redirect=%2Fcollections%2Fb-stock",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "1652630879bc77801a-0": {
           "type": "slide",
           "settings": {
@@ -109,6 +145,8 @@
       },
       "block_order": [
         "1fc1acb1-17c3-4387-81fb-2ea836419a4e",
+        "54e36e7e-ec7f-44e1-8585-00f51e495b1a",
+        "ded7c83c-190b-4ddb-97a0-a76f91ffa9eb",
         "1652630879bc77801a-0",
         "1652630879bc77801a-1"
       ],
