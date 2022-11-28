@@ -495,7 +495,8 @@
                               checked
                             {% endif %}
                           >
-                          <label for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
+                          <label for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}"
+                          {%  if product.variants[forloop.index0].available == false %} style="text-decoration: line-through" {% endif %}>
                             {{ product.variants[forloop.index0].price | money | strip_html }} - {{ value }}
                           </label>
                         {%- endfor -%}
