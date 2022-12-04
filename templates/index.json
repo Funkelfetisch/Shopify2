@@ -54,12 +54,13 @@
       "blocks": {
         "1fc1acb1-17c3-4387-81fb-2ea836419a4e": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
             "heading": "DEAL#1 - 20% OFF all NEBULITE products",
             "heading_size": "h0",
             "subheading": "",
-            "button_label": "Use code \"black20\" or click here!",
+            "button_label": "Use code \"black20\"!",
             "link": "https:\/\/nebulite.berlin\/discount\/black20?redirect=%2Fcollections%2Fnebulite-collection",
             "button_style_secondary": false,
             "box_align": "bottom-center",
@@ -72,6 +73,7 @@
         },
         "54e36e7e-ec7f-44e1-8585-00f51e495b1a": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
             "heading": "DEAL#2 - Buy 2, get 1 free!",
@@ -90,6 +92,7 @@
         },
         "ded7c83c-190b-4ddb-97a0-a76f91ffa9eb": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
             "heading": "DEAL#3 - 22% OFF all B-Stock",
