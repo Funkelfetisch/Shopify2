@@ -109,6 +109,24 @@
             "text_alignment_mobile": "center"
           }
         },
+        "1652630879bc77801a-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nebulite__web_15.jpg",
+            "heading": "10 OFF% for subscribers",
+            "heading_size": "h0",
+            "subheading": "Be part of the family. Very non-spammy once a month!",
+            "button_label": "Scroll me down to the form!",
+            "link": "#shopify-section-footer",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "1652630879bc77801a-0": {
           "type": "slide",
           "settings": {
@@ -118,24 +136,6 @@
             "subheading": "Order slightly damaged yet brand new bags for a fraction of the price",
             "button_label": "See below",
             "link": "#shopify-section-template--16115040452875__c042842f-66e6-461f-9c48-45b335002c96",
-            "button_style_secondary": true,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "1652630879bc77801a-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/L1005454.jpg",
-            "heading": "10 OFF% for subscribers",
-            "heading_size": "h1",
-            "subheading": "Click the yellow button below and be part of the family. Very non-spammy once a month!",
-            "button_label": "",
-            "link": "",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -150,8 +150,8 @@
         "1fc1acb1-17c3-4387-81fb-2ea836419a4e",
         "54e36e7e-ec7f-44e1-8585-00f51e495b1a",
         "ded7c83c-190b-4ddb-97a0-a76f91ffa9eb",
-        "1652630879bc77801a-0",
-        "1652630879bc77801a-1"
+        "1652630879bc77801a-1",
+        "1652630879bc77801a-0"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -280,7 +280,7 @@
       "settings": {
         "title": "Perfection is overrated - our B-Stock",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "b-stock",
@@ -472,7 +472,7 @@
       "settings": {
         "title": "The NEBULITE Collection",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "nebulite-collection",
@@ -824,7 +824,7 @@
       "settings": {
         "title": "Deeply in love with NEBULITE? Show it!",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "merch",
