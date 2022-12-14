@@ -308,7 +308,7 @@
         "166440883198c2feb8-1": {
           "type": "product",
           "settings": {
-            "product": "nebulite-fanny-pack-2",
+            "product": "nebulite-fanny-pack-3",
             "second_image": true
           }
         },
@@ -317,7 +317,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/nebulite__web19.jpg",
             "image_padding": false,
-            "product": "nebulite-fanny-pack-2"
+            "product": "nebulite-fanny-pack-3"
           }
         },
         "166440883198c2feb8-0": {
@@ -457,7 +457,7 @@
         "16318401324d0c7745-7"
       ],
       "settings": {
-        "product": "nebulite-fanny-pack-2",
+        "product": "nebulite-fanny-pack-3",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_position": "left",
