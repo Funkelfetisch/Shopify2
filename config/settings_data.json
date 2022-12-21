@@ -35,6 +35,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Made in Germany, delivery in 1-2 working days, free shipping & 30 day return policy",
               "text_alignment": "center",
@@ -42,20 +43,20 @@
               "link": ""
             }
           },
-          "126785e8-b91d-44aa-9b6c-27f9f7c012e5": {
+          "668f43db-e5f5-4dac-9cb4-90102422ebc7": {
             "type": "announcement",
             "disabled": true,
             "settings": {
-              "text": "We're out of office until after the Fusion Festival, around 2022-07-04 🥳",
+              "text": "✆ NEW: Support via telephone & WhatApp: +49 30 68917105 ✆",
               "text_alignment": "center",
               "color_scheme": "accent-1",
               "link": ""
             }
           },
-          "668f43db-e5f5-4dac-9cb4-90102422ebc7": {
+          "126785e8-b91d-44aa-9b6c-27f9f7c012e5": {
             "type": "announcement",
             "settings": {
-              "text": "✆ NEW: Support via telephone & WhatApp: +49 30 68917105 ✆",
+              "text": "We're out of office for Christmas, Will return on the 28th. Have a great holiday!🥳",
               "text_alignment": "center",
               "color_scheme": "accent-1",
               "link": ""
@@ -74,8 +75,8 @@
         },
         "block_order": [
           "announcement-bar-0",
-          "126785e8-b91d-44aa-9b6c-27f9f7c012e5",
           "668f43db-e5f5-4dac-9cb4-90102422ebc7",
+          "126785e8-b91d-44aa-9b6c-27f9f7c012e5",
           "90821de9-ffd9-465e-85af-bedbdcbda47a"
         ],
         "settings": {
