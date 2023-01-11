@@ -275,29 +275,77 @@
         "padding_bottom": 52
       }
     },
-    "c042842f-66e6-461f-9c48-45b335002c96": {
-      "type": "featured-collection",
+    "163184018322d7be73": {
+      "type": "featured-product",
+      "blocks": {
+        "163184018322d7be73-0": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "163184018322d7be73-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "163184018322d7be73-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "163184018322d7be73-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "163184018322d7be73-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "163184018322d7be73-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "163184018322d7be73-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "163184018322d7be73-7": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "163184018322d7be73-0",
+        "163184018322d7be73-1",
+        "163184018322d7be73-2",
+        "163184018322d7be73-3",
+        "163184018322d7be73-4",
+        "163184018322d7be73-5",
+        "163184018322d7be73-6",
+        "163184018322d7be73-7"
+      ],
       "settings": {
-        "title": "Perfection is overrated - our B-Stock",
-        "heading_size": "h1",
-        "description": "<p><\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "b-stock",
-        "products_to_show": 2,
-        "columns_desktop": 2,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "product": "nebulite-drawstring-backpack-fiber-optic-illuminated-festival-bag",
         "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -344,49 +392,6 @@
         "color_scheme": "background-1",
         "padding_top": 20,
         "padding_bottom": 56
-      }
-    },
-    "3be65424-845b-48db-bf11-b4f9d35448bf": {
-      "type": "collage",
-      "blocks": {
-        "fb2832d9-50d8-4698-bc82-e4e3497647e2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite-kimono3390_72dpi.jpg",
-            "image_padding": false,
-            "product": "nebulite-kimono-kimoyes"
-          }
-        },
-        "template--16115040452875__3be65424-845b-48db-bf11-b4f9d35448bf-16653569708b4a0525-1": {
-          "type": "product",
-          "settings": {
-            "product": "nebulite-kimono-kimoyes",
-            "second_image": false
-          }
-        },
-        "6552699c-cc37-40f4-81c8-130cd95c59d4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite-kimono4180_72dpi.jpg",
-            "image_padding": false,
-            "product": "nebulite-kimono-kimoyes"
-          }
-        }
-      },
-      "block_order": [
-        "fb2832d9-50d8-4698-bc82-e4e3497647e2",
-        "template--16115040452875__3be65424-845b-48db-bf11-b4f9d35448bf-16653569708b4a0525-1",
-        "6552699c-cc37-40f4-81c8-130cd95c59d4"
-      ],
-      "settings": {
-        "heading": "New and exclusive: the Kimono",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "accent-1",
-        "padding_top": 28,
-        "padding_bottom": 28
       }
     },
     "16318401324d0c7745": {
@@ -467,33 +472,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "The NEBULITE Collection",
-        "heading_size": "h1",
-        "description": "<p><\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "nebulite-collection",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -536,6 +514,49 @@
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "3be65424-845b-48db-bf11-b4f9d35448bf": {
+      "type": "collage",
+      "blocks": {
+        "fb2832d9-50d8-4698-bc82-e4e3497647e2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nebulite-kimono3390_72dpi.jpg",
+            "image_padding": false,
+            "product": "nebulite-kimono-kimoyes"
+          }
+        },
+        "template--16115040452875__3be65424-845b-48db-bf11-b4f9d35448bf-16653569708b4a0525-1": {
+          "type": "product",
+          "settings": {
+            "product": "nebulite-kimono-kimoyes",
+            "second_image": false
+          }
+        },
+        "6552699c-cc37-40f4-81c8-130cd95c59d4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nebulite-kimono4180_72dpi.jpg",
+            "image_padding": false,
+            "product": "nebulite-kimono-kimoyes"
+          }
+        }
+      },
+      "block_order": [
+        "fb2832d9-50d8-4698-bc82-e4e3497647e2",
+        "template--16115040452875__3be65424-845b-48db-bf11-b4f9d35448bf-16653569708b4a0525-1",
+        "6552699c-cc37-40f4-81c8-130cd95c59d4"
+      ],
+      "settings": {
+        "heading": "New and exclusive: the Kimono",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "accent-1",
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     },
     "multi_column": {
@@ -589,81 +610,6 @@
         "page": "about-me",
         "heading_size": "h1",
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "163184018322d7be73": {
-      "type": "featured-product",
-      "blocks": {
-        "163184018322d7be73-0": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "163184018322d7be73-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "163184018322d7be73-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "163184018322d7be73-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "163184018322d7be73-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "163184018322d7be73-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "163184018322d7be73-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "163184018322d7be73-7": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "163184018322d7be73-0",
-        "163184018322d7be73-1",
-        "163184018322d7be73-2",
-        "163184018322d7be73-3",
-        "163184018322d7be73-4",
-        "163184018322d7be73-5",
-        "163184018322d7be73-6",
-        "163184018322d7be73-7"
-      ],
-      "settings": {
-        "product": "nebulite-drawstring-backpack-fiber-optic-illuminated-festival-bag",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_position": "left",
-        "hide_variants": false,
-        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -743,6 +689,33 @@
         "padding_bottom": 36
       }
     },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "The NEBULITE Collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "nebulite-collection",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1631840440b634b74f": {
       "type": "featured-product",
       "disabled": true,
@@ -815,6 +788,33 @@
         "media_position": "left",
         "hide_variants": false,
         "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c042842f-66e6-461f-9c48-45b335002c96": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Perfection is overrated - our B-Stock",
+        "heading_size": "h1",
+        "description": "<p><\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "b-stock",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -976,17 +976,17 @@
     "1655838275a3ec8c41",
     "1652574569f3e7dab4",
     "rich_text",
-    "c042842f-66e6-461f-9c48-45b335002c96",
+    "163184018322d7be73",
     "166440883166a7b061",
-    "3be65424-845b-48db-bf11-b4f9d35448bf",
     "16318401324d0c7745",
-    "featured_products",
     "collage",
+    "3be65424-845b-48db-bf11-b4f9d35448bf",
     "multi_column",
     "163183973246985780",
-    "163184018322d7be73",
     "1631840486083e2b26",
+    "featured_products",
     "1631840440b634b74f",
+    "c042842f-66e6-461f-9c48-45b335002c96",
     "dfb4abfe-b6f2-4840-88f2-c875bd4db66f",
     "1665422110505130a1",
     "video",
