@@ -821,6 +821,7 @@
     },
     "dfb4abfe-b6f2-4840-88f2-c875bd4db66f": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Deeply in love with NEBULITE? Show it!",
         "heading_size": "h1",
