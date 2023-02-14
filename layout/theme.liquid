@@ -255,7 +255,7 @@
     {% render 'translation-lab-language-management' %}
 </head>
 
-  <body class="gradient {{ request.host }}">
+  <body class="gradient {{ request.host | replace: '.', '-' }}">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a>
