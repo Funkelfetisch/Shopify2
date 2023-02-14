@@ -611,3 +611,11 @@ cart-items .title-wrapper-with-link a.underlined-link, cart-items div a.button {
   background-color: #7f73f5;
   padding-left: 8px;
 }
+
+.uae.nebulite.berlin .section-template--16115040452875__51845a40-fa2c-4458-8b47-cb49d211f5e7-padding {
+  display: unset;
+}
+
+.nebulite.berlin .section-template--16115040452875__51845a40-fa2c-4458-8b47-cb49d211f5e7-padding {
+  display: none !important;
+}
