@@ -35,6 +35,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Made in Germany, delivery in 1-2 working days, free shipping & 30 day return policy",
               "text_alignment": "center",
