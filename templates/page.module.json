@@ -3,10 +3,30 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1679671309a4f8247f": {
+      "type": "apps",
+      "blocks": {
+        "125ff178-b475-43df-8d1a-db6b1f096f98": {
+          "type": "shopify:\/\/apps\/pandectes-gdpr-compliance\/blocks\/dsr\/58c0baa2-6cc1-480c-9ea6-38d6d559556a",
+          "settings": {
+            "container_classes": "page-width page-width--narrow"
+          }
+        }
+      },
+      "block_order": [
+        "125ff178-b475-43df-8d1a-db6b1f096f98"
+      ],
+      "settings": {
+        "include_margins": true
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1679671309a4f8247f"
   ]
 }
