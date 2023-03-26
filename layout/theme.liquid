@@ -249,7 +249,19 @@
  {% render 'nebulite_weglot_switcher' %}  
 
 {% endif %}
+<button class="open-zammad-chat">Chat with us</button>
 
+<script src="https://support.nebulite.io/assets/chat/chat.min.js"></script>
+<script>
+$(function() {
+  new ZammadChat({
+    background: '#7f73f5',
+    fontSize: '12px',
+    chatId: 1,
+    show: false
+  });
+});
+</script>
     <!-- end CUSTOM -->
     
     
