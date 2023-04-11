@@ -623,3 +623,8 @@ cart-items .title-wrapper-with-link a.underlined-link, cart-items div a.button {
 .zammad-chat-input {
     display: revert !important;
 }
+
+
+.branding--link {
+  display: none !important;
+}
