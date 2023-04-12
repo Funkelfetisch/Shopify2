@@ -360,7 +360,11 @@
       window.chatwootSDK.run({
         websiteToken: '2uriqRdx3evvzxQJQuiM5wYZ',
         baseUrl: BASE_URL
-      })
+      });
+      var style = window.document.createElement('style');
+      var content = window.document.createTextNode(".branding--link {display: none !important;}");
+      style.appendChild(content);
+      window.document.body.appendChild(style);
     }
   })(document,"script");
 </script>
