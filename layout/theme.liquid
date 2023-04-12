@@ -349,6 +349,26 @@
 
 
 <script>
+  function waitForElm(selector) {
+      return new Promise(resolve => {
+          if (document.querySelector(selector)) {
+              return resolve(document.querySelector(selector));
+          }
+  
+          const observer = new MutationObserver(mutations => {
+              if (document.querySelector(selector)) {
+                  resolve(document.querySelector(selector));
+                  observer.disconnect();
+              }
+          });
+  
+          observer.observe(document.body, {
+              childList: true,
+              subtree: true
+          });
+      });
+  }
+  
   (function(d,t) {
     var BASE_URL="https://support.nebulite.io";
     var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
@@ -361,12 +381,19 @@
         websiteToken: '2uriqRdx3evvzxQJQuiM5wYZ',
         baseUrl: BASE_URL
       });
-      var style = window.document.createElement('style');
-      var content = window.document.createTextNode(".branding--link {display: none !important;}");
-      style.appendChild(content);
-      window.document.body.appendChild(style);
     }
   })(document,"script");
+
+  waitForElm('#chatwoot_live_chat_widget').then((elm) => {
+      var iframe = document.getElementById('chatwoot_live_chat_widget');
+      var iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
+      var style = iframeDocument.createElement('style');
+      var content = iframeDocument.createTextNode(".branding--link {display: none !important;}");
+      style.appendChild(content);
+      iframeDocument.body.appendChild(style);
+  });
+
+  
 </script>
     
     
