@@ -1,27 +1,21 @@
-Dawn 7.0.0 introduces several fixes and enhancements to make the themes even more flexible and easy to use. We now offer additional customization options in the header to change the position of your logo, new ways of displaying your product page and featured product images, and a new complementary product block to help boost sales.
+Dawn 9.0.0 introduces app blocks in header, video upload with auto-loop, "Click and hover" zoom, new desktop header menu style, a gift card recipient form, and some performance improvements on images.
 
 ### Added
-- The announcement bar section has a new setting that lets you set the text alignment.
-- The header is now more flexible. We added a new logo position option called “Middle center” to feature your logo in the center and your navigation menu on the left, on larger screens.
-- The product information section has a new layout option that allows you to split your product images into a two-column grid.
-- The product information section has a new block that allows you to display complementary products.
-- The product information and featured product sections now allow desktop media to be displayed on the left or on the right on larger screens.
-- We added pagination to the main collection list.
-- We introduced the ability to add and reorder sections, including app sections, to the customer account pages.
+- You can now incorporate eligible app blocks directly into your header section, to the left of your cart icon.
+- You can upload video files directly to Shopify and showcase them in the Video section. Additionally, you have the option to enable automatic video looping.
+- We introduced a new "Click and hover" zoom option on desktop for product page images to add a more subtle hover effect.
+- We've added a new style option to the desktop header menu, allowing you to collapse it into a hamburger icon with a popout drawer for a more compact and streamlined menu experience.
+- We added a language and currency switcher to the header section for shops selling in multiple currencies or languages.
+- The Slideshow, Image Banner, and Image with Text sections now have a subtle background animation option, which adds depth and dynamism to the overall design.
+- You can allow gift cards to be sent to a recipient with a new form on the gift card product page.
 
 ### Changed
-- Important: We introduced new theme settings to style “product cards”, “blog cards” and “collection cards” separately. Prior to this update, all these components were styled with the cards’ theme settings. If you have previously updated the style of your cards, this update may cause visual changes to your product cards, blog cards, or collection cards. This can be modified by adjusting their styling in theme settings.
-- We introduced a new setting on the collage section to let you apply product card styling to all card types featured in the section.
+- Important: The Richtext section heading type has been changed. This might result in your heading text being set back to the default value "Talk about your brand". This can happen when manually upgrading to this version.
+- We reordered the "Color scheme" setting to improve hierarchy in the header section.
+- The “Follow on Shop” option is enabled by default in the footer.
+- Section headings now provide more formatting options like bold, italic, and links.
 
 ### Fixes and improvements
-- We fixed the setting that displays the product’s vendor name on the cart pop up notification.
-- We fixed an issue where the search dropdown window wasn’t matching the width of the search input field on smaller screens.
-- We fixed an issue where the quick add buttons would still display when JavaScript was disabled.
-- We fixed an issue where the login link wouldn’t display properly in the menu drawer on Android.
-- We fixed video controls not being clickable on the featured product section.
-- We fixed an issue with the cart notification overlapping the rest of the content on Safari v15.6.
-- We added max width to iFrames placed in the product description so the content doesn’t overflow.
-- We fixed the slider padding being different on Safari from the rest of the browsers.
-- We fixed an issue where manually inputting a quantity in the cart drawer could remove the item in question.
-- We fixed a bug to allow the removal of filters.
-- We fixed focus rings for Windows High Contrast mode.
+- We improved the performance of the Multicolumn section by reducing the image sizes being loaded.
+- We fixed the blog post slides to show a preview of the subsequent slide.
+- We optimized the logo width to ensure the image looked crisp on all device sizes.
