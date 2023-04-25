@@ -8,13 +8,30 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store!",
+            "text": "Made in Germany, delivery in 1-2 working days, free shipping & 30 day return policy",
+            "link": ""
+          }
+        },
+        "e1aab76f-6046-43a3-ab9a-a871098f48ab": {
+          "type": "announcement",
+          "settings": {
+            "text": "✆ NEW: Support via telephone & WhatsApp: +49 30 68917105 ✆",
+            "link": "tel:+493068917105"
+          }
+        },
+        "b6a0cd70-c817-40dc-bced-4bc8f413a384": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "We're out of office for Christmas, Will return on the 28th. Have a great holiday!🥳",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "e1aab76f-6046-43a3-ab9a-a871098f48ab",
+        "b6a0cd70-c817-40dc-bced-4bc8f413a384"
       ],
       "settings": {
         "color_scheme": "accent-1",
