@@ -280,8 +280,24 @@
           "blocks": {
             "announcement-bar-0": {
               "type": "announcement",
+              "disabled": true,
               "settings": {
-                "text": "Welcome to our store",
+                "text": "Made in Germany, delivery in 1-2 working days, free shipping & 30 day return policy",
+                "link": ""
+              }
+            },
+            "announcement-bar-1": {
+              "type": "announcement",
+              "settings": {
+                "text": "✆ NEW: Support via telephone & WhatApp: +49 30 68917105 ✆",
+                "link": "tel:+493068917105"
+              }
+            },
+            "announcement-bar-2": {
+              "type": "announcement",
+              "disabled": true,
+              "settings": {
+                "text": "We're out of office for Christmas, Will return on the 28th. Have a great holiday!🥳",
                 "link": ""
               }
             }
