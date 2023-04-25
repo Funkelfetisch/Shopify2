@@ -34,6 +34,9 @@ if (!customElements.get('localization-form')) {
         event.preventDefault();
         const form = this.querySelector('form');
         this.elements.input.value = event.currentTarget.dataset.value;
+
+        localStorage.setItem('translation-lab-lang', this.elements.input.value);
+
         if (form) form.submit();
       }
 

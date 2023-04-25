@@ -60,7 +60,8 @@
       {% endif %}
     >
     <label for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
-      {{ value -}}
+      {%  if product.variants[forloop.index0].available == false %} style="text-decoration: line-through" {% endif %}>
+        {{ product.variants[forloop.index0].price | money | strip_html }} - {{ value -}}
       <span class="visually-hidden">{{ 'products.product.variant_sold_out_or_unavailable' | t }}</span>
     </label>
   {%- elsif block.settings.picker_type == 'dropdown' -%}
