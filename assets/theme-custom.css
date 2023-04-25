@@ -632,3 +632,7 @@ cart-items .title-wrapper-with-link a.underlined-link, cart-items div a.button {
 .desktop-localization-wrapper .localization-form:only-child {
   padding: 10px 0 !important;
 }
+
+.header__icons--localization .localization-form__select > span {
+  color: rgba(var(--color-foreground),.75);
+}
