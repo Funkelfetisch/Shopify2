@@ -630,5 +630,5 @@ cart-items .title-wrapper-with-link a.underlined-link, cart-items div a.button {
 }
 
 .desktop-localization-wrapper .localization-form:only-child {
-  padding: 10px 0;
+  padding: 10px 0 !important;
 }
