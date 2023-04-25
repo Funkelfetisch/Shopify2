@@ -628,3 +628,7 @@ cart-items .title-wrapper-with-link a.underlined-link, cart-items div a.button {
 .branding--link {
   display: none !important;
 }
+
+.desktop-localization-wrapper .localization-form:only-child {
+  padding: 10px 0;
+}
