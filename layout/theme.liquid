@@ -1,8 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
-  <head>
-  {% if request.country_code != "DE" %}<!-- test-->{% endif %}
-    
+  <head>    
 	{% include "pandectes-rules" %}
     <script src="//d1liekpayvooaz.cloudfront.net/apps/customizery/customizery.js?shop={{shop.permanent_domain}}"></script>
     <meta charset="utf-8">
@@ -415,6 +413,7 @@
 
 
 
+  {% if request.country_code != "DE" %}<!-- {{  request.country_code }} -->{% endif %}
     
 </body>
 </html>
