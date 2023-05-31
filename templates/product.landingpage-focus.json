@@ -34,7 +34,7 @@
         "0cc587d7-9fbc-4ff9-9a11-1abc8fe9c981": {
           "type": "shopify:\/\/apps\/product-reviews-with-photo-pro\/blocks\/average-rating\/5c74945a-3298-4051-9c10-33ec1194d6b6",
           "settings": {
-            "product": "{{product}}"
+            "product": "nebulite-fanny-pack-3"
           }
         },
         "subtitle": {
@@ -154,7 +154,7 @@
         "12736b1a-f7de-4024-b7cb-d605346f5d41": {
           "type": "shopify:\/\/apps\/product-reviews-with-photo-pro\/blocks\/product-reviews\/5c74945a-3298-4051-9c10-33ec1194d6b6",
           "settings": {
-            "product": "{{product}}"
+            "product": "nebulite-fanny-pack-3"
           }
         }
       },
