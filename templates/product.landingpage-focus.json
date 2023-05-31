@@ -3,7 +3,7 @@
     "f85aa9fb-5a9b-4e44-8550-3f901438b7ba": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\nheader {\n  display: none !important;\n}\n#ProductSubmitButton-template--17930137960715__main {\n  display: none;\n}\n.shopify-payment-button__button {\n  min-height: 6.6rem;\n}\n<\/style>",
+        "custom_liquid": "<style>\nheader {\n  display: none !important;\n}\n#ProductSubmitButton-template--17930137960715__main {\n  display: none;\n}\n.shopify-payment-button__button {\n  min-height: 6.6rem;\n}\n.shopify-payment-button__more-options {\n  font-size: 1.6rem;\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -88,6 +88,13 @@
             "show_gift_card_recipient": false
           }
         },
+        "97f2715a-d1fc-46be-8f3c-dd189afe20ef": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
         "d65558f3-e7f1-415e-84c6-27b7087286f6": {
           "type": "collapsible_tab",
           "settings": {
@@ -116,6 +123,7 @@
         "7913d93c-2ae4-4915-908c-1bb988c505a1",
         "1b7eeb24-bc65-4da3-977e-36e7a30bceaa",
         "buy_buttons",
+        "97f2715a-d1fc-46be-8f3c-dd189afe20ef",
         "d65558f3-e7f1-415e-84c6-27b7087286f6",
         "description"
       ],
