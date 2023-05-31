@@ -142,6 +142,7 @@
     },
     "165257253708bedf44": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "NEBULITE Collection",
         "heading_size": "h1",
