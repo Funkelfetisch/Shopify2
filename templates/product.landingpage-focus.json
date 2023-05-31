@@ -1,0 +1,178 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "0cc587d7-9fbc-4ff9-9a11-1abc8fe9c981": {
+          "type": "shopify:\/\/apps\/product-reviews-with-photo-pro\/blocks\/average-rating\/5c74945a-3298-4051-9c10-33ec1194d6b6",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "9f4185fa-9cbf-4fb0-b6ff-4d915a47fe97": {
+          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block-price\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
+          "settings": {
+            "color": "#ffffff",
+            "font": "Raleway, sans-serif",
+            "font_size": "18px"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "7913d93c-2ae4-4915-908c-1bb988c505a1": {
+          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "d65558f3-e7f1-415e-84c6-27b7087286f6": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "CREW PACKAGES: Make your festival crew stand out from the crowd with these awesome bundles. Click here to see our coupon codes!",
+            "icon": "box",
+            "content": "",
+            "page": "crew-packages"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "share",
+        "0cc587d7-9fbc-4ff9-9a11-1abc8fe9c981",
+        "subtitle",
+        "price",
+        "9f4185fa-9cbf-4fb0-b6ff-4d915a47fe97",
+        "variant_picker",
+        "quantity_selector",
+        "7913d93c-2ae4-4915-908c-1bb988c505a1",
+        "buy_buttons",
+        "d65558f3-e7f1-415e-84c6-27b7087286f6",
+        "description"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1652573301eeaf7cdd": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1654555417d1baa085": {
+      "type": "apps",
+      "blocks": {
+        "12736b1a-f7de-4024-b7cb-d605346f5d41": {
+          "type": "shopify:\/\/apps\/product-reviews-with-photo-pro\/blocks\/product-reviews\/5c74945a-3298-4051-9c10-33ec1194d6b6",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "12736b1a-f7de-4024-b7cb-d605346f5d41"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "165257253708bedf44": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NEBULITE Collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "nebulite-collection",
+        "products_to_show": 9,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1652573301eeaf7cdd",
+    "1654555417d1baa085",
+    "165257253708bedf44"
+  ]
+}
