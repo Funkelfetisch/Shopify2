@@ -7,7 +7,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>10% OFF for subscribers<\/p>",
+            "heading": "10% OFF for subscribers",
             "heading_size": "medium"
           }
         },
@@ -39,7 +39,6 @@
         "image": "shopify:\/\/shop_images\/L1006405-20.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": true,
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -170,7 +169,7 @@
         "1655838275e35dde54-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Image with text<\/p>",
+            "heading": "Image with text",
             "heading_size": "h1"
           }
         },
@@ -215,7 +214,7 @@
         "1652574569d1665d7c-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Our topseller<\/p>",
+            "heading": "Our topseller",
             "heading_size": "h1"
           }
         }
@@ -239,7 +238,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "Talk about your brand",
             "heading_size": "h1"
           }
         },
@@ -363,9 +362,7 @@
         "6c7a25c5-c3a9-4520-8fb1-51c4d4dafe7a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite__web19.jpg",
-            "image_padding": false,
-            "product": "nebulite-fanny-pack-3"
+            "image": "shopify:\/\/shop_images\/nebulite__web19.jpg"
           }
         },
         "166440883198c2feb8-0": {
@@ -373,8 +370,7 @@
           "settings": {
             "cover_image": "shopify:\/\/shop_images\/vlcsnap-2022-10-06-16h16m14s821.png",
             "video_url": "https:\/\/www.youtube.com\/watch?v=Nz2Ui1xyT7o",
-            "description": "NEBULITE Berlin - Fanny Pack 2+ Trailer 2022",
-            "image_padding": false
+            "description": "NEBULITE Berlin - Fanny Pack 2+ Trailer 2022"
           }
         }
       },
@@ -407,9 +403,7 @@
         "2a2b751e-21f7-446f-a0cc-8556b21f4ace": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite__web19.jpg",
-            "image_padding": false,
-            "product": "nebulite-fanny-pack-3"
+            "image": "shopify:\/\/shop_images\/nebulite__web19.jpg"
           }
         },
         "template--16115040452875__51845a40-fa2c-4458-8b47-cb49d211f5e7-16763924582e73e54f-0": {
@@ -417,8 +411,7 @@
           "settings": {
             "cover_image": "shopify:\/\/shop_images\/vlcsnap-2023-02-14-17h40m54s506.png",
             "video_url": "https:\/\/youtu.be\/ucorFuBU7Vc",
-            "description": "NEBULITE Berlin - Fanny Pack 2+ Trailer 2022 - UAE Edition",
-            "image_padding": false
+            "description": "NEBULITE Berlin - Fanny Pack 2+ Trailer 2022 - UAE Edition"
           }
         }
       },
@@ -527,16 +520,13 @@
           "settings": {
             "cover_image": "shopify:\/\/shop_images\/DSC9031.jpg",
             "video_url": "https:\/\/youtu.be\/Fbq0MB2sbhk?vq=hd1080",
-            "description": "Our model wearing the new crop top, daning in front of lasers and water.",
-            "image_padding": false
+            "description": "Our model wearing the new crop top, daning in front of lasers and water."
           }
         },
         "3d2e3f29-0e2f-437f-8f3c-8cfdeeb9d6ab": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Katzengold_X_Nebulite_instashots-5.webp",
-            "image_padding": false,
-            "product": ""
+            "image": "shopify:\/\/shop_images\/Katzengold_X_Nebulite_instashots-5.webp"
           }
         },
         "product": {
@@ -569,9 +559,7 @@
         "fb2832d9-50d8-4698-bc82-e4e3497647e2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite-kimono3390_72dpi.jpg",
-            "image_padding": false,
-            "product": "nebulite-kimono-kimoyes"
+            "image": "shopify:\/\/shop_images\/nebulite-kimono3390_72dpi.jpg"
           }
         },
         "template--16115040452875__3be65424-845b-48db-bf11-b4f9d35448bf-16653569708b4a0525-1": {
@@ -584,9 +572,7 @@
         "6552699c-cc37-40f4-81c8-130cd95c59d4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite-kimono4180_72dpi.jpg",
-            "image_padding": false,
-            "product": "nebulite-kimono-kimoyes"
+            "image": "shopify:\/\/shop_images\/nebulite-kimono4180_72dpi.jpg"
           }
         }
       },
@@ -918,8 +904,8 @@
       "settings": {
         "heading": "NEBULITE Festival Trailer 2021",
         "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/L1006121d_Large_06e2450e-0658-4bb5-bb1e-f79f7b61a337.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=a44_OWQS-zg",
+        "cover_image": "shopify:\/\/shop_images\/L1006121d_Large_06e2450e-0658-4bb5-bb1e-f79f7b61a337.jpg",
         "description": "NEBULITE Festival Trailer 2021",
         "full_width": false,
         "color_scheme": "background-1",
@@ -1008,8 +994,8 @@
       "settings": {
         "heading": "Video",
         "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/DSC9031.jpg",
         "video_url": "https:\/\/youtu.be\/OpyU5begX34",
+        "cover_image": "shopify:\/\/shop_images\/DSC9031.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
