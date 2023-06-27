@@ -52,6 +52,24 @@
     "16526308803d67e56f": {
       "type": "slideshow",
       "blocks": {
+        "71400808-7127-4bdd-80bb-46a58bb39712": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nebulite-kimono4306_72dpi_b0e600a8-ce1b-4d39-acfd-55285b64aac2.jpg",
+            "heading": "Kimo<strong>YES<\/strong>",
+            "heading_size": "h0",
+            "subheading": "now >60% OFF!",
+            "button_label": "Order now!",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "5abab5a9-6670-4704-8980-36865092cac7": {
           "type": "slide",
           "settings": {
@@ -165,6 +183,7 @@
         }
       },
       "block_order": [
+        "71400808-7127-4bdd-80bb-46a58bb39712",
         "5abab5a9-6670-4704-8980-36865092cac7",
         "1fc1acb1-17c3-4387-81fb-2ea836419a4e",
         "54e36e7e-ec7f-44e1-8585-00f51e495b1a",
