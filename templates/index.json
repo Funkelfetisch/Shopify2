@@ -60,13 +60,13 @@
             "heading_size": "h0",
             "subheading": "now >60% OFF!",
             "button_label": "Order now!",
-            "link": "",
+            "link": "shopify:\/\/products\/nebulite-kimono-kimoyes",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         },
@@ -74,9 +74,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC8679-Bearbeitet-2.jpg",
-            "heading": "THE fur coat.",
+            "heading": "LUX",
             "heading_size": "h1",
-            "subheading": "",
+            "subheading": "THE fur coat.",
             "button_label": "Pre-Order now!",
             "link": "shopify:\/\/products\/nebulite-lux-led-light-up-faux-fur-coat",
             "button_style_secondary": false,
