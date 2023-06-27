@@ -52,6 +52,24 @@
     "16526308803d67e56f": {
       "type": "slideshow",
       "blocks": {
+        "5abab5a9-6670-4704-8980-36865092cac7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC8679-Bearbeitet-2.jpg",
+            "heading": "THE fur coat.",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Pre-Order now!",
+            "link": "shopify:\/\/products\/nebulite-lux-led-light-up-faux-fur-coat",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "1fc1acb1-17c3-4387-81fb-2ea836419a4e": {
           "type": "slide",
           "disabled": true,
@@ -147,6 +165,7 @@
         }
       },
       "block_order": [
+        "5abab5a9-6670-4704-8980-36865092cac7",
         "1fc1acb1-17c3-4387-81fb-2ea836419a4e",
         "54e36e7e-ec7f-44e1-8585-00f51e495b1a",
         "ded7c83c-190b-4ddb-97a0-a76f91ffa9eb",
@@ -159,7 +178,7 @@
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 5,
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
