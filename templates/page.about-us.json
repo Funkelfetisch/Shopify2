@@ -6,7 +6,7 @@
         "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "NEBULITE: A Legacy of Innovation and Uniqueness",
+            "heading": "About Us",
             "heading_size": "h1"
           }
         },
@@ -31,6 +31,7 @@
         "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-button-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/DSC9173_a6618d4c-aa52-46d4-b26f-558fec23fa69.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
