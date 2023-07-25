@@ -5,6 +5,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "9c113140-7a7c-44c7-875b-4f3e17a0b445": {
+          "type": "announcement",
+          "settings": {
+            "text": "PayPal is currently keeping our money until the end of the month - because we're growing too fast. Please avoid if possible :)",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -29,6 +36,7 @@
         }
       },
       "block_order": [
+        "9c113140-7a7c-44c7-875b-4f3e17a0b445",
         "announcement-bar-0",
         "e1aab76f-6046-43a3-ab9a-a871098f48ab",
         "b6a0cd70-c817-40dc-bced-4bc8f413a384"
