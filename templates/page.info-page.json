@@ -1,76 +1,77 @@
 {
-    "sections": {
-      "main": {
-        "type": "main-page",
-        "settings": {
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "1652577039dd67ce91": {
-        "type": "collapsible-content",
-        "blocks": {
-          "165257703920465a2d-0": {
-            "type": "collapsible_row",
-            "settings": {
-              "heading": "Collapsible row",
-              "icon": "check_mark",
-              "row_content": "",
-              "page": ""
-            }
-          },
-          "165257703920465a2d-1": {
-            "type": "collapsible_row",
-            "settings": {
-              "heading": "Collapsible row",
-              "icon": "check_mark",
-              "row_content": "",
-              "page": "contact-us"
-            }
-          },
-          "165257703920465a2d-2": {
-            "type": "collapsible_row",
-            "settings": {
-              "heading": "Collapsible row",
-              "icon": "check_mark",
-              "row_content": "",
-              "page": "about-me"
-            }
-          },
-          "165257703920465a2d-3": {
-            "type": "collapsible_row",
-            "settings": {
-              "heading": "Collapsible row",
-              "icon": "check_mark",
-              "row_content": "",
-              "page": ""
-            }
-          }
-        },
-        "block_order": [
-          "165257703920465a2d-0",
-          "165257703920465a2d-1",
-          "165257703920465a2d-2",
-          "165257703920465a2d-3"
-        ],
-        "settings": {
-          "caption": "",
-          "heading": "Collapsible content",
-          "heading_size": "h1",
-          "heading_alignment": "center",
-          "layout": "none",
-          "color_scheme": "background-1",
-          "container_color_scheme": "background-2",
-          "open_first_collapsible_row": false,
-          "image_ratio": "adapt",
-          "desktop_layout": "image_second",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
-    "order": [
-      "main",
-      "1652577039dd67ce91"
-    ]
-  }
+    "1652577039dd67ce91": {
+      "type": "collapsible-content",
+      "blocks": {
+        "165257703920465a2d-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "165257703920465a2d-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "contact-us"
+          }
+        },
+        "165257703920465a2d-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "about-me"
+          }
+        },
+        "165257703920465a2d-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "165257703920465a2d-0",
+        "165257703920465a2d-1",
+        "165257703920465a2d-2",
+        "165257703920465a2d-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1652577039dd67ce91"
+  ]
+}

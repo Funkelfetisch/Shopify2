@@ -1,12 +1,145 @@
 {
   "sections": {
+    "b9c215fd-18fb-4f2b-8c0c-5c4749b70408": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "NEBULITE: A Legacy of Innovation and Uniqueness",
+            "heading_size": "h1"
+          }
+        },
+        "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Founded in the heart of Berlin by Veit, a dedicated DevOps Engineer with a passionate interest in the techno scene, NEBULITE is a brand that reflects the spirit of innovation, resilience, and the pursuit of an extraordinary vision. Born out of Veit's unique blend of engineering acumen and love for techno festivals, the brand NEBULITE has become synonymous with a distinct brand of drawstring backpacks that feature re-purposed, glowing fiber optic patches.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-heading-1",
+        "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-text-1",
+        "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "18971a55-c2ea-4215-a345-dc2081ec2f33": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hey there, our light-up community, welcome to the world of NEBULITE! It all started in the vibrant city of Berlin with our techno-loving founder, Veit. Picture this: he loses his friends at his first festival and what does he do? Uses his DevOps Engineering skills to create a laser unicorn-on-a-stick as a beacon. Genius, right? But, it was pointy and risky, and that didn't quite sit right.<\/p><p>Not one to give up, Veit moved on to a cloud-hat concept, but dancing with a bulky hat didn't cut it. He needed something easy, portable, and, of course, super cool. So, the idea struck - why not use something people carry anyway? That’s when the NEBULITE drawstring backpack was born!<\/p><p>The journey began with a few handmade prototypes, which quickly turned into a successful Kickstarter campaign. And now, we are here with our revolutionary, customizable, eco-friendly NEBULITE back,- and fanny packs, bringing a spark to your festival experiences. So, welcome aboard and light up the party with NEBULITE!<\/p>"
+          }
+        },
+        "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-heading-1",
+        "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-text-1",
+        "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "a41a4ce2-272b-45f9-b325-1c63f40da84d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17990470107403__a41a4ce2-272b-45f9-b325-1c63f40da84d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "About us",
+            "heading_size": "h0"
+          }
+        },
+        "template--17990470107403__a41a4ce2-272b-45f9-b325-1c63f40da84d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>NEBULITE: A Legacy of Innovation and Uniqueness<\/p><p>Founded in the heart of Berlin by Veit, a dedicated DevOps Engineer with a passionate interest in the techno scene, NEBULITE is a brand that reflects the spirit of innovation, resilience, and the pursuit of an extraordinary vision. Born out of Veit's unique blend of engineering acumen and love for techno festivals, the brand NEBULITE has become synonymous with a distinct brand of drawstring backpacks that feature re-purposed, glowing fiber optic patches.<\/p>"
+          }
+        },
+        "template--17990470107403__a41a4ce2-272b-45f9-b325-1c63f40da84d-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17990470107403__a41a4ce2-272b-45f9-b325-1c63f40da84d-heading-1",
+        "template--17990470107403__a41a4ce2-272b-45f9-b325-1c63f40da84d-text-1",
+        "template--17990470107403__a41a4ce2-272b-45f9-b325-1c63f40da84d-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
+    "b9c215fd-18fb-4f2b-8c0c-5c4749b70408",
+    "18971a55-c2ea-4215-a345-dc2081ec2f33",
+    "a41a4ce2-272b-45f9-b325-1c63f40da84d",
     "main"
   ]
 }
