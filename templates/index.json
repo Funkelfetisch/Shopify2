@@ -2,7 +2,6 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -35,6 +34,7 @@
         "c8447dad-4631-4f6f-ac75-5fa24d14c948",
         "5883aef6-b1a4-4ae1-86f1-3a3e8df081f8"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/L1006405-20.jpg",
         "image_overlay_opacity": 0,
@@ -52,42 +52,6 @@
     "16526308803d67e56f": {
       "type": "slideshow",
       "blocks": {
-        "71400808-7127-4bdd-80bb-46a58bb39712": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite-kimono4306_72dpi_b0e600a8-ce1b-4d39-acfd-55285b64aac2.jpg",
-            "heading": "Kimo<strong>YES<\/strong>",
-            "heading_size": "h0",
-            "subheading": "now >60% OFF!",
-            "button_label": "Order now!",
-            "link": "shopify:\/\/products\/nebulite-kimono-kimoyes",
-            "button_style_secondary": false,
-            "box_align": "top-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "5abab5a9-6670-4704-8980-36865092cac7": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSC8679-Bearbeitet-2.jpg",
-            "heading": "LUX",
-            "heading_size": "h1",
-            "subheading": "THE fur coat.",
-            "button_label": "Pre-Order now!",
-            "link": "shopify:\/\/products\/nebulite-lux-led-light-up-faux-fur-coat",
-            "button_style_secondary": false,
-            "box_align": "middle-right",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-2",
-            "text_alignment_mobile": "center"
-          }
-        },
         "1fc1acb1-17c3-4387-81fb-2ea836419a4e": {
           "type": "slide",
           "disabled": true,
@@ -145,6 +109,24 @@
             "text_alignment_mobile": "center"
           }
         },
+        "71400808-7127-4bdd-80bb-46a58bb39712": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nebulite-kimono4306_72dpi_b0e600a8-ce1b-4d39-acfd-55285b64aac2.jpg",
+            "heading": "Kimo<strong>YES<\/strong>",
+            "heading_size": "h0",
+            "subheading": "now >60% OFF!",
+            "button_label": "Order now!",
+            "link": "shopify:\/\/products\/nebulite-kimono-kimoyes",
+            "button_style_secondary": false,
+            "box_align": "top-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "1652630879bc77801a-1": {
           "type": "slide",
           "settings": {
@@ -160,6 +142,24 @@
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "5abab5a9-6670-4704-8980-36865092cac7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC8679-Bearbeitet-2.jpg",
+            "heading": "LUX",
+            "heading_size": "h1",
+            "subheading": "THE fur coat.",
+            "button_label": "Pre-Order now!",
+            "link": "shopify:\/\/products\/nebulite-lux-led-light-up-faux-fur-coat",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -183,12 +183,12 @@
         }
       },
       "block_order": [
-        "71400808-7127-4bdd-80bb-46a58bb39712",
-        "5abab5a9-6670-4704-8980-36865092cac7",
         "1fc1acb1-17c3-4387-81fb-2ea836419a4e",
         "54e36e7e-ec7f-44e1-8585-00f51e495b1a",
         "ded7c83c-190b-4ddb-97a0-a76f91ffa9eb",
+        "71400808-7127-4bdd-80bb-46a58bb39712",
         "1652630879bc77801a-1",
+        "5abab5a9-6670-4704-8980-36865092cac7",
         "1652630879bc77801a-0"
       ],
       "settings": {
@@ -243,7 +243,6 @@
     },
     "1655838275a3ec8c41": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1655838275e35dde54-0": {
           "type": "heading",
@@ -272,6 +271,7 @@
         "1655838275e35dde54-1",
         "1655838275e35dde54-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/nebulite__web_16.jpg",
         "height": "adapt",
@@ -289,7 +289,6 @@
     },
     "1652574569f3e7dab4": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "1652574569d1665d7c-0": {
           "type": "heading",
@@ -302,6 +301,7 @@
       "block_order": [
         "1652574569d1665d7c-0"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -313,7 +313,6 @@
     },
     "rich_text": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -345,6 +344,7 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -520,7 +520,6 @@
     },
     "16318401324d0c7745": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "16318401324d0c7745-0": {
           "type": "text",
@@ -585,6 +584,7 @@
         "16318401324d0c7745-6",
         "16318401324d0c7745-7"
       ],
+      "disabled": true,
       "settings": {
         "product": "nebulite-fanny-pack-3",
         "color_scheme": "background-1",
@@ -682,7 +682,6 @@
     },
     "multi_column": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
@@ -707,6 +706,7 @@
         "column1",
         "column2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Multicolumn",
         "heading_size": "h1",
@@ -844,7 +844,6 @@
     },
     "1631840440b634b74f": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "1631840440b634b74f-0": {
           "type": "text",
@@ -907,6 +906,7 @@
         "1631840440b634b74f-6",
         "1631840440b634b74f-7"
       ],
+      "disabled": true,
       "settings": {
         "product": "nebulite-top",
         "color_scheme": "background-1",
@@ -955,7 +955,7 @@
       "type": "apps",
       "blocks": {
         "ddead0b3-d9d5-4882-8acb-dcce262e1d9d": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 25,
             "feed_width": 100,
@@ -987,7 +987,6 @@
     },
     "163184046961e1a69a": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "163184046961e1a69a-0": {
           "type": "text",
@@ -1049,6 +1048,7 @@
         "163184046961e1a69a-6",
         "163184046961e1a69a-7"
       ],
+      "disabled": true,
       "settings": {
         "product": "machine-washable-fiber-optic-face-mask",
         "color_scheme": "background-1",
