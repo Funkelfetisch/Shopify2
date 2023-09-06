@@ -127,12 +127,23 @@
             "button_label": "Button label",
             "button_link": ""
           }
+        },
+        "abc2a4e4-c1dc-4762-884b-58edf648ea91": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Anna",
+            "text": "<p>Anna is our go-to person for marketing and content management. She communicates the NEBULITE vision to the world and keeps our community engaged. When she's not crafting captivating marketing strategies, Anna is part of a dance collective, moving to the beat of her own rhythm. Her love for painting also mirrors her creativity and her ability to paint a vivid picture of NEBULITE's unique offerings.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "template--17990470107403__1c1f9425-43e1-4198-b10a-7b8cde000bdf-row-1",
         "template--17990470107403__1c1f9425-43e1-4198-b10a-7b8cde000bdf-row-2",
-        "template--17990470107403__1c1f9425-43e1-4198-b10a-7b8cde000bdf-row-3"
+        "template--17990470107403__1c1f9425-43e1-4198-b10a-7b8cde000bdf-row-3",
+        "abc2a4e4-c1dc-4762-884b-58edf648ea91"
       ],
       "settings": {
         "image_height": "small",
