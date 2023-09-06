@@ -87,48 +87,6 @@
         "padding_bottom": 52
       }
     },
-    "a41a4ce2-272b-45f9-b325-1c63f40da84d": {
-      "type": "rich-text",
-      "blocks": {
-        "template--17990470107403__a41a4ce2-272b-45f9-b325-1c63f40da84d-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "About us",
-            "heading_size": "h0"
-          }
-        },
-        "template--17990470107403__a41a4ce2-272b-45f9-b325-1c63f40da84d-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>NEBULITE: A Legacy of Innovation and Uniqueness<\/p><p>Own The Night.<\/p><p>Founded in the heart of Berlin by Veit, a dedicated DevOps Engineer with a passionate interest in the techno scene, NEBULITE is a brand that reflects the spirit of innovation, resilience, and the pursuit of an extraordinary vision. Born out of Veit's unique blend of engineering acumen and love for techno festivals, the brand NEBULITE has become synonymous with the most awesome party gear in the world.<\/p>"
-          }
-        },
-        "template--17990470107403__a41a4ce2-272b-45f9-b325-1c63f40da84d-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17990470107403__a41a4ce2-272b-45f9-b325-1c63f40da84d-heading-1",
-        "template--17990470107403__a41a4ce2-272b-45f9-b325-1c63f40da84d-text-1",
-        "template--17990470107403__a41a4ce2-272b-45f9-b325-1c63f40da84d-button-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -164,8 +122,8 @@
           "type": "row",
           "settings": {
             "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "heading": "Richard",
+            "text": "<p>Richard is our indispensable logistics and warehouse management specialist. He ensures that our production line is efficient and that orders are shipped and delivered on time. Outside of work, Richard is an avid adventurer who enjoys exploring the great outdoors. His knack for navigation and organization, honed from his many travels, translate perfectly into his role at NEBULITE.<\/p>",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -196,7 +154,6 @@
   "order": [
     "b9c215fd-18fb-4f2b-8c0c-5c4749b70408",
     "18971a55-c2ea-4215-a345-dc2081ec2f33",
-    "a41a4ce2-272b-45f9-b325-1c63f40da84d",
     "main",
     "1c1f9425-43e1-4198-b10a-7b8cde000bdf"
   ]
