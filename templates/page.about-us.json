@@ -101,7 +101,8 @@
         "template--17990470107403__1c1f9425-43e1-4198-b10a-7b8cde000bdf-row-1": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
+            "image": "shopify:\/\/shop_images\/DSC_6019.jpg",
+            "caption": "",
             "heading": "Veit",
             "text": "<p>As the founding father of NEBULITE, Veit has a passion for techno music that extends to the products he innovates. A seasoned DevOps engineer, he channels his creativity into the continuous refinement of our iconic, customizable backpacks. In his downtime, Veit loves to immerse himself in the festival scene, letting the vibrant rhythms inspire his next invention.<\/p>",
             "button_label": "Button label",
@@ -111,7 +112,8 @@
         "template--17990470107403__1c1f9425-43e1-4198-b10a-7b8cde000bdf-row-2": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-09-06_at_23.18.20.jpg",
+            "caption": "",
             "heading": "Lars",
             "text": "<p>Donning many hats at NEBULITE, Lars takes care of customer support, accounting, and operative processes, ensuring the smooth operation of our business. He's a passionate fire player, skillfully crafting mesmerizing patterns of flame in his free time. The same fire that dances at the tip of Lars's whip also drives his dedication to providing the best service for our customers.<\/p>",
             "button_label": "Button label",
@@ -121,7 +123,7 @@
         "template--17990470107403__1c1f9425-43e1-4198-b10a-7b8cde000bdf-row-3": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
+            "caption": "",
             "heading": "Richard",
             "text": "<p>Richard is our indispensable logistics and warehouse management specialist. He ensures that our production line is efficient and that orders are shipped and delivered on time. Outside of work, Richard is an avid adventurer who enjoys exploring the great outdoors. His knack for navigation and organization, honed from his many travels, translate perfectly into his role at NEBULITE.<\/p>",
             "button_label": "Button label",
@@ -131,7 +133,7 @@
         "abc2a4e4-c1dc-4762-884b-58edf648ea91": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
+            "caption": "",
             "heading": "Anna",
             "text": "<p>Anna is our go-to person for marketing and content management. She communicates the NEBULITE vision to the world and keeps our community engaged. When she's not crafting captivating marketing strategies, Anna is part of a dance collective, moving to the beat of her own rhythm. Her love for painting also mirrors her creativity and her ability to paint a vivid picture of NEBULITE's unique offerings.<\/p>",
             "button_label": "Button label",
