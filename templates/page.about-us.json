@@ -16,19 +16,11 @@
             "text": "<p>Founded in the heart of Berlin by Veit, a dedicated DevOps Engineer with a passionate interest in the techno scene, NEBULITE is a brand that reflects the spirit of innovation, resilience, and the pursuit of an extraordinary vision. Born out of Veit's unique blend of engineering acumen and love for techno festivals, the brand NEBULITE has become synonymous with the most awesome party gear in the world.<\/p>",
             "text_style": "body"
           }
-        },
-        "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-heading-1",
-        "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-text-1",
-        "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-button-1"
+        "template--17990470107403__b9c215fd-18fb-4f2b-8c0c-5c4749b70408-text-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DSC9173_a6618d4c-aa52-46d4-b26f-558fec23fa69.jpg",
@@ -60,23 +52,11 @@
           "settings": {
             "text": "<p>Hey there, our light-up community, welcome to the world of NEBULITE! It all started in the vibrant city of Berlin with our techno-loving founder, Veit. Picture this: he loses his friends at his first festival and what does he do? Uses his soldering and novice-at-best Arduino skills to create a laser unicorn-on-a-stick as a beacon. Pretty nifty, right? But, it was pointy and risky, and that didn't quite sit right.<\/p><p>Not one to give up, Veit moved on to a cloud-hat concept, but dancing with a bulky hat didn't cut it. He needed something easy, portable, and, of course, super cool. So, the idea struck - why not use something people carry anyway? That’s when the NEBULITE drawstring backpack was born!<\/p><p>The journey began with a few handmade prototypes, which quickly turned into a successful Kickstarter campaign. And now, we are here with our revolutionary, customizable, eco-friendly NEBULITE back- and fanny packs, jackets, kimonos and tops bringing a spark to your festival experiences. So, welcome aboard and light up the party with NEBULITE!<\/p>"
           }
-        },
-        "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-heading-1",
-        "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-text-1",
-        "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-button-1"
+        "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-text-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -105,7 +85,7 @@
             "caption": "",
             "heading": "Veit",
             "text": "<p>As the founding father of NEBULITE, Veit has a passion for techno music that extends to the products he innovates. A seasoned DevOps engineer, he channels his creativity into the continuous refinement of our iconic, customizable backpacks. In his downtime, Veit loves to immerse himself in the festival scene, letting the vibrant rhythms inspire his next invention.<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -116,7 +96,7 @@
             "caption": "",
             "heading": "Lars",
             "text": "<p>Donning many hats at NEBULITE, Lars takes care of customer support, accounting, and operative processes, ensuring the smooth operation of our business. He's a passionate fire player, skillfully crafting mesmerizing patterns of flame in his free time. The same fire that dances at the tip of Lars's whip also drives his dedication to providing the best service for our customers.<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -126,7 +106,7 @@
             "caption": "",
             "heading": "Richard",
             "text": "<p>Richard is our indispensable logistics and warehouse management specialist. He ensures that our production line is efficient and that orders are shipped and delivered on time. Outside of work, Richard is an avid adventurer who enjoys exploring the great outdoors. His knack for navigation and organization, honed from his many travels, translate perfectly into his role at NEBULITE.<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -136,7 +116,7 @@
             "caption": "",
             "heading": "Anna",
             "text": "<p>Anna is our go-to person for marketing and content management. She communicates the NEBULITE vision to the world and keeps our community engaged. When she's not crafting captivating marketing strategies, Anna is part of a dance collective, moving to the beat of her own rhythm. Her love for painting also mirrors her creativity and her ability to paint a vivid picture of NEBULITE's unique offerings.<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
