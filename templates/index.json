@@ -109,24 +109,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "2e95e403-b19c-4482-8051-fd1cebcc22b6": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/P7231487-MarcJaspers-BetterCreativeBusiness.jpg",
-            "heading": "Updated: Drawstring Backpack 2",
-            "heading_size": "h1",
-            "subheading": "Innovation never stops - now with RGB drawstrings!",
-            "button_label": "Order now!",
-            "link": "shopify:\/\/products\/nebulite-drawstring-backpack-fiber-optic-illuminated-festival-bag",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "66bd7ff9-2545-454f-a7e8-4bcc2ef17392": {
           "type": "slide",
           "settings": {
@@ -142,6 +124,24 @@
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "accent-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "2e95e403-b19c-4482-8051-fd1cebcc22b6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P7231487-MarcJaspers-BetterCreativeBusiness.jpg",
+            "heading": "Updated: Drawstring Backpack 2",
+            "heading_size": "h1",
+            "subheading": "Innovation never stops - now with RGB drawstrings!",
+            "button_label": "Order now!",
+            "link": "shopify:\/\/products\/nebulite-drawstring-backpack-fiber-optic-illuminated-festival-bag",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         },
@@ -240,8 +240,8 @@
         "1fc1acb1-17c3-4387-81fb-2ea836419a4e",
         "54e36e7e-ec7f-44e1-8585-00f51e495b1a",
         "ded7c83c-190b-4ddb-97a0-a76f91ffa9eb",
-        "2e95e403-b19c-4482-8051-fd1cebcc22b6",
         "66bd7ff9-2545-454f-a7e8-4bcc2ef17392",
+        "2e95e403-b19c-4482-8051-fd1cebcc22b6",
         "31edffa2-885b-4960-85ae-0deb3ce6a314",
         "71400808-7127-4bdd-80bb-46a58bb39712",
         "1652630879bc77801a-1",
@@ -257,6 +257,76 @@
         "image_behavior": "ambient",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "5a06edc4-3daf-4494-acdd-b3200aa4500e": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-text-1",
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-title-1",
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-price-1",
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-variant_picker-1",
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-quantity_selector-1",
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-buy_buttons-1",
+        "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-share-1"
+      ],
+      "settings": {
+        "product": "nebulite®-vest",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "right",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "163184018322d7be73": {
@@ -299,6 +369,11 @@
           "settings": {
           }
         },
+        "2794645f-227a-44aa-809f-250e3062c528": {
+          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
+          "settings": {
+          }
+        },
         "163184018322d7be73-6": {
           "type": "buy_buttons",
           "settings": {
@@ -320,6 +395,7 @@
         "163184018322d7be73-3",
         "163184018322d7be73-4",
         "163184018322d7be73-5",
+        "2794645f-227a-44aa-809f-250e3062c528",
         "163184018322d7be73-6",
         "163184018322d7be73-7"
       ],
@@ -334,52 +410,6 @@
         "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1655838275a3ec8c41": {
-      "type": "image-with-text",
-      "blocks": {
-        "1655838275e35dde54-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "1655838275e35dde54-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1655838275e35dde54-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1655838275e35dde54-0",
-        "1655838275e35dde54-1",
-        "1655838275e35dde54-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/nebulite__web_16.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -406,49 +436,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "166440883166a7b061": {
@@ -642,7 +629,6 @@
         "16318401324d0c7745-6",
         "16318401324d0c7745-7"
       ],
-      "disabled": true,
       "settings": {
         "product": "nebulite-fanny-pack-3",
         "color_scheme": "background-1",
@@ -1142,10 +1128,9 @@
   "order": [
     "image_banner",
     "16526308803d67e56f",
+    "5a06edc4-3daf-4494-acdd-b3200aa4500e",
     "163184018322d7be73",
-    "1655838275a3ec8c41",
     "1652574569f3e7dab4",
-    "rich_text",
     "166440883166a7b061",
     "51845a40-fa2c-4458-8b47-cb49d211f5e7",
     "c9a2678f-1aee-4d70-a5f3-a3ca41b18085",
