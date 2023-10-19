@@ -129,7 +129,7 @@
         "abc2a4e4-c1dc-4762-884b-58edf648ea91"
       ],
       "settings": {
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_image_width": "small",
         "heading_size": "h2",
         "text_style": "subtitle",
