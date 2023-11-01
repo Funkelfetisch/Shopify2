@@ -1,8 +1,9 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>    
-	{% include "pandectes-rules" %}
+	{% render "pandectes-rules" %}
     <script defer src="//d1liekpayvooaz.cloudfront.net/apps/customizery/customizery.js?shop={{shop.permanent_domain}}"></script>
+    <script defer src="https://tracker.metricool.com/resources/be.js" onload="beTracker.t({hash:'4e48c25707a1aa96503277e6932bfa93'})"></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -415,7 +416,6 @@
 
 
   {% if request.country_code != "DE" %}<!-- {{  request.country_code }} -->{% endif %}
-
-    <script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"4e48c25707a1aa96503277e6932bfa93"})});</script>
+    
 </body>
 </html>
