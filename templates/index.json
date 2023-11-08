@@ -109,8 +109,27 @@
             "text_alignment_mobile": "center"
           }
         },
+        "31edffa2-885b-4960-85ae-0deb3ce6a314": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P7262238-MarcJaspers-BetterCreativeBusiness_Benutzerdefiniert.jpg",
+            "heading": "Fanny Pack 3",
+            "heading_size": "h1",
+            "subheading": "Is it the perfect product? Fuck yes!",
+            "button_label": "Get yours!",
+            "link": "shopify:\/\/products\/nebulite-fanny-pack-3",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "66bd7ff9-2545-454f-a7e8-4bcc2ef17392": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/P7262309-MarcJaspers-BetterCreativeBusiness_Benutzerdefiniert.jpg",
             "heading": "NEW: Vests",
@@ -142,24 +161,6 @@
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "31edffa2-885b-4960-85ae-0deb3ce6a314": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/P7262238-MarcJaspers-BetterCreativeBusiness_Benutzerdefiniert.jpg",
-            "heading": "Fanny Pack 3",
-            "heading_size": "h1",
-            "subheading": "Is it the perfect product? Fuck yes!",
-            "button_label": "Get yours!",
-            "link": "shopify:\/\/products\/nebulite-fanny-pack-3",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -240,9 +241,9 @@
         "1fc1acb1-17c3-4387-81fb-2ea836419a4e",
         "54e36e7e-ec7f-44e1-8585-00f51e495b1a",
         "ded7c83c-190b-4ddb-97a0-a76f91ffa9eb",
+        "31edffa2-885b-4960-85ae-0deb3ce6a314",
         "66bd7ff9-2545-454f-a7e8-4bcc2ef17392",
         "2e95e403-b19c-4482-8051-fd1cebcc22b6",
-        "31edffa2-885b-4960-85ae-0deb3ce6a314",
         "71400808-7127-4bdd-80bb-46a58bb39712",
         "1652630879bc77801a-1",
         "1652630879bc77801a-0",
@@ -1001,8 +1002,6 @@
         "ddead0b3-d9d5-4882-8acb-dcce262e1d9d": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 25,
-            "feed_width": 100,
             "html_area": ""
           }
         }
