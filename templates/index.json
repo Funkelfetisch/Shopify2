@@ -54,12 +54,11 @@
       "blocks": {
         "1fc1acb1-17c3-4387-81fb-2ea836419a4e": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
             "heading": "DEAL#1 - 20% OFF all NEBULITE products",
             "heading_size": "h0",
-            "subheading": "",
+            "subheading": "Valid only for the first 100 orders, until 26.11.2023",
             "button_label": "Use code \"black20\"!",
             "link": "https:\/\/nebulite.berlin\/discount\/black20?redirect=%2Fcollections%2Fnebulite-collection",
             "button_style_secondary": false,
@@ -73,14 +72,13 @@
         },
         "54e36e7e-ec7f-44e1-8585-00f51e495b1a": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
-            "heading": "DEAL#2 - Buy 2, get 1 free!",
+            "heading": "DEAL#2 - The perfect present!",
             "heading_size": "h0",
-            "subheading": "For all B-Stock",
-            "button_label": "Use \"black33\" or click here!",
-            "link": "https:\/\/nebulite.berlin\/discount\/black33?redirect=%2Fcollections%2Fb-stock",
+            "subheading": "Scroll down just a tiny bit for the perfect Christmas set, that will put your loved ones in awe!",
+            "button_label": "Show meeee",
+            "link": "shopify:\/\/products\/exclusive-fanny-pack-christmas-set",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -92,14 +90,13 @@
         },
         "ded7c83c-190b-4ddb-97a0-a76f91ffa9eb": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
-            "heading": "DEAL#3 - 22% OFF all B-Stock",
+            "heading": "DEAL#3 - 50% OFF all B-Stock",
             "heading_size": "h0",
-            "subheading": "Just want 1? We got you covered.",
-            "button_label": "Use \"black22\" or click here!",
-            "link": "https:\/\/nebulite.berlin\/discount\/black22?redirect=%2Fcollections%2Fb-stock",
+            "subheading": "Get your own unique piece from our B-Stock Sale. Find your best value deal quickly before someone else snatches it up! ",
+            "button_label": "Use \"bstock50\" or click here!",
+            "link": "https:\/\/nebulite.berlin\/discount\/bstock50?redirect=%2Fcollections%2Fb-stock",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -111,6 +108,7 @@
         },
         "31edffa2-885b-4960-85ae-0deb3ce6a314": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/P7262238-MarcJaspers-BetterCreativeBusiness_Benutzerdefiniert.jpg",
             "heading": "Fanny Pack 3",
@@ -148,6 +146,7 @@
         },
         "2e95e403-b19c-4482-8051-fd1cebcc22b6": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/P7231487-MarcJaspers-BetterCreativeBusiness.jpg",
             "heading": "Updated: Drawstring Backpack 2",
@@ -166,6 +165,7 @@
         },
         "71400808-7127-4bdd-80bb-46a58bb39712": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/nebulite-kimono4306_72dpi_b0e600a8-ce1b-4d39-acfd-55285b64aac2.jpg",
             "heading": "Kimo<strong>YES<\/strong>",
@@ -184,6 +184,7 @@
         },
         "1652630879bc77801a-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Banner.jpg",
             "heading": "10 OFF% for subscribers",
@@ -202,6 +203,7 @@
         },
         "1652630879bc77801a-0": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/nebulite__web_3-hori.jpg",
             "heading": "Have a ❤ for the imperfect",
@@ -220,6 +222,7 @@
         },
         "5abab5a9-6670-4704-8980-36865092cac7": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC8679-Bearbeitet-2.jpg",
             "heading": "LUX",
@@ -258,6 +261,75 @@
         "image_behavior": "ambient",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "b90ae1af-3bde-4379-93d3-c38b9512d2a0": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-text-1",
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-title-1",
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-price-1",
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-variant_picker-1",
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-quantity_selector-1",
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-buy_buttons-1",
+        "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-share-1"
+      ],
+      "settings": {
+        "product": "exclusive-fanny-pack-christmas-set",
+        "color_scheme": "accent-2",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "166440883166a7b061": {
@@ -1127,6 +1199,7 @@
   "order": [
     "image_banner",
     "16526308803d67e56f",
+    "b90ae1af-3bde-4379-93d3-c38b9512d2a0",
     "166440883166a7b061",
     "5a06edc4-3daf-4494-acdd-b3200aa4500e",
     "163184018322d7be73",
