@@ -476,5 +476,13 @@
       "send_on": "JJJJ-MM-TT",
       "send_on_label": "Senden am (optional)"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "marketing": {
+        "accept_marketing_checkbox_label": "Selten (!) Neuigkeiten und Angebote via E-Mail\/WhatsApp erhalten",
+        "post_accept_marketing_checkbox_label": "Du hast ein Abonnement für Neuigkeiten und Angebote per E-Mail\/WhatsApp abgeschlossen"
+      }
+    }
   }
 }
