@@ -54,6 +54,7 @@
       "blocks": {
         "1fc1acb1-17c3-4387-81fb-2ea836419a4e": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
             "heading": "DEAL#1 - 20% OFF all NEBULITE products",
@@ -72,6 +73,7 @@
         },
         "54e36e7e-ec7f-44e1-8585-00f51e495b1a": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
             "heading": "DEAL#2 - The perfect present!",
@@ -90,6 +92,7 @@
         },
         "ded7c83c-190b-4ddb-97a0-a76f91ffa9eb": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
             "heading": "DEAL#3 - 50% OFF all B-Stock",
@@ -108,7 +111,6 @@
         },
         "31edffa2-885b-4960-85ae-0deb3ce6a314": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/P7262238-MarcJaspers-BetterCreativeBusiness_Benutzerdefiniert.jpg",
             "heading": "Fanny Pack 3",
@@ -127,7 +129,6 @@
         },
         "66bd7ff9-2545-454f-a7e8-4bcc2ef17392": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/P7262309-MarcJaspers-BetterCreativeBusiness_Benutzerdefiniert.jpg",
             "heading": "NEW: Vests",
@@ -146,7 +147,6 @@
         },
         "2e95e403-b19c-4482-8051-fd1cebcc22b6": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/P7231487-MarcJaspers-BetterCreativeBusiness.jpg",
             "heading": "Updated: Drawstring Backpack 2",
@@ -165,7 +165,6 @@
         },
         "71400808-7127-4bdd-80bb-46a58bb39712": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/nebulite-kimono4306_72dpi_b0e600a8-ce1b-4d39-acfd-55285b64aac2.jpg",
             "heading": "Kimo<strong>YES<\/strong>",
@@ -184,7 +183,6 @@
         },
         "1652630879bc77801a-1": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Banner.jpg",
             "heading": "10 OFF% for subscribers",
