@@ -636,3 +636,7 @@ cart-items .title-wrapper-with-link a.underlined-link, cart-items div a.button {
 .header__icons--localization .localization-form__select > span {
   color: rgba(var(--color-foreground),.75);
 }
+
+.header--top-center .mega-menu__list > li {
+  width: 28% !important;
+}
