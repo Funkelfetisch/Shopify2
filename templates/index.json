@@ -261,6 +261,34 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "The NEBULITE Collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "a-stock",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "b90ae1af-3bde-4379-93d3-c38b9512d2a0": {
       "type": "featured-product",
       "blocks": {
@@ -929,34 +957,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "The NEBULITE Collection",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "a-stock",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1631840440b634b74f": {
       "type": "featured-product",
       "blocks": {
@@ -1200,6 +1200,7 @@
   "order": [
     "image_banner",
     "16526308803d67e56f",
+    "featured_products",
     "b90ae1af-3bde-4379-93d3-c38b9512d2a0",
     "166440883166a7b061",
     "5a06edc4-3daf-4494-acdd-b3200aa4500e",
@@ -1213,7 +1214,6 @@
     "multi_column",
     "163183973246985780",
     "1631840486083e2b26",
-    "featured_products",
     "1631840440b634b74f",
     "dfb4abfe-b6f2-4840-88f2-c875bd4db66f",
     "1665422110505130a1",
