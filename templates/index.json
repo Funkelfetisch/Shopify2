@@ -269,7 +269,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "a-stock",
+        "collection": "nebulite-collection",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": true,
