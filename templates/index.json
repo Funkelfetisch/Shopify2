@@ -130,14 +130,14 @@
         "66bd7ff9-2545-454f-a7e8-4bcc2ef17392": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/P7262309-MarcJaspers-BetterCreativeBusiness_Benutzerdefiniert.jpg",
+            "image": "shopify:\/\/shop_images\/banner2.jpg",
             "heading": "NEW: Vests",
             "heading_size": "h0",
-            "subheading": "<strong>First 14 pcs in stock for 100€ off<\/strong>! - and with our brand new Smart Controller!",
+            "subheading": "With our brand new Smart Controller!",
             "button_label": "Get it now!",
             "link": "shopify:\/\/products\/nebulite®-vest",
             "button_style_secondary": false,
-            "box_align": "top-center",
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
