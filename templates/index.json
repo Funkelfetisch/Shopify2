@@ -343,6 +343,7 @@
         "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-buy_buttons-1",
         "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-share-1"
       ],
+      "disabled": true,
       "settings": {
         "product": "exclusive-fanny-pack-christmas-set",
         "color_scheme": "accent-2",
@@ -424,7 +425,7 @@
         "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-variant_picker-1": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown"
           }
         },
         "template--16115040452875__5a06edc4-3daf-4494-acdd-b3200aa4500e-quantity_selector-1": {
@@ -910,7 +911,7 @@
         "1631840486083e2b26-4": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown"
           }
         },
         "1631840486083e2b26-5": {
