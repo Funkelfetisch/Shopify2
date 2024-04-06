@@ -343,9 +343,8 @@
         "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-buy_buttons-1",
         "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-share-1"
       ],
-      "disabled": true,
       "settings": {
-        "product": "exclusive-fanny-pack-christmas-set",
+        "product": "nebulite-skirt",
         "color_scheme": "accent-2",
         "secondary_background": false,
         "media_size": "medium",
@@ -388,6 +387,50 @@
         "166440883198c2feb8-1",
         "6c7a25c5-c3a9-4520-8fb1-51c4d4dafe7a",
         "166440883198c2feb8-0"
+      ],
+      "settings": {
+        "heading": "Our topseller: the Fanny Pack 3",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 20,
+        "padding_bottom": 56
+      }
+    },
+    "51845a40-fa2c-4458-8b47-cb49d211f5e7": {
+      "type": "collage",
+      "blocks": {
+        "template--16115040452875__51845a40-fa2c-4458-8b47-cb49d211f5e7-16763924582e73e54f-1": {
+          "type": "product",
+          "settings": {
+            "product": "nebulite-fanny-pack-3",
+            "second_image": false
+          }
+        },
+        "2a2b751e-21f7-446f-a0cc-8556b21f4ace": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nebulite__web19.jpg"
+          }
+        },
+        "template--16115040452875__51845a40-fa2c-4458-8b47-cb49d211f5e7-16763924582e73e54f-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/vlcsnap-2023-02-14-17h40m54s506.png",
+            "video_url": "https:\/\/youtu.be\/ucorFuBU7Vc",
+            "description": "NEBULITE Berlin - Fanny Pack 2+ Trailer 2022 - UAE Edition"
+          }
+        }
+      },
+      "block_order": [
+        "template--16115040452875__51845a40-fa2c-4458-8b47-cb49d211f5e7-16763924582e73e54f-1",
+        "2a2b751e-21f7-446f-a0cc-8556b21f4ace",
+        "template--16115040452875__51845a40-fa2c-4458-8b47-cb49d211f5e7-16763924582e73e54f-0"
+      ],
+      "custom_css": [
+        "{}"
       ],
       "settings": {
         "heading": "Our topseller: the Fanny Pack 3",
@@ -577,50 +620,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
-      }
-    },
-    "51845a40-fa2c-4458-8b47-cb49d211f5e7": {
-      "type": "collage",
-      "blocks": {
-        "template--16115040452875__51845a40-fa2c-4458-8b47-cb49d211f5e7-16763924582e73e54f-1": {
-          "type": "product",
-          "settings": {
-            "product": "nebulite-fanny-pack-3",
-            "second_image": false
-          }
-        },
-        "2a2b751e-21f7-446f-a0cc-8556b21f4ace": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite__web19.jpg"
-          }
-        },
-        "template--16115040452875__51845a40-fa2c-4458-8b47-cb49d211f5e7-16763924582e73e54f-0": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/vlcsnap-2023-02-14-17h40m54s506.png",
-            "video_url": "https:\/\/youtu.be\/ucorFuBU7Vc",
-            "description": "NEBULITE Berlin - Fanny Pack 2+ Trailer 2022 - UAE Edition"
-          }
-        }
-      },
-      "block_order": [
-        "template--16115040452875__51845a40-fa2c-4458-8b47-cb49d211f5e7-16763924582e73e54f-1",
-        "2a2b751e-21f7-446f-a0cc-8556b21f4ace",
-        "template--16115040452875__51845a40-fa2c-4458-8b47-cb49d211f5e7-16763924582e73e54f-0"
-      ],
-      "custom_css": [
-        "{}"
-      ],
-      "settings": {
-        "heading": "Our topseller: the Fanny Pack 3",
-        "heading_size": "h1",
-        "desktop_layout": "right",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 20,
-        "padding_bottom": 56
       }
     },
     "c9a2678f-1aee-4d70-a5f3-a3ca41b18085": {
@@ -1204,10 +1203,10 @@
     "featured_products",
     "b90ae1af-3bde-4379-93d3-c38b9512d2a0",
     "166440883166a7b061",
+    "51845a40-fa2c-4458-8b47-cb49d211f5e7",
     "5a06edc4-3daf-4494-acdd-b3200aa4500e",
     "163184018322d7be73",
     "1652574569f3e7dab4",
-    "51845a40-fa2c-4458-8b47-cb49d211f5e7",
     "c9a2678f-1aee-4d70-a5f3-a3ca41b18085",
     "16318401324d0c7745",
     "collage",
