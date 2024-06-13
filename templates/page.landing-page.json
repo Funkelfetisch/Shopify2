@@ -6,14 +6,14 @@
         "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Landing paaaage",
+            "heading": "Get Festival Ready with NEBULITE!",
             "heading_size": "h1"
           }
         },
         "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Hey there, our light-up community, welcome to the world of NEBULITE! It all started in the vibrant city of Berlin with our techno-loving founder, Veit. Picture this: he loses his friends at his first festival and what does he do? Uses his soldering and novice-at-best Arduino skills to create a laser unicorn-on-a-stick as a beacon. Pretty nifty, right? But, it was pointy and risky, and that didn't quite sit right.<\/p><p>Not one to give up, Veit moved on to a cloud-hat concept, but dancing with a bulky hat didn't cut it. He needed something easy, portable, and, of course, super cool. So, the idea struck - why not use something people carry anyway? That’s when the NEBULITE drawstring backpack was born!<\/p><p>The journey began with a few handmade prototypes, which quickly turned into a successful Kickstarter campaign. And now, we are here with our revolutionary, customizable, eco-friendly NEBULITE back- and fanny packs, jackets, kimonos and tops bringing a spark to your festival experiences. So, welcome aboard and light up the party with NEBULITE!<\/p>"
+            "text": "<p>Join our exclusive summer sale and enjoy 10% off on all festival fashion must-haves! Sign up now and elevate your festival style.<\/p>"
           }
         }
       },
@@ -44,14 +44,14 @@
         "heading_UiTmLP": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
+            "heading": "Grab Your 10% Off Now!",
             "heading_size": "h1"
           }
         },
         "paragraph_8BbwQV": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Enter your email below to receive your exclusive 10% discount code and be the first to know about our new collections and exclusive offers.<\/p>"
           }
         },
         "email_form_yQ946Y": {
@@ -72,22 +72,114 @@
         "padding_bottom": 52
       }
     },
-    "17182901336f32eac0": {
-      "type": "apps",
+    "slideshow_TbgCQq": {
+      "type": "slideshow",
       "blocks": {
-        "instafeed_app_block_FWRnPt": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+        "slide_7WXyGX": {
+          "type": "slide",
           "settings": {
-            "title": "",
-            "title_color": "",
-            "alignment": "center",
-            "html_area": ""
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_73UbMT": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "instafeed_app_block_FWRnPt"
+        "slide_7WXyGX",
+        "slide_73UbMT"
       ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "multicolumn_4y6pyg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_MmMLP8": {
+          "type": "column",
+          "settings": {
+            "title": "Benefit 1",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fYzG6w": {
+          "type": "column",
+          "settings": {
+            "title": "Benefit 2",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6kKGqT": {
+          "type": "column",
+          "settings": {
+            "title": "Benefit 3",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_MmMLP8",
+        "column_fYzG6w",
+        "column_6kKGqT"
+      ],
+      "settings": {
+        "title": "Reasons to Love NEBULITE",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17182901336f32eac0": {
+      "type": "apps",
       "settings": {
         "include_margins": true
       }
@@ -97,6 +189,8 @@
     "18971a55-c2ea-4215-a345-dc2081ec2f33",
     "main",
     "newsletter_DhmAeJ",
+    "slideshow_TbgCQq",
+    "multicolumn_4y6pyg",
     "17182901336f32eac0"
   ]
 }
