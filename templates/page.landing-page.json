@@ -15,8 +15,8 @@
         "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Join the NEBULITE <strong>TRIBE<\/strong>",
-            "heading_size": "hxl"
+            "heading": "<strong>Join the NEBULITE TRIBE<\/strong>",
+            "heading_size": "h1"
           }
         }
       },
@@ -26,7 +26,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 24,
         "padding_bottom": 24
@@ -53,7 +53,7 @@
         "paragraph_8BbwQV": {
           "type": "paragraph",
           "settings": {
-            "text": "<ul><li>Express your unique style<\/li><li>Perfect for any festival or event<\/li><li>Durable, breathable materials<\/li><\/ul><p><\/p><p><\/p><p><strong>Sign up to our Newsletter for your sweet discount:<\/strong><\/p><h5><\/h5>"
+            "text": "<ul><li>Express your unique style<\/li><li>Durable, breathable materials<\/li><li>Perfect for any festival or event<\/li><\/ul><p><\/p><p><\/p><p><strong>Sign up to our Newsletter for your sweet discount:<\/strong><\/p><h5><\/h5>"
           }
         },
         "email_form_yQ946Y": {
