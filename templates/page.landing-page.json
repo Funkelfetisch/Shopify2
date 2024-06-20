@@ -80,6 +80,7 @@
         "column_MmMLP8": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/edit_13.jpg",
             "title": "Sync with the Music",
             "text": "<p>Turn every song into a light show with NEBULITE Gear that syncs to your favorite tracks.<\/p>",
             "link_label": "",
@@ -89,6 +90,7 @@
         "column_fYzG6w": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Nebulite_39.jpg",
             "title": "Customize Your Glow",
             "text": "<p>Choose from endless color and pattern combinations to express your unique style.<\/p>",
             "link_label": "",
@@ -98,7 +100,8 @@
         "column_6kKGqT": {
           "type": "column",
           "settings": {
-            "title": "Comfortable and Durable",
+            "image": "shopify:\/\/shop_images\/Nebulite_36_Benutzerdefiniert.jpg",
+            "title": "Cozy and Durability",
             "text": "<p>Our gear features breathable, lightweight materials to maintain comfort and coolness.<\/p>",
             "link_label": "",
             "link": ""
@@ -107,8 +110,9 @@
         "column_WBhz6W": {
           "type": "column",
           "settings": {
-            "title": "Endless Combinations",
-            "text": "<p>Easily mix NEBULITE products with your favorite fashion pieces for endless outfit options.<\/p>",
+            "image": "shopify:\/\/shop_images\/Nebulite_45.jpg",
+            "title": "Versatile Fashion",
+            "text": "<p>Easily mix our products with your favorite fashion pieces for endless outfits.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -153,7 +157,7 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -163,14 +167,14 @@
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
         }
