@@ -1,6 +1,6 @@
 .banner__box {
-  text-shadow: #000 0px 0px 4px;
-  color: white;
+  text-shadow: #000 0px 0px 4px !important;
+  color: white !important;
 }
 
 .bdl-quantity .bdl-product-list .bdl-product-item {
