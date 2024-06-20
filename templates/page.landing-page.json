@@ -125,8 +125,8 @@
         "column_WBhz6W"
       ],
       "settings": {
-        "title": "<strong>Why You Love NEBULITE GEAR:<\/strong>",
-        "heading_size": "h0",
+        "title": "Benefits of NEBULITE GEAR:",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 4,
@@ -147,6 +147,7 @@
         "slide_7WXyGX": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FestivalFashion_Banner_1.jpg",
             "heading": "Here's What Our NEBULITE Fam Says:",
             "heading_size": "h2",
             "subheading": "<em>\"The perfect blend of style and comfort for festival season.\" - Marc<\/em>",
@@ -154,7 +155,7 @@
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "accent-2",
@@ -164,6 +165,7 @@
         "slide_73UbMT": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FestivalFashion_Banner_2.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "<em>\"My Nebulite Drawstring Backpack is an essential for festivals. It fits everything I need and looks great too!\" - Emma<\/em>",
@@ -171,7 +173,7 @@
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "accent-2",
@@ -181,6 +183,7 @@
         "slide_WUQDVb": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FestivalFashion_Banner_3.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "<em>\"Wearing Nebulite’s Crop Top at Ikarus Festival was amazing! So many people complimented me.\" - Sarah<\/em>",
@@ -188,7 +191,7 @@
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "accent-2",
