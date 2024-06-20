@@ -15,7 +15,7 @@
         "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Get 10% OFF!",
+            "heading": "Join the NEBULITE <strong>TRIBE<\/strong>",
             "heading_size": "hxl"
           }
         }
@@ -28,8 +28,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 24,
+        "padding_bottom": 8
       }
     },
     "main": {
@@ -46,14 +46,14 @@
         "heading_UiTmLP": {
           "type": "heading",
           "settings": {
-            "heading": "Get 10% Off on your first order!",
+            "heading": "And Enjoy 10% OFF",
             "heading_size": "h1"
           }
         },
         "paragraph_8BbwQV": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Become part of our NEBULITE Fam and enjoy a discount on our Festival Gear! Sign up today and upgrade your wardrobe.<\/p>"
+            "text": "<ul><li>Express your unique style<\/li><li>Perfect for any festival or event<\/li><li>Durable, breathable materials<\/li><\/ul><p><\/p><p><\/p><p><strong>Sign up to our Newsletter for your sweet discount:<\/strong><\/p><h5><\/h5>"
           }
         },
         "email_form_yQ946Y": {
@@ -81,7 +81,7 @@
           "type": "column",
           "settings": {
             "title": "Sync with the Music",
-            "text": "<p>Turn every song into a light show with NEBULITE that syncs to the beat of your favorite tracks.<\/p>",
+            "text": "<p>Turn every song into a light show with NEBULITE Gear that syncs to your favorite tracks.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -89,8 +89,17 @@
         "column_fYzG6w": {
           "type": "column",
           "settings": {
-            "title": "Customizable via App",
-            "text": "<p>Customize your glow with our user-friendly app. Choose from endless color and pattern combinations to express your unique style.<\/p>",
+            "title": "Customize Your Glow",
+            "text": "<p>Choose from endless color and pattern combinations to express your unique style.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CPMffH": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -99,7 +108,7 @@
           "type": "column",
           "settings": {
             "title": "Comfortable and Durable",
-            "text": "<p>Our gear is crafted for all-day wear with breathable, lightweight materials that keep you comfortable and cool.<\/p>",
+            "text": "<p>Our gear features breathable, lightweight materials to maintain comfort and coolness.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -108,20 +117,21 @@
       "block_order": [
         "column_MmMLP8",
         "column_fYzG6w",
+        "column_CPMffH",
         "column_6kKGqT"
       ],
       "settings": {
-        "title": "Reasons to Love NEBULITE",
+        "title": "<strong>Why You Need This:<\/strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Shop Now",
         "button_link": "shopify:\/\/collections",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -136,7 +146,7 @@
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
@@ -180,6 +190,40 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "newsletter_3h6qgk": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_tCjMKg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Enjoy 10% OFF your next purchase.",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_dL8b84": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Plus, get updates on new arrivals and special offers before anyone else.<\/p>"
+          }
+        },
+        "email_form_RAd8xV": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_tCjMKg",
+        "paragraph_dL8b84",
+        "email_form_RAd8xV"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "17182901336f32eac0": {
       "type": "apps",
       "settings": {
@@ -193,6 +237,7 @@
     "newsletter_DhmAeJ",
     "multicolumn_4y6pyg",
     "slideshow_TbgCQq",
+    "newsletter_3h6qgk",
     "17182901336f32eac0"
   ]
 }
