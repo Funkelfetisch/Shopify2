@@ -1,4 +1,4 @@
-.banner__box {
+.banner__text, .banner__heading {
   text-shadow: #000 0px 0px 4px !important;
   color: white !important;
 }
