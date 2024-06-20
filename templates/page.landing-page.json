@@ -125,7 +125,7 @@
         "column_WBhz6W"
       ],
       "settings": {
-        "title": "<strong>Why You Need NEBULITE GEAR:<\/strong>",
+        "title": "<strong>Why You Love NEBULITE GEAR:<\/strong>",
         "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -149,7 +149,7 @@
           "settings": {
             "heading": "Here's What Our NEBULITE Fam Says:",
             "heading_size": "h2",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "<em>\"The perfect blend of style and comfort for festival season.\" - Marc<\/em>",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -164,9 +164,26 @@
         "slide_73UbMT": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "<em>\"My Nebulite Drawstring Backpack is an essential for festivals. It fits everything I need and looks great too!\" - Emma<\/em>",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_WUQDVb": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "<em>\"Wearing Nebulite’s Crop Top at Ikarus Festival was amazing! So many people complimented me.\" - Sarah<\/em>",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -181,7 +198,8 @@
       },
       "block_order": [
         "slide_7WXyGX",
-        "slide_73UbMT"
+        "slide_73UbMT",
+        "slide_WUQDVb"
       ],
       "settings": {
         "layout": "full_bleed",
