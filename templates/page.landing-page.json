@@ -254,6 +254,15 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "custom_liquid_HaDmzp": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\nheader, footer {\n  display: none !important;\n}\n<\/style>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -263,6 +272,7 @@
     "multicolumn_4y6pyg",
     "slideshow_TbgCQq",
     "newsletter_3h6qgk",
-    "17182901336f32eac0"
+    "17182901336f32eac0",
+    "custom_liquid_HaDmzp"
   ]
 }
