@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "18971a55-c2ea-4215-a345-dc2081ec2f33": {
@@ -6,7 +15,7 @@
         "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Get Festival Ready with NEBULITE!",
+            "heading": "Get 10% OFF!",
             "heading_size": "hxl"
           }
         }
@@ -37,14 +46,14 @@
         "heading_UiTmLP": {
           "type": "heading",
           "settings": {
-            "heading": "Grab Your 10% Off Now!",
+            "heading": "Get 10% Off on your first order!",
             "heading_size": "h1"
           }
         },
         "paragraph_8BbwQV": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Join our exclusive SUMMER SALE and enjoy 10% Off on our Festival Gear! Sign up now and upgrade your wardrobe.<\/p>"
+            "text": "<p>Become part of our NEBULITE Fam and enjoy a discount on our Festival Gear! Sign up today and upgrade your wardrobe.<\/p>"
           }
         },
         "email_form_yQ946Y": {
@@ -110,7 +119,7 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Shop Now",
-        "button_link": "",
+        "button_link": "shopify:\/\/collections",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
