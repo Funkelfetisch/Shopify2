@@ -101,7 +101,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Nebulite_36_Benutzerdefiniert.jpg",
-            "title": "Cozy and Durability",
+            "title": "Cozy and Durable",
             "text": "<p>Our gear features breathable, lightweight materials to maintain comfort and coolness.<\/p>",
             "link_label": "",
             "link": ""
@@ -249,6 +249,15 @@
         "padding_bottom": 52
       }
     },
+    "custom_liquid_btKcrp": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "17182901336f32eac0": {
       "type": "apps",
       "settings": {
@@ -272,6 +281,7 @@
     "multicolumn_4y6pyg",
     "slideshow_TbgCQq",
     "newsletter_3h6qgk",
+    "custom_liquid_btKcrp",
     "17182901336f32eac0",
     "custom_liquid_HaDmzp"
   ]
