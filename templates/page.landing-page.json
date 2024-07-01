@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "heading": "<strong>Join the NEBULITE TRIBE<\/strong>",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         }
       },
@@ -228,7 +228,7 @@
         "paragraph_dL8b84": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Plus, get updates on new arrivals and special offers before anyone else.<\/p>"
+            "text": "<p>Plus, get updates on new arrivals and special offers before anyone else. <\/p>"
           }
         },
         "email_form_RAd8xV": {
