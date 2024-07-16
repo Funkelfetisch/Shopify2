@@ -15,8 +15,8 @@
         "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Join the NEBULITE TRIBE<\/strong>",
-            "heading_size": "h0"
+            "heading": "Join the NEBULITE TRIBE",
+            "heading_size": "hxl"
           }
         }
       },
@@ -28,8 +28,8 @@
         "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "main": {
@@ -53,7 +53,7 @@
         "paragraph_8BbwQV": {
           "type": "paragraph",
           "settings": {
-            "text": "<ul><li>Express your unique style<\/li><li>Durable, breathable materials<\/li><li>Perfect for any festival or event<\/li><\/ul><p><\/p><p><\/p><p><strong>Sign up to our Newsletter for your sweet discount:<\/strong><\/p><h5><\/h5>"
+            "text": "<ul><li>Express your unique style<\/li><li>Durable, breathable materials<\/li><li>Perfect for any festival or event<\/li><\/ul><p><\/p><p><\/p><p>Sign up to our Newsletter for your sweet discount:<\/p><h5><\/h5>"
           }
         },
         "email_form_yQ946Y": {
@@ -70,8 +70,8 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 24
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "multicolumn_4y6pyg": {
@@ -80,9 +80,9 @@
         "column_MmMLP8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/edit_13.jpg",
+            "image": "shopify:\/\/shop_images\/Nebulite_27.jpg",
             "title": "Sync with the Music",
-            "text": "<p>Turn every song into a light show with NEBULITE Gear that syncs to your favorite tracks.<\/p>",
+            "text": "<p>Watch your tunes come alive with NEBULITE gear that syncs  to your favorite music.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -90,7 +90,7 @@
         "column_fYzG6w": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Nebulite_39.jpg",
+            "image": "shopify:\/\/shop_images\/Instagram_Post_1080_x_1350_px_3.png",
             "title": "Customize Your Glow",
             "text": "<p>Choose from endless color and pattern combinations to express your unique style.<\/p>",
             "link_label": "",
@@ -110,7 +110,7 @@
         "column_WBhz6W": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Nebulite_45.jpg",
+            "image": "shopify:\/\/shop_images\/tempImagekz9x4h.heic",
             "title": "Versatile Fashion",
             "text": "<p>Easily mix our products with your favorite fashion pieces for endless outfits.<\/p>",
             "link_label": "",
@@ -128,7 +128,7 @@
         "title": "Why NEBULITE GEAR?",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
@@ -137,8 +137,51 @@
         "color_scheme": "background-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 12
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "newsletter_3h6qgk": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_tCjMKg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Grab 10% OFF your next purchase.",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_dL8b84": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Plus, get updates on new arrivals and special offers before anyone else. <\/p>"
+          }
+        },
+        "email_form_RAd8xV": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_tCjMKg",
+        "paragraph_dL8b84",
+        "email_form_RAd8xV"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "custom_liquid_btKcrp": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "slideshow_TbgCQq": {
@@ -147,7 +190,7 @@
         "slide_7WXyGX": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FestivalFashion_Banner_1.jpg",
+            "image": "shopify:\/\/shop_images\/Instagram_Post_1080_x_1350_px_7.png",
             "heading": "Here's What Our NEBULITE Fam Says:",
             "heading_size": "h2",
             "subheading": "<em>\"The perfect blend of style and comfort for festival season.\" - Marc<\/em>",
@@ -165,10 +208,10 @@
         "slide_73UbMT": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FestivalFashion_Banner_2.jpg",
+            "image": "shopify:\/\/shop_images\/edit_13.jpg",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "<em>\"My Nebulite Drawstring Backpack is an essential for festivals. It fits everything I need and looks great too!\" - Emma<\/em>",
+            "subheading": "<em>\"My Nebulite Fanny Pack is my festival must-have. It fits everything I need and looks great too!\" - Emma<\/em>",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -183,7 +226,7 @@
         "slide_WUQDVb": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FestivalFashion_Banner_3.jpg",
+            "image": "shopify:\/\/shop_images\/Instagram_Post_1080_x_1350_px_5.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "<em>\"Wearing Nebulite’s Crop Top at Ikarus Festival was amazing! So many people complimented me.\" - Sarah<\/em>",
@@ -215,49 +258,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "newsletter_3h6qgk": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_tCjMKg": {
-          "type": "heading",
-          "settings": {
-            "heading": "Enjoy 10% OFF your next purchase.",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph_dL8b84": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Plus, get updates on new arrivals and special offers before anyone else. <\/p>"
-          }
-        },
-        "email_form_RAd8xV": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading_tCjMKg",
-        "paragraph_dL8b84",
-        "email_form_RAd8xV"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "custom_liquid_btKcrp": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "17182901336f32eac0": {
       "type": "apps",
       "settings": {
@@ -279,9 +279,9 @@
     "main",
     "newsletter_DhmAeJ",
     "multicolumn_4y6pyg",
-    "slideshow_TbgCQq",
     "newsletter_3h6qgk",
     "custom_liquid_btKcrp",
+    "slideshow_TbgCQq",
     "17182901336f32eac0",
     "custom_liquid_HaDmzp"
   ]
