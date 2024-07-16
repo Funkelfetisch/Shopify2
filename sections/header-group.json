@@ -61,6 +61,7 @@
     "header": {
       "type": "header",
       "settings": {
+        "color_scheme": "scheme-1",
         "logo_position": "top-center",
         "menu": "main-menu",
         "menu_type_desktop": "mega",
