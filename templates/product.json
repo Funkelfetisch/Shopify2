@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -39,6 +48,14 @@
           "type": "price",
           "disabled": true,
           "settings": {
+          }
+        },
+        "inventory_X7MUXR": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true
           }
         },
         "9f4185fa-9cbf-4fb0-b6ff-4d915a47fe97": {
@@ -94,6 +111,7 @@
         "0cc587d7-9fbc-4ff9-9a11-1abc8fe9c981",
         "subtitle",
         "price",
+        "inventory_X7MUXR",
         "9f4185fa-9cbf-4fb0-b6ff-4d915a47fe97",
         "variant_picker",
         "quantity_selector",
