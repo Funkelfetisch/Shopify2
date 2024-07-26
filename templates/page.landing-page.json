@@ -71,7 +71,16 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 40
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_btKcrp": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Subscription Form<\/title>\n<style>\n  header {\n    display: none !important;\n  }\n  .subscription-form {\n    font-family: Arial, sans-serif;\n    margin: 20px;\ntext-align: center;\n  }\n  .subscription-form input[type=\"checkbox\"] {\n    appearance: none;\n    width: 20px;\n    height: 20px;\n    border: 1px solid #ccc;\n    margin-right: 10px;\n    cursor: pointer;\n  }\n  .subscription-form input[type=\"checkbox\"]:checked::before {\n    content: '☑️';\n    font-size: 1.2em;\n  }\n  .privacy-notice {\n    font-size: 0.9em;\n    color: #666;\n    margin-top: 10px;\n  }\n<\/style>\n<\/head>\n<body>\n<header>\n  <!-- header content -->\n<\/header>\n\n<div class=\"subscription-form\">\n  <label>\n    <input type=\"checkbox\">\n    Yes, I want to receive emails about NEBULITE’s products, services and exclusive offers.\n  <\/label>\n  <div class=\"privacy-notice\">\n    We respect your privacy. Your data is protected under GDPR (EU) 2016\/679. By subscribing, you consent to receive our emails. You can opt-out anytime via the \"Unsubscribe\" link in our emails.\n  <\/div>\n<\/div>\n<\/body>\n<\/html>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_4y6pyg": {
@@ -175,25 +184,16 @@
         "padding_bottom": 40
       }
     },
-    "custom_liquid_btKcrp": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "slideshow_TbgCQq": {
       "type": "slideshow",
       "blocks": {
-        "slide_7WXyGX": {
+        "slide_73UbMT": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Instagram_Post_1080_x_1350_px_7.png",
-            "heading": "Here's What Our NEBULITE Fam Says:",
+            "image": "shopify:\/\/shop_images\/edit_13.jpg",
+            "heading": "",
             "heading_size": "h2",
-            "subheading": "<em>\"The perfect blend of style and comfort for festival season.\" - Marc<\/em>",
+            "subheading": "<em>\"My Nebulite Fanny Pack is my festival must-have. It fits everything I need and looks great too!\" - Emma<\/em>",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -205,13 +205,13 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_73UbMT": {
+        "slide_7WXyGX": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/edit_13.jpg",
-            "heading": "",
+            "image": "shopify:\/\/shop_images\/Instagram_Post_1080_x_1350_px_7.png",
+            "heading": "Here's What Our NEBULITE Fam Says:",
             "heading_size": "h2",
-            "subheading": "<em>\"My Nebulite Fanny Pack is my festival must-have. It fits everything I need and looks great too!\" - Emma<\/em>",
+            "subheading": "<em>\"The perfect blend of style and comfort for festival season.\" - Marc<\/em>",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -243,8 +243,8 @@
         }
       },
       "block_order": [
-        "slide_7WXyGX",
         "slide_73UbMT",
+        "slide_7WXyGX",
         "slide_WUQDVb"
       ],
       "settings": {
@@ -267,7 +267,7 @@
     "custom_liquid_HaDmzp": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\nheader {\n  display: none !important;\n}\n<\/style>",
+        "custom_liquid": "<style>\n<text>\nheader {\n  display: none !important;\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -278,9 +278,9 @@
     "18971a55-c2ea-4215-a345-dc2081ec2f33",
     "main",
     "newsletter_DhmAeJ",
+    "custom_liquid_btKcrp",
     "multicolumn_4y6pyg",
     "newsletter_3h6qgk",
-    "custom_liquid_btKcrp",
     "slideshow_TbgCQq",
     "17182901336f32eac0",
     "custom_liquid_HaDmzp"
