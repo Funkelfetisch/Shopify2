@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -787,10 +796,12 @@
     "3be65424-845b-48db-bf11-b4f9d35448bf": {
       "type": "collage",
       "blocks": {
-        "fb2832d9-50d8-4698-bc82-e4e3497647e2": {
-          "type": "image",
+        "video_gaDJQK": {
+          "type": "video",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite-kimono3390_72dpi.jpg"
+            "cover_image": "shopify:\/\/shop_images\/vlcsnap-2024-08-03-01h16m46s784.png",
+            "video_url": "https:\/\/youtube.com\/watch?v=BPIPbjpc0CA",
+            "description": "Describe the video"
           }
         },
         "template--16115040452875__3be65424-845b-48db-bf11-b4f9d35448bf-16653569708b4a0525-1": {
@@ -808,7 +819,7 @@
         }
       },
       "block_order": [
-        "fb2832d9-50d8-4698-bc82-e4e3497647e2",
+        "video_gaDJQK",
         "template--16115040452875__3be65424-845b-48db-bf11-b4f9d35448bf-16653569708b4a0525-1",
         "6552699c-cc37-40f4-81c8-130cd95c59d4"
       ],

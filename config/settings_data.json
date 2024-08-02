@@ -258,12 +258,6 @@
           "button_vertical_position": "lowest",
           "greeting_message": "👋 You can chat with us in English!\n---\n👋 Du kannst mit uns auf Deutsch schreiben!"
         }
-      },
-      "17626490156485952974": {
-        "type": "shopify:\/\/apps\/fx-3d-seasonal-effects\/blocks\/app-embed\/5881d1f8-9311-46cf-bb7d-8ebd2e22859c",
-        "disabled": true,
-        "settings": {
-        }
       }
     }
   },
