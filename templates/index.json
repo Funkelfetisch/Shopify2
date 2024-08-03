@@ -1117,6 +1117,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "NEBULITE Festival Trailer 2021",
         "heading_size": "h1",
