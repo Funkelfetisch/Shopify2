@@ -122,6 +122,11 @@
                     {% render 'icon-arrow' %}
                   </button>
                 </div>
+                      <div class="contact__button">
+        <button type="submit" class="button">
+          {{ 'templates.contact.form.send' | t }}
+        </button>
+      </div>
                 {%- if form.errors -%}
                   <small class="newsletter-form__message form__message" id="Newsletter-error--{{ section.id }}">
                     {%- render 'icon-error' -%}
