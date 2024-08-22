@@ -289,7 +289,7 @@
     "custom_liquid_HaDmzp": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n<text>\nheader {\n  display: none !important;\n}\n<\/style>",
+        "custom_liquid": "<style>\nheader {\n  display: none !important;\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
