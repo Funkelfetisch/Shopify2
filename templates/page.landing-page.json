@@ -74,15 +74,6 @@
         "padding_bottom": 0
       }
     },
-    "custom_liquid_btKcrp": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\n  header {\n    display: none !important;\n  }\n  .subscription-form {\n    font-family: Arial, sans-serif;\n    margin: 20px;\ntext-align: center;\n  }\n  .subscription-form input[type=\"checkbox\"] {\n    appearance: none;\n    width: 20px;\n    height: 20px;\n    border: 1px solid #ccc;\n    margin-right: 10px;\n    cursor: pointer;\n  }\n  .subscription-form input[type=\"checkbox\"]:checked::before {\n    content: '☑️';\n    font-size: 1.2em;\n  }\n  .privacy-notice {\n    font-size: 0.9em;\n    color: #666;\n    margin-top: 10px;\n  }\n<\/style>\n\n<div class=\"subscription-form\">\n  <label>\n    By signing up, I agree to receive emails about NEBULITE’s products, services and exclusive offers.\n  <\/label>\n  <div class=\"privacy-notice\">\n    We respect your privacy. Your data is protected under GDPR (EU) 2016\/679. By subscribing, you consent to receive our emails. You can opt-out anytime via the \"Unsubscribe\" link in our emails.\n  <\/div>\n<\/div>\n<\/body>\n<\/html>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_4y6pyg": {
       "type": "multicolumn",
       "blocks": {
@@ -300,7 +291,6 @@
     "18971a55-c2ea-4215-a345-dc2081ec2f33",
     "main",
     "newsletter_DhmAeJ",
-    "custom_liquid_btKcrp",
     "multicolumn_4y6pyg",
     "newsletter_3h6qgk",
     "rich_text_knWAQU",
