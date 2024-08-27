@@ -148,6 +148,9 @@
                 </h3>
                 <script>
                   fbq('track', 'Lead');
+                  setTimeout(function() {
+                    window.location.href = '/';
+                  }, 3000);
                 </script>
               {%- endif -%}
             {% endform %}
