@@ -147,6 +147,9 @@
                     {% render 'icon-success' -%}
                     {{- 'newsletter.success' | t }}
                   </h3>
+                <script>
+                  fbq('track', 'Lead');
+                </script>
                 {%- endif -%}
               {% endform %}
             </div>
