@@ -15,7 +15,7 @@
         "template--17990470107403__18971a55-c2ea-4215-a345-dc2081ec2f33-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Join the NEBULITE TRIBE",
+            "heading": "Subscribe for VIP Access",
             "heading_size": "hxl"
           }
         }
@@ -46,14 +46,14 @@
         "heading_UiTmLP": {
           "type": "heading",
           "settings": {
-            "heading": "And Enjoy 10% OFF",
+            "heading": "And Get a Chance to Win!",
             "heading_size": "h1"
           }
         },
         "paragraph_8BbwQV": {
           "type": "paragraph",
           "settings": {
-            "text": "<ul><li>Express your unique style<\/li><li>Durable, breathable materials<\/li><li>Perfect for any festival or event<\/li><\/ul><p><\/p><p><\/p><p>Sign up to our Newsletter for your sweet discount:<\/p><h5><\/h5>"
+            "text": "<p><\/p><p><\/p><p><\/p><p>Sign up to be the first in line for exclusive updates, insider perks and your shot   at winning our newest Crop Top & Skirt<\/p><h5><\/h5>"
           }
         },
         "email_form_yQ946Y": {
@@ -81,8 +81,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Nebulite_27.jpg",
-            "title": "Sync with the Music",
-            "text": "<p>Watch your tunes come alive with NEBULITE gear that syncs  to your favorite music.<\/p>",
+            "title": "Illuminate Your Look",
+            "text": "<p>Experience a unique glowing design that reacts to music, lighting up your style day or night.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -90,9 +90,9 @@
         "column_fYzG6w": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Instagram_Post_1080_x_1350_px_3.png",
+            "image": "shopify:\/\/shop_images\/Nebulite_36_Benutzerdefiniert_9d5a16f2-8cf6-4aca-8197-ed0f709a31f7.jpg",
             "title": "Customize Your Glow",
-            "text": "<p>Choose from endless color and pattern combinations to express your unique style.<\/p>",
+            "text": "<p>Choose from endless color and pattern combinations to express your one-of-a-kind style.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -100,9 +100,9 @@
         "column_6kKGqT": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Nebulite_36_Benutzerdefiniert.jpg",
-            "title": "Cozy and Durable",
-            "text": "<p>Our gear features breathable, lightweight materials to maintain comfort and coolness.<\/p>",
+            "image": "shopify:\/\/shop_images\/2_905e67d5-a0d7-4b81-8446-c178e31acdb3.png",
+            "title": "Effortless Comfort",
+            "text": "<p>Enjoy ultimate comfort with lightweight, breathable fabrics designed for all-day wear.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -110,9 +110,9 @@
         "column_WBhz6W": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tempImagekz9x4h.heic",
-            "title": "Versatile Fashion",
-            "text": "<p>Easily mix our products with your favorite fashion pieces for endless outfits.<\/p>",
+            "image": "shopify:\/\/shop_images\/Nebulite_45.jpg",
+            "title": "Versatile & Stylish",
+            "text": "<p>Easily pair with your favorite wardrobe pieces for a chic, standout look that’s uniquely yours.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -125,7 +125,7 @@
         "column_WBhz6W"
       ],
       "settings": {
-        "title": "Why NEBULITE GEAR?",
+        "title": "Why You'll Love Our Crop Top & Skirt",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
@@ -147,14 +147,14 @@
         "heading_tCjMKg": {
           "type": "heading",
           "settings": {
-            "heading": "Grab 10% OFF your next purchase.",
+            "heading": "Exclusive prizes and early access await",
             "heading_size": "h1"
           }
         },
         "paragraph_dL8b84": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Plus, get updates on new arrivals and special offers before anyone else. <\/p>"
+            "text": "<p>Join us and be the first to know about new releases, sweet discounts and giveaways.<\/p>"
           }
         },
         "email_form_RAd8xV": {
