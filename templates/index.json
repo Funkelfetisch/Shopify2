@@ -45,7 +45,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/L1006405-20.jpg",
+        "image": "shopify://shop_images/L1006405-20.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "bottom-center",
@@ -65,12 +65,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
+            "image": "shopify://shop_images/screenshot-header-black-friday-2019-1440x720.png",
             "heading": "DEAL#1 - 20% OFF all NEBULITE products",
             "heading_size": "h0",
             "subheading": "Valid only for the first 100 orders, until 27.11.2023",
             "button_label": "Use code \"black20\"!",
-            "link": "https:\/\/nebulite.berlin\/discount\/black20?redirect=%2Fcollections%2Fnebulite-collection",
+            "link": "https://nebulite.berlin/discount/black20?redirect=%2Fcollections%2Fnebulite-collection",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -84,12 +84,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
+            "image": "shopify://shop_images/screenshot-header-black-friday-2019-1440x720.png",
             "heading": "DEAL#2 - The perfect present!",
             "heading_size": "h0",
             "subheading": "Scroll down just a tiny bit for the perfect Christmas set, that will put your loved ones in awe!",
             "button_label": "Show meeee",
-            "link": "shopify:\/\/products\/exclusive-fanny-pack-christmas-set",
+            "link": "shopify://products/exclusive-fanny-pack-christmas-set",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -103,12 +103,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/screenshot-header-black-friday-2019-1440x720.png",
+            "image": "shopify://shop_images/screenshot-header-black-friday-2019-1440x720.png",
             "heading": "DEAL#3 - 50% OFF all B-Stock",
             "heading_size": "h0",
             "subheading": "Get your own unique piece from our B-Stock Sale. Find your best value deal quickly before someone else snatches it up! ",
             "button_label": "Use \"bstock50\" or click here!",
-            "link": "https:\/\/nebulite.berlin\/discount\/bstock50?redirect=%2Fcollections%2Fb-stock",
+            "link": "https://nebulite.berlin/discount/bstock50?redirect=%2Fcollections%2Fb-stock",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -121,12 +121,12 @@
         "31edffa2-885b-4960-85ae-0deb3ce6a314": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/P7262238-MarcJaspers-BetterCreativeBusiness_Benutzerdefiniert.jpg",
+            "image": "shopify://shop_images/P7262238-MarcJaspers-BetterCreativeBusiness_Benutzerdefiniert.jpg",
             "heading": "Fanny Pack 3",
             "heading_size": "h1",
             "subheading": "Is it the perfect product? Fuck yes!",
             "button_label": "Get yours!",
-            "link": "shopify:\/\/products\/nebulite-fanny-pack-3",
+            "link": "shopify://products/nebulite-fanny-pack-3",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -139,12 +139,12 @@
         "66bd7ff9-2545-454f-a7e8-4bcc2ef17392": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner2.jpg",
+            "image": "shopify://shop_images/banner2.jpg",
             "heading": "NEW: Vests",
             "heading_size": "h0",
             "subheading": "With our brand new Smart Controller!",
             "button_label": "Get it now!",
-            "link": "shopify:\/\/products\/nebulite®-vest",
+            "link": "shopify://products/nebulite®-vest",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -157,12 +157,12 @@
         "2e95e403-b19c-4482-8051-fd1cebcc22b6": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/P7231487-MarcJaspers-BetterCreativeBusiness.jpg",
+            "image": "shopify://shop_images/P7231487-MarcJaspers-BetterCreativeBusiness.jpg",
             "heading": "Updated: Drawstring Backpack 2",
             "heading_size": "h1",
             "subheading": "Innovation never stops - now with RGB drawstrings!",
             "button_label": "Order now!",
-            "link": "shopify:\/\/products\/nebulite-drawstring-backpack-fiber-optic-illuminated-festival-bag",
+            "link": "shopify://products/nebulite-drawstring-backpack-fiber-optic-illuminated-festival-bag",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -175,12 +175,12 @@
         "71400808-7127-4bdd-80bb-46a58bb39712": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite-kimono4306_72dpi_b0e600a8-ce1b-4d39-acfd-55285b64aac2.jpg",
-            "heading": "Kimo<strong>YES<\/strong>",
+            "image": "shopify://shop_images/nebulite-kimono4306_72dpi_b0e600a8-ce1b-4d39-acfd-55285b64aac2.jpg",
+            "heading": "Kimo<strong>YES</strong>",
             "heading_size": "h0",
             "subheading": "now >60% OFF!",
             "button_label": "Order now!",
-            "link": "shopify:\/\/products\/nebulite-kimono-kimoyes",
+            "link": "shopify://products/nebulite-kimono-kimoyes",
             "button_style_secondary": false,
             "box_align": "top-center",
             "show_text_box": false,
@@ -193,7 +193,7 @@
         "1652630879bc77801a-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner.jpg",
+            "image": "shopify://shop_images/Banner.jpg",
             "heading": "10 OFF% for subscribers",
             "heading_size": "h0",
             "subheading": "Be part of the family. Very non-spammy once a month!",
@@ -212,12 +212,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite__web_3-hori.jpg",
+            "image": "shopify://shop_images/nebulite__web_3-hori.jpg",
             "heading": "Have a ❤ for the imperfect",
             "heading_size": "h1",
             "subheading": "Order slightly damaged yet brand new bags for a fraction of the price",
             "button_label": "Take me to the B-Stock!",
-            "link": "shopify:\/\/collections\/b-stock",
+            "link": "shopify://collections/b-stock",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -231,12 +231,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC8679-Bearbeitet-2.jpg",
+            "image": "shopify://shop_images/DSC8679-Bearbeitet-2.jpg",
             "heading": "LUX",
             "heading_size": "h1",
             "subheading": "THE fur coat.",
             "button_label": "Pre-Order now!",
-            "link": "shopify:\/\/products\/nebulite-lux-led-light-up-faux-fur-coat",
+            "link": "shopify://products/nebulite-lux-led-light-up-faux-fur-coat",
             "button_style_secondary": false,
             "box_align": "middle-right",
             "show_text_box": false,
@@ -380,14 +380,14 @@
         "6c7a25c5-c3a9-4520-8fb1-51c4d4dafe7a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite__web19.jpg"
+            "image": "shopify://shop_images/nebulite__web19.jpg"
           }
         },
         "166440883198c2feb8-0": {
           "type": "video",
           "settings": {
-            "cover_image": "shopify:\/\/shop_images\/vlcsnap-2022-10-06-16h16m14s821.png",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=Nz2Ui1xyT7o",
+            "cover_image": "shopify://shop_images/vlcsnap-2022-10-06-16h16m14s821.png",
+            "video_url": "https://www.youtube.com/watch?v=Nz2Ui1xyT7o",
             "description": "NEBULITE Berlin - Fanny Pack 2+ Trailer 2022"
           }
         }
@@ -421,14 +421,14 @@
         "2a2b751e-21f7-446f-a0cc-8556b21f4ace": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite__web19.jpg"
+            "image": "shopify://shop_images/nebulite__web19.jpg"
           }
         },
         "template--16115040452875__51845a40-fa2c-4458-8b47-cb49d211f5e7-16763924582e73e54f-0": {
           "type": "video",
           "settings": {
-            "cover_image": "shopify:\/\/shop_images\/vlcsnap-2023-02-14-17h40m54s506.png",
-            "video_url": "https:\/\/youtu.be\/ucorFuBU7Vc",
+            "cover_image": "shopify://shop_images/vlcsnap-2023-02-14-17h40m54s506.png",
+            "video_url": "https://youtu.be/ucorFuBU7Vc",
             "description": "NEBULITE Berlin - Fanny Pack 2+ Trailer 2022 - UAE Edition"
           }
         }
@@ -563,7 +563,7 @@
           }
         },
         "2794645f-227a-44aa-809f-250e3062c528": {
-          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
+          "type": "shopify://apps/infinite-options/blocks/app-block/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
           "settings": {
           }
         },
@@ -637,13 +637,13 @@
         "template--16115040452875__c9a2678f-1aee-4d70-a5f3-a3ca41b18085-168719456183c8e5ff-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC8914-Bearbeitet_7cba1338-f35a-4cc3-a860-4f8d0f424490.jpg"
+            "image": "shopify://shop_images/DSC8914-Bearbeitet_7cba1338-f35a-4cc3-a860-4f8d0f424490.jpg"
           }
         },
         "ffe9669b-3c67-4d85-b66a-c5978bb78191": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC9364.jpg"
+            "image": "shopify://shop_images/DSC9364.jpg"
           }
         },
         "template--16115040452875__c9a2678f-1aee-4d70-a5f3-a3ca41b18085-168719456183c8e5ff-1": {
@@ -758,15 +758,15 @@
         "video": {
           "type": "video",
           "settings": {
-            "cover_image": "shopify:\/\/shop_images\/DSC9031.jpg",
-            "video_url": "https:\/\/youtu.be\/Fbq0MB2sbhk?vq=hd1080",
+            "cover_image": "shopify://shop_images/DSC9031.jpg",
+            "video_url": "https://youtu.be/Fbq0MB2sbhk?vq=hd1080",
             "description": "Our model wearing the new crop top, daning in front of lasers and water."
           }
         },
         "3d2e3f29-0e2f-437f-8f3c-8cfdeeb9d6ab": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Katzengold_X_Nebulite_instashots-5.webp"
+            "image": "shopify://shop_images/Katzengold_X_Nebulite_instashots-5.webp"
           }
         },
         "product": {
@@ -799,8 +799,8 @@
         "video_gaDJQK": {
           "type": "video",
           "settings": {
-            "cover_image": "shopify:\/\/shop_images\/vlcsnap-2024-08-03-01h16m46s784.png",
-            "video_url": "https:\/\/youtube.com\/watch?v=BPIPbjpc0CA",
+            "cover_image": "shopify://shop_images/vlcsnap-2024-08-03-01h16m46s784.png",
+            "video_url": "https://youtube.com/watch?v=BPIPbjpc0CA",
             "description": "Describe the video"
           }
         },
@@ -814,7 +814,7 @@
         "6552699c-cc37-40f4-81c8-130cd95c59d4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nebulite-kimono4180_72dpi.jpg"
+            "image": "shopify://shop_images/nebulite-kimono4180_72dpi.jpg"
           }
         }
       },
@@ -841,7 +841,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
           }
@@ -850,7 +850,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
           }
@@ -1083,7 +1083,7 @@
         "heading": "NEBULITE Events",
         "heading_size": "h1",
         "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/1000034545.mp4",
+        "video": "shopify://files/videos/1000034545.mp4",
         "video_url": "",
         "description": "",
         "full_width": true,
@@ -1096,7 +1096,7 @@
       "type": "apps",
       "blocks": {
         "ddead0b3-d9d5-4882-8acb-dcce262e1d9d": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "title": "",
             "title_color": "",
@@ -1120,8 +1120,8 @@
         "heading": "NEBULITE Festival Trailer 2021",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=a44_OWQS-zg",
-        "cover_image": "shopify:\/\/shop_images\/L1006121d_Large_06e2450e-0658-4bb5-bb1e-f79f7b61a337.jpg",
+        "video_url": "https://www.youtube.com/watch?v=a44_OWQS-zg",
+        "cover_image": "shopify://shop_images/L1006121d_Large_06e2450e-0658-4bb5-bb1e-f79f7b61a337.jpg",
         "description": "NEBULITE Festival Trailer 2021",
         "full_width": false,
         "color_scheme": "background-1",
@@ -1207,12 +1207,82 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_product_e7y8q3": {
+      "type": "featured-product",
+      "blocks": {
+        "text_KkWJ9N": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_pmCnf6": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_chgPKA": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_naxy4E": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_bNEWTm": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_zicfhe": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share_K4h936": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_KkWJ9N",
+        "title_pmCnf6",
+        "price_chgPKA",
+        "variant_picker_naxy4E",
+        "quantity_selector_bNEWTm",
+        "buy_buttons_zicfhe",
+        "share_K4h936"
+      ],
+      "settings": {
+        "product": "nebulite-t-shirt",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "16526308803d67e56f",
     "featured_products",
+    "featured_product_e7y8q3",
     "b90ae1af-3bde-4379-93d3-c38b9512d2a0",
     "166440883166a7b061",
     "51845a40-fa2c-4458-8b47-cb49d211f5e7",
