@@ -303,6 +303,7 @@
       "blocks": {
         "text_KkWJ9N": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ section.settings.product.vendor }}",
             "text_style": "uppercase"
@@ -372,6 +373,7 @@
       "blocks": {
         "template--16115040452875__b90ae1af-3bde-4379-93d3-c38b9512d2a0-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ section.settings.product.vendor }}",
             "text_style": "uppercase"
