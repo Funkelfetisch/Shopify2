@@ -53,7 +53,7 @@
         "paragraph_8BbwQV": {
           "type": "paragraph",
           "settings": {
-            "text": "<p><\/p><p><\/p><p><\/p><p>Sign up to be the first in line for exclusive updates, insider perks and your shot   at winning our newest Crop Top & Skirt<\/p><h5><\/h5>"
+            "text": "<p></p><p></p><p></p><p>Sign up now for your chance to win our Crop Top and/or Skirt and unlock exclusive access to new releases and offers! </p><h5></h5>"
           }
         },
         "email_form_yQ946Y": {
@@ -80,9 +80,9 @@
         "column_MmMLP8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Nebulite_27.jpg",
+            "image": "shopify://shop_images/Nebulite_27.jpg",
             "title": "Illuminate Your Look",
-            "text": "<p>Experience a unique glowing design that reacts to music, lighting up your style day or night.<\/p>",
+            "text": "<p>Experience a glowing design that reacts to music, lighting up your style day or night.</p>",
             "link_label": "",
             "link": ""
           }
@@ -90,19 +90,9 @@
         "column_fYzG6w": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Nebulite_36_Benutzerdefiniert_9d5a16f2-8cf6-4aca-8197-ed0f709a31f7.jpg",
+            "image": "shopify://shop_images/Nebulite_36_Benutzerdefiniert_9d5a16f2-8cf6-4aca-8197-ed0f709a31f7.jpg",
             "title": "Customize Your Glow",
-            "text": "<p>Choose from endless color and pattern combinations to express your one-of-a-kind style.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_6kKGqT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_905e67d5-a0d7-4b81-8446-c178e31acdb3.png",
-            "title": "Effortless Comfort",
-            "text": "<p>Enjoy ultimate comfort with lightweight, breathable fabrics designed for all-day wear.<\/p>",
+            "text": "<p>Choose from endless color and pattern combinations to express your unique style.</p>",
             "link_label": "",
             "link": ""
           }
@@ -110,9 +100,19 @@
         "column_WBhz6W": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Nebulite_45.jpg",
-            "title": "Versatile & Stylish",
-            "text": "<p>Easily pair with your favorite wardrobe pieces for a chic, standout look that’s uniquely yours.<\/p>",
+            "image": "shopify://shop_images/Nebulite_45.jpg",
+            "title": "Versatile Style",
+            "text": "<p>Easily pair with your favorite  wardorbe pieces for a standout look that’s uniquely yours.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6kKGqT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2_905e67d5-a0d7-4b81-8446-c178e31acdb3.png",
+            "title": "Effortless Comfort",
+            "text": "<p>Enjoy ultimate comfort with lightweight, breathable fabrics that move with you.</p>",
             "link_label": "",
             "link": ""
           }
@@ -121,8 +121,8 @@
       "block_order": [
         "column_MmMLP8",
         "column_fYzG6w",
-        "column_6kKGqT",
-        "column_WBhz6W"
+        "column_WBhz6W",
+        "column_6kKGqT"
       ],
       "settings": {
         "title": "Why You'll Love Our Crop Top & Skirt",
@@ -133,7 +133,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
-        "button_link": "shopify:\/\/collections",
+        "button_link": "shopify://collections",
         "color_scheme": "background-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
@@ -147,14 +147,14 @@
         "heading_tCjMKg": {
           "type": "heading",
           "settings": {
-            "heading": "Exclusive prizes and early access await",
+            "heading": "Exclusive updates and early access await",
             "heading_size": "h1"
           }
         },
         "paragraph_dL8b84": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Join us and be the first to know about new releases, sweet discounts and giveaways.<\/p>"
+            "text": "<p>Join us and be the first to know about new releases, sweet discounts and giveaways.</p>"
           }
         },
         "email_form_RAd8xV": {
@@ -181,7 +181,7 @@
         "text_zi3GrA": {
           "type": "text",
           "settings": {
-            "text": "<p>By signing up, You agree to receive emails about NEBULITE’s products, services and exclusive offers. Your data is protected under GDPR (EU)  2016\/679. You can opt-out anytime via the \"Unsubscribe\" link in our emails.<\/p>"
+            "text": "<p>By signing up, You agree to receive emails about NEBULITE’s products, services and exclusive offers. Your data is protected under GDPR (EU)  2016/679. You can opt-out anytime via the \"Unsubscribe\" link in our emails.</p>"
           }
         }
       },
@@ -200,13 +200,13 @@
     "slideshow_TbgCQq": {
       "type": "slideshow",
       "blocks": {
-        "slide_73UbMT": {
+        "slide_WUQDVb": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/edit_13.jpg",
+            "image": "shopify://shop_images/Instagram_Post_1080_x_1350_px_5.png",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "<em>\"My Nebulite Fanny Pack is my festival must-have. It fits everything I need and looks great too!\" - Emma<\/em>",
+            "subheading": "<em>\"Wearing Nebulite’s Crop Top at Ikarus Festival was amazing! So many people complimented me.\" - Sarah</em>",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -221,10 +221,10 @@
         "slide_7WXyGX": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Instagram_Post_1080_x_1350_px_7.png",
-            "heading": "Here's What Our NEBULITE Fam Says:",
+            "image": "shopify://shop_images/Instagram_Post_1080_x_1350_px_7.png",
+            "heading": "",
             "heading_size": "h2",
-            "subheading": "<em>\"The perfect blend of style and comfort for festival season.\" - Marc<\/em>",
+            "subheading": "<em>\"The perfect blend of style and comfort for festival season.\" - Marc</em>",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -236,13 +236,13 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_WUQDVb": {
+        "slide_73UbMT": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Instagram_Post_1080_x_1350_px_5.png",
+            "image": "shopify://shop_images/edit_13.jpg",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "<em>\"Wearing Nebulite’s Crop Top at Ikarus Festival was amazing! So many people complimented me.\" - Sarah<\/em>",
+            "subheading": "<em>\"My Nebulite Fanny Pack is my festival must-have. It fits everything I need and looks great too!\" - Emma</em>",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -256,9 +256,9 @@
         }
       },
       "block_order": [
-        "slide_73UbMT",
+        "slide_WUQDVb",
         "slide_7WXyGX",
-        "slide_WUQDVb"
+        "slide_73UbMT"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -280,7 +280,7 @@
     "custom_liquid_HaDmzp": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\nheader {\n  display: none !important;\n}\n<\/style>",
+        "custom_liquid": "<style>\nheader {\n  display: none !important;\n}\n</style>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
