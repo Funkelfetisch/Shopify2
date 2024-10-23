@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -92,6 +92,7 @@
         },
         "d65558f3-e7f1-415e-84c6-27b7087286f6": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "CREW PACKAGES: Make your festival crew stand out from the crowd with these awesome bundles. Click here to see our coupon codes!",
             "icon": "box",
