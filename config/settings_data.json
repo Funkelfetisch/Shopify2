@@ -1,17 +1,17 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/transparent_weiss_beschnitten_9529d969-f6e3-41d6-94e0-cd34cf4eef4b.png",
+    "logo": "shopify://shop_images/transparent_weiss_beschnitten_9529d969-f6e3-41d6-94e0-cd34cf4eef4b.png",
     "logo_width": 200,
-    "favicon": "shopify:\/\/shop_images\/on_blackxxhdpi.png",
+    "favicon": "shopify://shop_images/on_blackxxhdpi.png",
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#5c53af",
     "gradient_accent_1": "radial-gradient(rgba(127, 115, 245, 1) 51%, rgba(88, 79, 173, 1) 77%)",
@@ -118,9 +118,9 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "social_facebook_link": "https:\/\/www.facebook.com\/NEBULITEcollection",
-    "social_instagram_link": "https:\/\/www.instagram.com\/nebulite.berlin\/",
-    "social_youtube_link": "https:\/\/www.youtube.com\/c\/NEBULITE_Berlin",
+    "social_facebook_link": "https://www.facebook.com/NEBULITEcollection",
+    "social_instagram_link": "https://www.instagram.com/nebulite.berlin/",
+    "social_youtube_link": "https://www.youtube.com/c/NEBULITE_Berlin",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
@@ -129,8 +129,8 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "nebulite-collection",
-    "checkout_header_image": "shopify:\/\/shop_images\/vlcsnap-2019-01-27-20h36m22s691_ac2362db-9f52-4bf1-9b7c-b888b04bd323.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/transparent_weiss_beschnitten_5863da66-9e33-440c-a137-b0652300825b.png",
+    "checkout_header_image": "shopify://shop_images/vlcsnap-2019-01-27-20h36m22s691_ac2362db-9f52-4bf1-9b7c-b888b04bd323.png",
+    "checkout_logo_image": "shopify://shop_images/transparent_weiss_beschnitten_5863da66-9e33-440c-a137-b0652300825b.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#000000",
@@ -242,21 +242,9 @@
     ],
     "blocks": {
       "1513253815146976218": {
-        "type": "shopify:\/\/apps\/omnisend-email-marketing-sms\/blocks\/app-embed\/44704aa2-794f-4c5d-8c8e-039c841158e9",
+        "type": "shopify://apps/omnisend-email-marketing-sms/blocks/app-embed/44704aa2-794f-4c5d-8c8e-039c841158e9",
         "disabled": true,
         "settings": {
-        }
-      },
-      "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
-        "disabled": true,
-        "settings": {
-          "button_color": "#7f73f5",
-          "button_icon": "chat_bubble",
-          "button_text": "no_text",
-          "button_horizontal_position": "bottom_right",
-          "button_vertical_position": "lowest",
-          "greeting_message": "👋 You can chat with us in English!\n---\n👋 Du kannst mit uns auf Deutsch schreiben!"
         }
       }
     }
