@@ -145,7 +145,7 @@
           "settings": {
             "image": "shopify://shop_images/Nebulite_27.jpg",
             "title": "Exclusively Unique",
-            "text": "<p>Once featured at an exclusive Tokyo event—now available for you.</p>",
+            "text": "<p>Stand out with a kimono that has its own story. Carefully refurbished, each piece brings character to your wardrobe.</p>",
             "link_label": "",
             "link": ""
           }
@@ -154,8 +154,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Nebulite_36_Benutzerdefiniert_9d5a16f2-8cf6-4aca-8197-ed0f709a31f7.jpg",
-            "title": "Customize Your Glow",
-            "text": "<p>Choose from endless color and pattern combinations to express your unique style.</p>",
+            "title": "Exquisite Craft",
+            "text": "<p>Enjoy meticulous craftsmanship. These one-of-a-kind kimonos are refurbished to shine in any setting.</p>",
             "link_label": "",
             "link": ""
           }
@@ -164,8 +164,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Nebulite_45.jpg",
-            "title": "Versatile Style",
-            "text": "<p>Easily pair with your favorite  wardorbe pieces for a standout look that’s uniquely yours.</p>",
+            "title": "Wearable Art",
+            "text": "<p>Each kimono is a masterpiece, crafted to be both stylish and timeless. Own a piece with a story.</p>",
             "link_label": "",
             "link": ""
           }
@@ -175,7 +175,7 @@
           "settings": {
             "image": "shopify://shop_images/2_905e67d5-a0d7-4b81-8446-c178e31acdb3.png",
             "title": "Limited Edition",
-            "text": "<p>Only 26 pieces available — each with a story, ready to be part of yours.</p>",
+            "text": "<p>Only 26 available! Own a rare kimono that was part of an exclusive Tokyo event, now ready for a new journey.</p>",
             "link_label": "",
             "link": ""
           }
@@ -219,17 +219,11 @@
           "settings": {
             "text": "<p>Join us and be the first to know about new releases, sweet discounts and giveaways.</p>"
           }
-        },
-        "email_form_RAd8xV": {
-          "type": "email_form",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "heading_tCjMKg",
-        "paragraph_dL8b84",
-        "email_form_RAd8xV"
+        "paragraph_dL8b84"
       ],
       "settings": {
         "color_scheme": "background-1",
