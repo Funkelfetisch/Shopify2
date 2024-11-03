@@ -260,78 +260,18 @@
         "padding_bottom": 52
       }
     },
-    "slideshow_TbgCQq": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_WUQDVb": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Instagram_Post_1080_x_1350_px_5.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "<em>\"Wearing Nebulite’s Crop Top at Ikarus Festival was amazing! So many people complimented me.\" - Sarah</em>",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_7WXyGX": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Instagram_Post_1080_x_1350_px_7.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "<em>\"The perfect blend of style and comfort for festival season.\" - Marc</em>",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_73UbMT": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/edit_13.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "<em>\"My Nebulite Fanny Pack is my festival must-have. It fits everything I need and looks great too!\" - Emma</em>",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_WUQDVb",
-        "slide_7WXyGX",
-        "slide_73UbMT"
-      ],
+    "video_a3cwew": {
+      "type": "video",
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "17182901336f32eac0": {
@@ -358,7 +298,7 @@
     "multicolumn_4y6pyg",
     "newsletter_3h6qgk",
     "rich_text_knWAQU",
-    "slideshow_TbgCQq",
+    "video_a3cwew",
     "17182901336f32eac0",
     "custom_liquid_HaDmzp"
   ]
