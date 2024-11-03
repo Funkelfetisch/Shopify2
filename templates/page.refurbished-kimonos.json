@@ -144,8 +144,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Nebulite_27.jpg",
-            "title": "Illuminate Your Look",
-            "text": "<p>Experience a glowing design that reacts to music, lighting up your style day or night.</p>",
+            "title": "Exclusively Unique",
+            "text": "<p>Once featured at an exclusive Tokyo event—now available for you.</p>",
             "link_label": "",
             "link": ""
           }
@@ -174,8 +174,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/2_905e67d5-a0d7-4b81-8446-c178e31acdb3.png",
-            "title": "Effortless Comfort",
-            "text": "<p>Enjoy ultimate comfort with lightweight, breathable fabrics that move with you.</p>",
+            "title": "Limited Edition",
+            "text": "<p>Only 26 pieces available — each with a story, ready to be part of yours.</p>",
             "link_label": "",
             "link": ""
           }
