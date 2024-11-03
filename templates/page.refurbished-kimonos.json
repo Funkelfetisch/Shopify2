@@ -55,23 +55,86 @@
           "settings": {
             "text": "<p></p><p></p><p></p><p>Once Worn, Carefully Refurbished – Grab One of Only 26 Kimonos Straight from Tokyo</p><h5></h5>"
           }
-        },
-        "email_form_yQ946Y": {
-          "type": "email_form",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "heading_UiTmLP",
-        "paragraph_8BbwQV",
-        "email_form_yQ946Y"
+        "paragraph_8BbwQV"
       ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "featured_product_9pEEtN": {
+      "type": "featured-product",
+      "blocks": {
+        "text_M3wYWr": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_bdypJz": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_ebKAGW": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_a6XRMY": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_YEqU7Y": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_bmYqtw": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share_xXbwUM": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_M3wYWr",
+        "title_bdypJz",
+        "price_ebKAGW",
+        "variant_picker_a6XRMY",
+        "quantity_selector_YEqU7Y",
+        "buy_buttons_bmYqtw",
+        "share_xXbwUM"
+      ],
+      "settings": {
+        "product": "",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_4y6pyg": {
@@ -125,7 +188,7 @@
         "column_6kKGqT"
       ],
       "settings": {
-        "title": "Why You'll Love Our Crop Top & Skirt",
+        "title": "Why Choose Our Refurbished Kimonos?",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
@@ -291,6 +354,7 @@
     "18971a55-c2ea-4215-a345-dc2081ec2f33",
     "main",
     "newsletter_DhmAeJ",
+    "featured_product_9pEEtN",
     "multicolumn_4y6pyg",
     "newsletter_3h6qgk",
     "rich_text_knWAQU",
