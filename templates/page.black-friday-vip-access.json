@@ -81,7 +81,7 @@
           "settings": {
             "image": "shopify://shop_images/Nebulite_39.jpg",
             "title": "Be the First",
-            "text": "<p>VIPs get early Black Friday access.</p>",
+            "text": "<p>VIPs get early Black Friday access</p>",
             "link_label": "",
             "link": ""
           }
@@ -91,7 +91,7 @@
           "settings": {
             "image": "shopify://shop_images/Nebulite_36_Benutzerdefiniert_9d5a16f2-8cf6-4aca-8197-ed0f709a31f7.jpg",
             "title": "Special Gift",
-            "text": "<p>A special surprise is waiting exclusively for You!</p>",
+            "text": "<p>A special surprise is waiting for You</p>",
             "link_label": "",
             "link": ""
           }
@@ -101,7 +101,7 @@
           "settings": {
             "image": "shopify://shop_images/Nebulite_45.jpg",
             "title": "Extra Savings",
-            "text": "<p>Special savings await on the looks you love</p>",
+            "text": "<p>Special savings await on Top</p>",
             "link_label": "",
             "link": ""
           }
@@ -109,9 +109,9 @@
         "column_6kKGqT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/2_905e67d5-a0d7-4b81-8446-c178e31acdb3.png",
+            "image": "shopify://shop_images/DSC2789.jpg",
             "title": "Limited Stock",
-            "text": "<p>Limited stock reserved for you  to discover early</p>",
+            "text": "<p>Limited stock reserved for VIPs</p>",
             "link_label": "",
             "link": ""
           }
@@ -146,14 +146,14 @@
         "heading_tCjMKg": {
           "type": "heading",
           "settings": {
-            "heading": "Get ready for Exclusive Access",
+            "heading": "Ready for Insider Perks?",
             "heading_size": "h1"
           }
         },
         "paragraph_dL8b84": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Join us and be the first to know about new releases, sweet discounts and giveaways.</p>"
+            "text": "<p>Sign up now to be the first to know about our latest releases and VIP-only deals.</p>"
           }
         },
         "email_form_RAd8xV": {
