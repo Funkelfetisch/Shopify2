@@ -183,8 +183,7 @@
           "126785e8-b91d-44aa-9b6c-27f9f7c012e5",
           "90821de9-ffd9-465e-85af-bedbdcbda47a"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
@@ -237,15 +236,17 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "1513253815146976218": {
         "type": "shopify://apps/omnisend-email-marketing-sms/blocks/app-embed/44704aa2-794f-4c5d-8c8e-039c841158e9",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
+      },
+      "14724428607702905366": {
+        "type": "shopify://apps/webrex-seo-optimizer/blocks/webrexSeoEmbed/b26797ad-bb4d-48f5-8ef3-7c561521049c",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
@@ -405,8 +406,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -469,8 +469,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-
-    ]
+    "custom_css": []
   }
 }
