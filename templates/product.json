@@ -22,8 +22,7 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "share": {
           "type": "share",
@@ -47,8 +46,7 @@
         "price": {
           "type": "price",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "9f4185fa-9cbf-4fb0-b6ff-4d915a47fe97": {
           "type": "shopify://apps/infinite-options/blocks/app-block-price/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
@@ -75,13 +73,15 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "7913d93c-2ae4-4915-908c-1bb988c505a1": {
           "type": "shopify://apps/infinite-options/blocks/app-block/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
-          "settings": {
-          }
+          "settings": {}
+        },
+        "urgency_all_in_one_fomo_app_quantity_bar_block_EwXN6r": {
+          "type": "shopify://apps/urgency-all-in-one-fomo-app/blocks/quantity-bar-block/9f1fd920-d273-490f-83fe-0f8188671817",
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -89,6 +89,10 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
+        },
+        "urgency_all_in_one_fomo_app_delivery_timer_block_3ciTA4": {
+          "type": "shopify://apps/urgency-all-in-one-fomo-app/blocks/delivery-timer-block/9f1fd920-d273-490f-83fe-0f8188671817",
+          "settings": {}
         },
         "d65558f3-e7f1-415e-84c6-27b7087286f6": {
           "type": "collapsible_tab",
@@ -102,8 +106,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -118,7 +121,9 @@
         "variant_picker",
         "quantity_selector",
         "7913d93c-2ae4-4915-908c-1bb988c505a1",
+        "urgency_all_in_one_fomo_app_quantity_bar_block_EwXN6r",
         "buy_buttons",
+        "urgency_all_in_one_fomo_app_delivery_timer_block_3ciTA4",
         "d65558f3-e7f1-415e-84c6-27b7087286f6",
         "description"
       ],
