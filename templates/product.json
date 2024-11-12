@@ -79,20 +79,12 @@
           "type": "shopify://apps/infinite-options/blocks/app-block/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
           "settings": {}
         },
-        "urgency_all_in_one_fomo_app_quantity_bar_block_EwXN6r": {
-          "type": "shopify://apps/urgency-all-in-one-fomo-app/blocks/quantity-bar-block/9f1fd920-d273-490f-83fe-0f8188671817",
-          "settings": {}
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
-        },
-        "urgency_all_in_one_fomo_app_delivery_timer_block_3ciTA4": {
-          "type": "shopify://apps/urgency-all-in-one-fomo-app/blocks/delivery-timer-block/9f1fd920-d273-490f-83fe-0f8188671817",
-          "settings": {}
         },
         "d65558f3-e7f1-415e-84c6-27b7087286f6": {
           "type": "collapsible_tab",
@@ -121,15 +113,13 @@
         "variant_picker",
         "quantity_selector",
         "7913d93c-2ae4-4915-908c-1bb988c505a1",
-        "urgency_all_in_one_fomo_app_quantity_bar_block_EwXN6r",
         "buy_buttons",
-        "urgency_all_in_one_fomo_app_delivery_timer_block_3ciTA4",
         "d65558f3-e7f1-415e-84c6-27b7087286f6",
         "description"
       ],
       "settings": {
         "enable_sticky_info": false,
-        "media_size": "large",
+        "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "thumbnail",
