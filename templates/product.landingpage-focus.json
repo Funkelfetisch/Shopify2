@@ -1,9 +1,18 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "f85aa9fb-5a9b-4e44-8550-3f901438b7ba": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\nheader {\n  display: none !important;\n}\n#ProductSubmitButton-template--17930137960715__main {\n \/\/ display: none !important;\n}\n.shopify-payment-button__button, .shopify-payment-button__more-options {\n  display: none !important;\n}\n.product-form__submit {\n  min-height: 6.6rem !important;\n  scale: 1.2;\n  background-color: rgb(127, 115, 245);\n\n}\n.shopify-payment-button__more-options {\n  font-size: 1.6rem !important;\n}\n<\/style>",
+        "custom_liquid": "<style>\nheader {\n  display: none !important;\n}\n#ProductSubmitButton-template--17930137960715__main {\n // display: none !important;\n}\n.shopify-payment-button__button, .shopify-payment-button__more-options {\n  display: none !important;\n}\n.product-form__submit {\n  min-height: 6.6rem !important;\n  scale: 1.2;\n  background-color: rgb(127, 115, 245);\n\n}\n.shopify-payment-button__more-options {\n  font-size: 1.6rem !important;\n}\n</style>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -22,8 +31,7 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "share": {
           "type": "share",
@@ -32,9 +40,9 @@
           }
         },
         "0cc587d7-9fbc-4ff9-9a11-1abc8fe9c981": {
-          "type": "shopify:\/\/apps\/product-reviews-with-photo-pro\/blocks\/average-rating\/5c74945a-3298-4051-9c10-33ec1194d6b6",
+          "type": "shopify://apps/product-reviews-with-photo-pro/blocks/average-rating/5c74945a-3298-4051-9c10-33ec1194d6b6",
           "settings": {
-            "product": "nebulite-fanny-pack-3"
+            "product": "nebulite-fanny-pack-4"
           }
         },
         "subtitle": {
@@ -47,16 +55,7 @@
         "price": {
           "type": "price",
           "disabled": true,
-          "settings": {
-          }
-        },
-        "9f4185fa-9cbf-4fb0-b6ff-4d915a47fe97": {
-          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block-price\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
-          "settings": {
-            "color": "#ffffff",
-            "font": "Raleway, sans-serif",
-            "font_size": "18px"
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -66,18 +65,12 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "7913d93c-2ae4-4915-908c-1bb988c505a1": {
-          "type": "shopify:\/\/apps\/infinite-options\/blocks\/app-block\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
-          "settings": {
-          }
+          "settings": {}
         },
         "1b7eeb24-bc65-4da3-977e-36e7a30bceaa": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{%- form 'product',\n        product,\n        id: product_form_id,\n        class: 'form',\n        novalidate: 'novalidate',\n        data-type: 'add-to-cart-form'\n      -%}\n        <input\n          type=\"hidden\"\n          name=\"id\"\n          value=\"{{ product.selected_or_first_available_variant.id }}\"\n          disabled\n          class=\"product-variant-id\"\n        >\n\n        {%- if gift_card_recipient_feature_active -%}\n          {%- render 'gift-card-recipient-form', product: product, form: form, section: section -%}\n        {%- endif -%}\n\n        <div class=\"product-form__buttons\">\n          {%- liquid\n            assign check_against_inventory = true\n            if product.selected_or_first_available_variant.inventory_management != 'shopify' or  product.selected_or_first_available_variant.inventory_policy == 'continue'\n              assign check_against_inventory = false\n            endif\n            if product.selected_or_first_available_variant.quantity_rule.min > product.selected_or_first_available_variant.inventory_quantity and check_against_inventory\n              assign quantity_rule_soldout = true\n            endif\n          -%}\n          <button\n            id = \"ProductSubmitButton-{{ section_id }}\"\n            type=\"submit\"\n            name=\"add\"\n            class=\"product-form__submit button button--full-width {% if show_dynamic_checkout %}button--secondary{% else %}button--primary{% endif %}\"\n            {% if product.selected_or_first_available_variant.available == false or quantity_rule_soldout %}\n              disabled\n            {% endif %}\n          >\n            <span>\n              {%- if product.selected_or_first_available_variant.available == false or quantity_rule_soldout -%}\n                {{ 'products.product.sold_out' | t }}\n              {%- else -%}\n                Buy now!\n              {%- endif -%}\n            <\/span>\n            <div class=\"loading-overlay__spinner hidden\">\n              <svg\n                aria-hidden=\"true\"\n                focusable=\"false\"\n                class=\"spinner\"\n                viewBox=\"0 0 66 66\"\n                xmlns=\"http:\/\/www.w3.org\/2000\/svg\"\n              >\n                <circle class=\"path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"><\/circle>\n              <\/svg>\n            <\/div>\n          <\/button>\n            {{ form | payment_button }}\n        <\/div>\n      {%- endform -%}"
+            "custom_liquid": "{%- form 'product',\n        product,\n        id: product_form_id,\n        class: 'form',\n        novalidate: 'novalidate',\n        data-type: 'add-to-cart-form'\n      -%}\n        <input\n          type=\"hidden\"\n          name=\"id\"\n          value=\"{{ product.selected_or_first_available_variant.id }}\"\n          disabled\n          class=\"product-variant-id\"\n        >\n\n        {%- if gift_card_recipient_feature_active -%}\n          {%- render 'gift-card-recipient-form', product: product, form: form, section: section -%}\n        {%- endif -%}\n\n        <div class=\"product-form__buttons\">\n          {%- liquid\n            assign check_against_inventory = true\n            if product.selected_or_first_available_variant.inventory_management != 'shopify' or  product.selected_or_first_available_variant.inventory_policy == 'continue'\n              assign check_against_inventory = false\n            endif\n            if product.selected_or_first_available_variant.quantity_rule.min > product.selected_or_first_available_variant.inventory_quantity and check_against_inventory\n              assign quantity_rule_soldout = true\n            endif\n          -%}\n          <button\n            id = \"ProductSubmitButton-{{ section_id }}\"\n            type=\"submit\"\n            name=\"add\"\n            class=\"product-form__submit button button--full-width {% if show_dynamic_checkout %}button--secondary{% else %}button--primary{% endif %}\"\n            {% if product.selected_or_first_available_variant.available == false or quantity_rule_soldout %}\n              disabled\n            {% endif %}\n          >\n            <span>\n              {%- if product.selected_or_first_available_variant.available == false or quantity_rule_soldout -%}\n                {{ 'products.product.sold_out' | t }}\n              {%- else -%}\n                Buy now!\n              {%- endif -%}\n            </span>\n            <div class=\"loading-overlay__spinner hidden\">\n              <svg\n                aria-hidden=\"true\"\n                focusable=\"false\"\n                class=\"spinner\"\n                viewBox=\"0 0 66 66\"\n                xmlns=\"http://www.w3.org/2000/svg\"\n              >\n                <circle class=\"path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"></circle>\n              </svg>\n            </div>\n          </button>\n            {{ form | payment_button }}\n        </div>\n      {%- endform -%}"
           }
         },
         "buy_buttons": {
@@ -106,8 +99,7 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -117,10 +109,8 @@
         "0cc587d7-9fbc-4ff9-9a11-1abc8fe9c981",
         "subtitle",
         "price",
-        "9f4185fa-9cbf-4fb0-b6ff-4d915a47fe97",
         "variant_picker",
         "quantity_selector",
-        "7913d93c-2ae4-4915-908c-1bb988c505a1",
         "1b7eeb24-bc65-4da3-977e-36e7a30bceaa",
         "buy_buttons",
         "97f2715a-d1fc-46be-8f3c-dd189afe20ef",
@@ -152,9 +142,9 @@
       "type": "apps",
       "blocks": {
         "12736b1a-f7de-4024-b7cb-d605346f5d41": {
-          "type": "shopify:\/\/apps\/product-reviews-with-photo-pro\/blocks\/product-reviews\/5c74945a-3298-4051-9c10-33ec1194d6b6",
+          "type": "shopify://apps/product-reviews-with-photo-pro/blocks/product-reviews/5c74945a-3298-4051-9c10-33ec1194d6b6",
           "settings": {
-            "product": "nebulite-fanny-pack-3"
+            "product": "nebulite-fanny-pack-4"
           }
         }
       },
